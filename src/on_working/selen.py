@@ -88,6 +88,14 @@ actions = ActionChains(wd)
 
 wd.get("https://www.kialo.com/pro-life-vs-pro-choice-should-abortion-be-legal-5637?closeSidebar=notifications.activity")
 
+# Close cookies dialog
+time.sleep(5)
+WebDriverWait(wd, 2000).until(
+    EC.element_to_be_clickable((By.CLASS_NAME, 'toast-template__close-icon'))
+)
+wd.find_element_by_class_name('toast-template__close-icon').click()
+
+
 main_claim = wd.find_element_by_class_name('selected-claim').text
 WebDriverWait(wd, 2000).until(
     EC.element_to_be_clickable((By.CLASS_NAME, 'claim-controls__control-item--menu-button'))
