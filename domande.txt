@@ -1,0 +1,2 @@
+come dare importanza al numero di voti
+scelta del regressore
