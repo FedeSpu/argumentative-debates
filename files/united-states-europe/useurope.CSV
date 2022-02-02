@@ -1,0 +1,574 @@
+;Level;Stance;Claim;Votes;Comments;Depth
+0;1;None;The European Union should become a United States of Europe.;['69', '17', '13', '33', '248'];;0
+1;1.1;pro;The USE will govern more effectively and efficiently than the EU.;['35', '7', '13', '27', '95']; 9;1
+2;1.1.1;pro;European heads of state are heavily conflicted between their electoral interest at home and what is good for Europe. The USE would eliminate this problem.;['0', '2', '0', '1', '11']; 2;2
+3;1.1.1.1;pro;Italian leaders promised to pass a budget that was in conflict with EU rules.;['0', '0', '0', '0', '1']; ;3
+4;1.1.1.2;pro;Currently, if EU member states disagree over policy, the EU becomes deadlocked. In a USE, political parties would simply coalesce around similar policy platforms and compete for votes, enabling the USE to move forward on all policy fronts.;['0', '0', '0', '1', '3']; 4;3
+5;1.1.1.2.1;pro;Politicians from the Northern League in Italy, the National Front in France, and the Law and Justice Party in Poland have already been forming alliances on a European level.;['0', '0', '0', '0', '0']; ;4
+6;1.1.1.2.2;pro;There are multiple political parties in the European Parliament. These could provide the foundation for political coalitions in the new USE.;['0', '0', '0', '0', '0']; ;4
+7;1.1.1.2.2.1;pro;Most of these European parties align with national political parties of member states, allowing for an easy transition from an EU to a USE.;['0', '0', '0', '0', '0']; ;5
+8;1.1.1.2.2.2;con;The largest political parties in the European Parliament hold small percentages of the seats.;['0', '0', '0', '0', '0']; ;5
+9;1.1.1.2.3;con;Multiple member states have found it difficult to form governments. The likelihood of this happening in a USE is only going to increase as all the political divisions within member states will be transposed onto a USE level.;['0', '0', '0', '0', '0']; ;4
+10;1.1.1.2.3.1;pro;It took months for the Italian populist parties to form a coalition government.;['0', '0', '0', '0', '0']; ;5
+11;1.1.1.2.3.2;pro;Belgium currently holds the record for the longest time a developed country has gone without an elected government: 589 days.;['0', '0', '0', '0', '0']; ;5
+12;1.1.1.2.3.3;pro;After 2017 elections, it took more than four months for Germany to form a ruling coalition.;['0', '0', '0', '0', '0']; ;5
+13;1.1.1.3;pro;Unlike the British electorate, British MPs voted overwhelmingly for remain in the Brexit referendum.;['0', '0', '0', '0', '1']; ;3
+14;1.1.1.4;con;This conflict may lead to countries leaving the European Union before it becomes the USE.;['0', '0', '0', '0', '0']; ;3
+15;1.1.1.5;con;There would still be the issue of national governance systems with their own interests, as is seen in other federal states like the USA.;['0', '0', '1', '1', '1']; ;3
+16;1.1.1.5.1;pro;The issue of 'states' rights' is still a hot button issue in the US.;['0', '0', '0', '0', '0']; ;4
+17;1.1.2;pro;Streamlining national standards and systems of education means people would not be held back by needless bureaucracy.;['0', '0', '0', '0', '0']; 13;2
+18;1.1.2.1;pro;It would be easier for students to study in other European universities.;['1', '2', '0', '2', '6']; 3;3
+19;1.1.2.1.1;con;The existing Erasmus program allows students to study in other EU countries.;['0', '0', '1', '0', '1']; 8;4
+20;1.1.2.1.2;con;As an EU citizen, one is entitled to study in any European country under the same conditions as nationals.;['0', '0', '0', '0', '0']; ;4
+21;1.1.2.2;pro;Educational uniformity among member states would make it easier to find work abroad. USE degrees and diplomas would be more recognized internationally.;['1', '1', '0', '2', '9']; ;3
+22;1.1.2.2.1;pro;Recognition of academic certificates is far from universal within the EU, as explained here. This would very likely be changed with a USE.;['0', '0', '0', '0', '1']; 1;4
+23;1.1.2.2.1.1;pro;This causes difficulties for university graduates to find work in other EU member states.;['0', '0', '0', '0', '1']; 7;5
+24;1.1.2.3;con;A federally standardized education system will increase bureaucracy and potentially cripple it.;['3', '2', '0', '1', '4']; 1;3
+25;1.1.2.3.1;pro;An example can be seen in the USA where the quality of federally standardized K-12 education is ranked 38th in the world. pewresearch.org Thus, European countries should be allowed to direct their own education policies with minimal intervention.;['0', '0', '0', '0', '0']; 9;4
+26;1.1.2.4;con;National education standards in a USE can only be streamlined if there is a substantial investment into poorer areas, to bring their education systems to a similar level.;['1', '1', '4', '3', '4']; 2;3
+27;1.1.2.4.1;pro;The variations in investment into education across different EU member states already indicates the vast differences in standards.;['0', '0', '0', '0', '1']; ;4
+28;1.1.2.4.2;con;This is a benefit to poorer countries in the USE who could get funds to help their education systems in a way that they do not under status quo.;['0', '0', '0', '0', '0']; ;4
+29;1.1.2.5;con;There is a wealth of history which nations of the EU/USE do not share. If education is streamlined at a supranational level, this may be lost.;['0', '0', '0', '0', '0']; 2;3
+30;1.1.2.5.1;pro;USE's education authorities may curate a version of European history that serves the purpose of promoting a common European identity and remove parts of the history that harm that cause.;['0', '0', '0', '0', '0']; ;4
+31;1.1.2.5.1.1;con;If history books are being written by people with a vested interest in one side of a dispute or another, then bias may play a role in what children are learning (p. 11).;['0', '0', '0', '0', '0']; ;5
+32;1.1.2.5.1.1.1;con;The USE would be less biased than national governments, and could provide a solution to educating children about regional conflicts.;['0', '0', '0', '0', '0']; ;6
+33;1.1.2.5.1.2;con;"Removing parts of history because they may ""harm [the] cause"" of a European shared identity is little more than censorship.";['0', '0', '0', '0', '0']; 2;5
+34;1.1.2.5.1.2.1;pro;"People should be taught the full context for historical events, with the understanding that things have changed, rather than outright removal of ""problematic"" parts of history.";['0', '0', '0', '0', '0']; ;6
+35;1.1.2.5.2;con;Some curriculum writing could be delegated to nation-states to guard against the loss of historical education.;['0', '0', '0', '0', '0']; ;4
+36;1.1.2.6;con;Language differences will hinder standardising educational standards.;['5', '4', '1', '1', '6']; ;3
+37;1.1.2.6.1;pro;Without a common language, there cannot be a common curriculum among all of the USE member states.;['0', '0', '0', '0', '0']; 2;4
+38;1.1.2.6.1.1;con;The ESU could decide on one common language to be spoken and taught throughout the ESU.;['0', '0', '0', '0', '0']; ;5
+39;1.1.2.6.1.1.1;con;Many nations would resist having to give up their native language to be a part of the ESU.;['0', '0', '0', '0', '0']; ;6
+40;1.1.2.6.1.2;con;The EU already employs translators for different languages to translate legislation and documents. The USE could employ translators to work on a common curriculum.;['0', '0', '0', '0', '0']; ;5
+41;1.1.2.6.2;con;Everyone can learn a second or third language so that people can communicate with others in the USE without use of a translator. For example, everyone could learn English as a second language.;['0', '1', '0', '0', '2']; ;4
+42;1.1.2.6.3;con;Language experts can be brought in to help smooth over any language difficulties, and to ensure that the curriculum in one region matches that of another, in spite of language differences.;['0', '0', '0', '0', '0']; ;4
+43;1.1.3;pro;The USE will streamline European institutions and agencies.;['1', '0', '2', '1', '8']; 1;2
+44;1.1.3.1;pro;At the moment, it takes months, or even years, of legal wrangling before a top EU court can potentially impose financial penalties for violating EU rules. A USE would be able to enforce its laws more effectively.;['0', '0', '0', '1', '2']; ;3
+45;1.1.3.2;pro;Europol would become the main EU police body, improving its efficiency.;['0', '0', '0', '1', '2']; ;3
+46;1.1.3.2.1;pro;There are concerns about the quality of staff working for Europol. If Europol becomes the main investigative agency within a USE, it will attract the best talent.;['0', '0', '0', '0', '1']; ;4
+47;1.1.3.2.2;pro;The USE will have a better impact when fighting mafia groups because a unified justice will be much stronger and cleaner.;['0', '0', '0', '0', '2']; 2;4
+48;1.1.3.2.2.1;pro;Other than Italy, most national police forces in the EU today are ill prepared to handle anti-mafia activities.;['0', '0', '0', '0', '0']; ;5
+49;1.1.3.2.3;pro;Currently, Europol is losing its fight against money laundering and other such crimes. A more unified task force would consolidate efforts to amend this.;['0', '0', '0', '0', '1']; ;4
+50;1.1.3.3;pro;At present, a lot of public spending is duplicated: from spending in research (where different national states may replicate the same experiments) to spending in diplomatic representation (each national state has its own embassy in a non-member state). USE could make a better use of available money.;['0', '0', '0', '0', '3']; 2;3
+51;1.1.3.3.1;pro;The European External Action Service essentially performs the same duties as each country's foreign ministry today. This redundancy could be eliminated with the USE.;['0', '0', '0', '0', '1']; ;4
+52;1.1.3.3.2;con;The diversity and competition in Europe, whether it relates to multiple embassies, defence research programs, research etc, is good.;['0', '0', '0', '0', '0']; ;4
+53;1.1.3.4;pro;Military expenditure can be cut by central planning.;['0', '0', '0', '1', '2']; 1;3
+54;1.1.3.4.1;pro;One unified European army would likely cost less than all the individual EU member states now spend on their military, because unification would allow funds to be spent more effectively and efficiently.;['0', '0', '0', '1', '1']; ;4
+55;1.1.4;pro;Reducing the amount of sovereign governments under a standard USE system would be overall flatter, more efficient and cost effective.;['0', '1', '0', '1', '2']; 3;2
+56;1.1.4.1;pro;Some EU countries already have overcomplicated governments. Belgian people refer to their system as the “institutional lasagna”.(Lasagne institutionnelle);['0', '0', '0', '0', '0']; ;3
+57;1.1.5;pro;The USE will prevent one country from vetoing measures that benefit the majority.;['1', '2', '2', '3', '13']; 5;2
+58;1.1.5.1;pro;The UK vetoed an EU Treaty on the use of the single currency which then had to be circumvented by the other member states.;['1', '0', '0', '0', '0']; ;3
+59;1.1.5.2;pro;EU needs to have more leverage to impose common European solutions and not to be blocked in every decision it takes. Of course, the USE won't make everyone happy each and every time, but that's a reality each nation state faces.;['0', '0', '0', '0', '1']; 4;3
+60;1.1.5.3;pro;The EU wants to end member states veto power on tax policy as it is incredibly difficult to pass a uniform policy that would be agreeable to each individual member.;['0', '0', '0', '0', '1']; ;3
+61;1.1.5.4;con;This veto power is important to protect the interests of each member state.;['0', '0', '1', '0', '0']; ;3
+62;1.1.5.4.1;pro;Smaller states fear being railroaded by the larger countries like Germany and France, and being forced into situations they would not ordinarily find themselves in.;['0', '0', '0', '0', '0']; ;4
+63;1.1.6;pro;A USE will make it easier for Europeans to migrate internally between countries, which will help to stabilize the economy.;['0', '0', '0', '1', '5']; ;2
+64;1.1.6.1;pro;The US has far higher migration rates between states than Europe has between countries.;['0', '0', '0', '0', '0']; 11;3
+65;1.1.6.1.1;con;It will take many years for people to feel like they can migrate across Europe as fluidly as people migrate in the US, as the ingrained feelings of national pride will get in the way.;['0', '0', '0', '0', '0']; 1;4
+66;1.1.6.2;pro;Currently, not all European states are Schengen states, and have border controls that limit the free movement of Europeans within Europe.;['0', '0', '0', '0', '0']; ;3
+67;1.1.6.3;con;Some extremist groups, which cultivate national hatred, would only be enabled to easily smuggle dangerous tools and target other nationalities as their victims.;['0', '0', '0', '0', '0']; 2;3
+68;1.1.6.3.1;con;Since there are no border controls between the Schengen members, this is already possible and the establishment of USE will not have any noteworthy effects.;['0', '0', '0', '0', '0']; ;4
+69;1.1.6.4;con;Language barriers means this is less likely to happen, and thus economic stabilisation is less likely to occur.;['0', '0', '0', '0', '0']; ;3
+70;1.1.6.4.1;pro;There are over 100 different languages spoken natively within Europe.;['0', '0', '0', '0', '0']; 2;4
+71;1.1.6.4.2;con;English is being commonly taught alongside the native language in multiple (if not all) member states. In addition, if there is a language barrier, it does not apply to more educated or younger people who are also most likely to migrate.;['0', '0', '0', '0', '0']; 2;4
+72;1.1.6.5;con;Most European borders are already open under the EU, as the TFEU guarantees the right to free movement.;['0', '0', '0', '0', '1']; ;3
+73;1.1.7;con;There are irreconcilable differences between EU member states that make the USE a nearly impossible endeavour.;['0', '0', '1', '3', '3']; ;2
+74;1.1.7.1;pro;Not every EU member state is part of the eurozone. The transition for states to adopt the euro in the future will be economically difficult (p. 298).;['0', '1', '0', '0', '0']; 2;3
+75;1.1.7.2;pro;Many European nations have separatist movements. The existence of these separatist movements underlines the fact there are various different identities in the EU.;['0', '1', '0', '0', '0']; 17;3
+76;1.1.7.2.1;pro;In the UK, there are several independentist movements, such as the Scottish and the Ulster one.;['0', '0', '0', '0', '0']; ;4
+77;1.1.7.2.2;pro;In France there is the Corsic separatist movement;['1', '0', '0', '0', '0']; ;4
+78;1.1.7.2.3;pro;In Italy, there are Veneto and southern regions which are increasing their autonomy-independence questions.;['0', '0', '0', '0', '0']; ;4
+79;1.1.7.2.4;pro;In Poland, there's the Silesian separatist movement.;['1', '0', '0', '0', '0']; ;4
+80;1.1.7.2.4.1;con;The fact that this Silesian movement wants more autonomy doesn’t necessarily mean that they want to be totally separated from Poland.;['0', '0', '0', '0', '0']; 1;5
+81;1.1.7.2.5;pro;In Belgium, there's the problem between Vallonia and Flanders.;['2', '0', '0', '0', '0']; ;4
+82;1.1.7.2.6;pro;In Spain, there's the Catalonian problem.;['2', '0', '0', '0', '0']; ;4
+83;1.1.7.2.7;con;"Separatist movements are an inevitability in any given state; a USE would not necessarily exacerbate the issue.";['0', '0', '0', '1', '1']; 2;4
+84;1.1.7.2.7.1;con;The fact that separatist movements have occurred frequently between groups of people who are relatively similar underlies the extreme difficulty of forming a union between relatively dissimilar groups of people.;['0', '0', '0', '0', '0']; ;5
+85;1.1.7.2.8;con;Separatists mostly want to leave their country but stay in the EU. They would stay in the USE, too.;['0', '0', '0', '0', '1']; 5;4
+86;1.1.7.2.8.1;pro;Catalan supporters of independence mostly want Catalonia to be a new state inside Europe.;['0', '0', '0', '0', '0']; ;5
+87;1.1.7.2.8.2;pro;Scotland wants to leave Great Britain, but stay in the EU.;['0', '0', '0', '0', '0']; ;5
+88;1.1.7.2.8.3;con;Separatists movements that want to leave their country but stay in the EU clearly, by that fact, would rather be independent countries with as much independence as separate EU countries enjoy today than to be a minority in a larger country.;['0', '0', '0', '0', '0']; 5;5
+89;1.1.7.2.9;con;The EU has actually been a guarantor for the Good Friday Agreement in Northern Ireland.;['0', '0', '0', '0', '1']; ;4
+90;1.1.7.2.9.1;pro;The conflicting parties agreed on the terms given by the EU of respecting the EU convention of human rights and respecting UK and Ireland as partners of the Union.;['0', '0', '0', '0', '0']; 3;5
+91;1.1.7.2.10;con;Separatist movements are often rooted in historical oppression, regardless of whether or not there's any legitimate oppression happening today. If the EU were to federalize, the ruling object wouldn't have such a history and could, theoretically, lead to fewer and less intense separatist movements.;['0', '0', '0', '1', '2']; ;4
+92;1.1.7.3;pro;It will be difficult to find a consensus policy on agriculture given the differences between France and Germany.;['1', '0', '0', '0', '0']; ;3
+93;1.1.7.4;pro;European states do not share a common European identity, and so should not form one state.;['0', '1', '0', '0', '0']; 9;3
+94;1.1.7.4.1;pro;Europe is heavily divided on its attitude towards religion.;['6', '2', '2', '2', '0']; ;4
+95;1.1.7.4.1.1;pro;In 2004, the EU member states could not find consensus on their common history, specifically regarding the problem of taking up Christianity in the constitution.;['0', '0', '0', '0', '0']; 1;5
+96;1.1.7.4.1.2;pro;EU member states have differing policies on the burqa - the veil that some Muslim women wear - indicating that there is no consensus on religious policies.;['0', '0', '0', '0', '0']; ;5
+97;1.1.7.4.1.2.1;con;Complete consensus is unachievable in any democracy.;['0', '0', '0', '0', '0']; ;6
+98;1.1.7.4.1.3;pro;There is growing hostility towards Islam, despite it being the fastest growing religion in Europe.;['0', '0', '0', '0', '1']; ;5
+99;1.1.7.4.1.3.1;con;Freedom of religion or belief is a Human Right (art.18 UDHR/ICCPR) and is supported by the EU. So Islam is free to grow.;['0', '0', '0', '0', '0']; ;6
+100;1.1.7.4.1.3.2;con;Islam is a minority (2-3% in EU states: europe-infos.eu) and will still be one in 30 years (10%). So it's not really an important topic for the USE.;['0', '0', '0', '0', '0']; ;6
+101;1.1.7.4.1.4;con;The Enlightenment promoted religious tolerance and freedom as a virtue, a value held by Europeans.;['0', '1', '0', '0', '1']; ;5
+102;1.1.7.4.1.5;con;The separation of church and state is in place in every EU country. A USE would not change religious diversity.;['0', '0', '0', '1', '0']; 2;5
+103;1.1.7.4.1.5.1;con;While Ireland nominally has the separation of church and state, many public schools and hospitals are run by the church.;['0', '0', '0', '0', '0']; ;6
+104;1.1.7.4.3;pro;As opposed to regional authorities, centralised powers do not always understand local customs, as they are more removed from the people.;['2', '3', '2', '1', '3']; 20;4
+105;1.1.7.4.3.1;pro;The Scottish government works closely with its local authorities to implement cultural policy.;['0', '0', '0', '0', '0']; ;5
+106;1.1.7.4.3.2;pro;Local councils have ensured the continuation of cultural arts funding and grants in the UK, despite austerity measures.;['0', '0', '0', '0', '0']; ;5
+107;1.1.7.4.3.3;con;The EU already invests in local cultures throughout its Member States, a practice which is likely to continue in a USE.;['0', '0', '0', '1', '2']; ;5
+108;1.1.7.4.3.3.1;pro;The Conclusion of Cultural Heritage was adopted to ensure the cultural heritage of all EU member states could be preserved.;['0', '0', '0', '0', '0']; ;6
+109;1.1.7.4.3.3.2;pro;The European Agenda for Culture aims to promote sustainability in cultural heritage throughout the EU.;['0', '0', '0', '0', '0']; ;6
+110;1.1.7.4.3.3.3;pro;The Creative Europe Programme works with EU member states to support cultural and creative sectors of the EU.;['0', '0', '0', '0', '0']; ;6
+111;1.1.7.4.3.3.4;pro;The EU regularly invests in environmental initiatives or steps in to protect the environment, which helps to protect local culture.;['0', '0', '0', '0', '0']; 2;6
+112;1.1.7.4.3.3.4.1;pro;In 2017, Poland wanted to cut down trees in the Bialowieza Forest, one of the last primeval forest in Europe. It was the EU that stepped in to protect it.;['0', '0', '0', '0', '0']; ;7
+113;1.1.7.4.3.3.5;con;Minority cultures will become one step further removed from the central state, as more power leaves their country in the direction of the centralized USE, and so it will become more difficult for minority interests to have their voices heard.;['0', '0', '0', '0', '0']; ;6
+114;1.1.7.4.3.4;con;Currently, states act as centralised powers, and they exercise nationalism to maintain the countries' cohesion, unlike the EU. This sometimes hurts and mistreats local cultures, which lack of support to keep their culture and heritage.;['0', '0', '0', '0', '1']; 5;5
+115;1.1.7.4.3.4.1;pro;"""Very little progress has been made in Romania concerning the right of minorities to use their Hungarian mother tongue in public institutions. Language rights, in practice, are simply not upheld."" 100 lawsuits for using the Hungarian language in Romania";['0', '0', '0', '0', '0']; 5;6
+116;1.1.7.4.3.4.2;pro;Madrid's plan to push Spanish language in Catalan schools prompts independence anger.;['0', '0', '0', '0', '0']; ;6
+117;1.1.7.4.3.4.3;pro;Local officials in South Tryol often don't speak the native language, and 'there are acts of racism each single day'.;['0', '0', '0', '0', '0']; 4;6
+118;1.1.7.4.3.5;con;A pan-european federalist state would allow regions to gain more relevance above country states, which would be closer to people's needs and have more power for managing domestic affairs;['0', '0', '0', '0', '0']; 11;5
+119;1.1.7.4.3.6;con;A solution would be that the union decides on nationwide policies, and local affairs on the state level.;['0', '0', '0', '0', '4']; ;5
+120;1.1.7.4.3.6.1;pro;It would be even better to decide local affairs on a regional or local level. Europe has a great diversity of cultures within individual states.;['0', '0', '0', '0', '0']; 4;6
+121;1.1.7.4.4;con;A USE would lead to a common European cultural identity being formed.;['2', '4', '0', '3', '7']; 8;4
+122;1.1.7.4.4.1;pro;Despite cultural diversity, Europeans share very similar values.;['0', '0', '0', '0', '2']; 5;5
+123;1.1.7.4.4.1.1;pro;Many present European cultures, traditions, values and identities are based on common heritage, such as ancient Greek culture, the Roman Empire, Christianity, the Renaissance, as well as the Enlightenment.;['0', '0', '0', '1', '2']; ;6
+124;1.1.7.4.4.1.1.1;pro;European values were and are influenced by the Enlightenment.;['0', '0', '0', '0', '0']; ;7
+125;1.1.7.4.4.1.1.1.1;pro;The rise in egalitarian thinking, in tandem with colonial expansion, introduced different cultures to each other, breaking down differences between cultural systems.;['0', '0', '0', '0', '0']; ;8
+126;1.1.7.4.4.1.1.1.2;pro;The Enlightenment promoted the use of 'free argument and debate', a belief now embodied in European democratic political systems.;['0', '0', '0', '0', '0']; ;8
+127;1.1.7.4.4.1.1.1.4;pro;The introduction of a conceptual 'public sphere' allowed for the creation of a 'common world', ultimately culminating in institutions like the EU and potentially a USE.;['0', '0', '0', '0', '0']; ;8
+128;1.1.7.4.4.1.2;pro;Europeans tend to be more concerned about climate change than the rest of the world, with the exception of Latin America.;['0', '0', '0', '0', '0']; ;6
+129;1.1.7.4.4.1.2.1;pro;The EU already encourages cooperation among its member states on addressing climate change issues.;['0', '0', '0', '0', '0']; 6;7
+130;1.1.7.4.4.1.3;pro;European countries share a similar philosophy with regards to protecting the privacy of their citizens.;['0', '0', '1', '3', '1']; ;6
+131;1.1.7.4.4.1.4;pro;EU members states share similar ethical concerns about allowing GMOs.;['1', '2', '0', '1', '2']; ;6
+132;1.1.7.4.4.1.5;con;Attitudes towards immigrants is a polarising issue in Europe, one that Europeans do not have a consensus on.;['0', '0', '0', '0', '0']; 2;6
+133;1.1.7.4.4.1.5.1;pro;Poland, Hungary and the Czech Republic have refused to take in refugees, and are consequently being sued by the EU.;['0', '0', '0', '0', '0']; ;7
+134;1.1.7.4.4.1.5.2;pro;"Attitudes are vastly divided among different member states; for examples, over 80% of Spain is comfortable with migrants, where only 20% of Bulgaria is.";['0', '0', '0', '0', '0']; ;7
+135;1.1.7.4.4.1.6;con;Attitudes towards gender issues diverge across EU member states.;['0', '0', '0', '0', '0']; 1;6
+136;1.1.7.4.4.1.6.1;pro;While Western Europe has led the way in transgender rights, some EU states do not recognise any transgender rights.;['0', '0', '0', '0', '0']; ;7
+137;1.1.7.4.4.1.6.2;pro;Family policies and practices in post-Soviet states have shaped contemporary gender roles and attitudes.;['0', '0', '0', '0', '0']; ;7
+138;1.1.7.4.4.1.6.3;pro;Scandinavian countries are more liberal with their gender values, with higher orientation towards gender equality, than their fellow EU member states.;['0', '0', '0', '0', '0']; ;7
+139;1.1.7.4.4.2;pro;Many European states have a great variety of culture and regional identities, and nonetheless the current European states are stable and mostly seen as beneficial. The USE can follow the same path of acceptation.;['0', '0', '0', '0', '0']; 1;5
+140;1.1.7.4.4.3;pro;EU-wide exchange projects and programs are slowly creating a common culture.;['1', '0', '0', '0', '0']; ;5
+141;1.1.7.4.4.3.1;pro;'DiscoverEU' provides 18 year olds with the opportunity to meet different cultures within the EU. Stimulating integration and a common culture.;['0', '0', '0', '0', '0']; 3;6
+142;1.1.7.4.4.3.3;pro;Initiatives like the European Cultural Capital already act as a draw for many artists. More projects like this would follow with deeper integration.;['1', '0', '0', '0', '0']; ;6
+143;1.1.7.4.4.4;pro;The need for a common language in a USE will allow people to communicate with each other, allowing for a common identity to be formed.;['4', '4', '1', '4', '1']; 2;5
+144;1.1.7.4.4.4.1;pro;Small languages are already vanishing without any unification due to globalisation or other phenomena. A USE will simply allow one common language to replace these already dying languages.;['0', '0', '0', '0', '0']; 3;6
+145;1.1.7.4.4.4.2;pro;A constructed language, like Esperanto, would provide for a mutual language that everyone, inside and outside the EU can (relativly) easily learn, while not threathening local linguistic diversity.;['0', '0', '0', '0', '0']; ;6
+146;1.1.7.4.4.4.2.1;pro;Esperanto fits this role well, being uninterruptedly in use for more than one century. It is based on Latin, Greek, Romance, Germanic and Slavic languages.;['0', '0', '0', '0', '0']; ;7
+147;1.1.7.4.4.4.2.2;con;Created languages, like Esperanto, generally fail, since they have not grown organically.;['0', '0', '0', '0', '0']; ;7
+148;1.1.7.4.4.4.2.3;con;This would mean everyone, at every level of society, will have to learn a fresh new language that has no native speakers.;['0', '0', '0', '0', '0']; 3;7
+149;1.1.7.4.4.4.2.3.1;pro;Other solutions would be far more efficient in the long run, some of whom are already out there: minimum EU-based requirements for schooling and Union-shared language programs have been enforced since decades, their effect is clearly visible in the last generations of EU citizens.;['0', '0', '0', '0', '0']; ;8
+150;1.1.7.4.4.4.3;pro;While a USE, much like the EU, can have many official languages, there will need to be a common language used in all government matters. This will inadvertently promote the use of one language across the USE as people will need to be able to access government information.;['0', '0', '0', '0', '0']; ;6
+151;1.1.7.4.4.4.4;pro;It would be easy and profitable to promote learning a lingua franca like English across all EU citizens, beside local and national languages.;['0', '0', '0', '0', '1']; 1;6
+152;1.1.7.4.4.4.4.1;pro;In most European countries, half of the population at least knows English. This means English could be the new European federal language, and in every federal nation could be adopted the bilingualism system (the local language plus English).;['0', '0', '0', '0', '4']; 2;7
+153;1.1.7.4.4.4.4.1.1;con;There is likely to be disagreement about which language should be the official language of the new USE.;['0', '1', '0', '0', '0']; 3;8
+154;1.1.7.4.4.4.4.1.1.1;pro;"There is strong language barrier between European nations; some nations are patriotic about their language, some of which are among the most widely used languages in the world.";['0', '0', '0', '0', '0']; 10;9
+155;1.1.7.4.4.4.4.1.1.1.1;pro;Spanish might be more used language that English.;['0', '0', '0', '0', '0']; 2;10
+156;1.1.7.4.4.4.4.1.1.2;pro;For example, France wants French to be the most spoken language in the world.;['0', '0', '0', '0', '0']; ;9
+157;1.1.7.4.4.4.4.2;con;English as a common language greatly favours other nations with Germanic root languages. Those who speak languages with different roots will have more difficulty in learning English.;['1', '0', '0', '0', '0']; ;7
+158;1.1.7.4.4.4.4.3;con;"It is important to preserve existing languages; with a common language, we will lose the minor national languages of Europe in the long term and the languages spoken by bigger groups in the far future.";['0', '0', '0', '0', '0']; ;7
+159;1.1.7.4.4.4.4.3.1;pro;"Language is an intrinsic part of any society's culture; losing a language will be losing culture that is important to many European citizens.";['0', '0', '0', '0', '0']; ;8
+160;1.1.7.4.4.4.5;con;Given not everyone in the EU speaks the same language, it will be hard to have political debate and engagement.;['0', '0', '0', '0', '0']; 1;6
+161;1.1.7.4.4.4.5.1;pro;It will be harder to relate to a representative that doesn’t speak your language.;['0', '0', '0', '0', '0']; ;7
+162;1.1.7.4.4.4.6;con;A future USE is likely to retain the EU's current, pluralist language policy with a large number of official languages, and a handful working languages.;['0', '0', '0', '0', '0']; 1;6
+163;1.1.7.4.4.4.7;con;Even under pressure of a standardised national language, dialects have continued to hang around and evolve.;['0', '0', '0', '0', '0']; ;6
+164;1.1.7.4.4.5;pro;It is naive to expect a common identity to exist before a political union: historically common identities were only formed *through* political unions.;['0', '0', '0', '2', '0']; ;5
+165;1.1.7.4.4.5.1;pro;The British identity did not exist before the union of England and Scotland (wiki);['0', '0', '0', '1', '0']; ;6
+166;1.1.7.4.5;con;EU member states have signed up to the European Convention on Human Rights. This does, and could continue to, form a common basis for societal values in a USE.;['0', '1', '2', '2', '8']; 3;4
+167;1.1.7.4.5.1;con;The EU is frequently criticized for staying quiet on human rights abuses in China, who it sees as a valuable trading partner.;['0', '0', '0', '0', '0']; 4;5
+168;1.1.7.4.5.2;con;Most countries in the world have ratified the Universal Declaration of Human Rights. The belief in inalienable human rights is a universal one, and not one that can form the basis of a national identity.;['0', '0', '0', '0', '0']; ;5
+169;1.1.7.4.6;con;There are many examples of culturally diverse societies that function as stable political unions. The USE would be no different.;['2', '1', '1', '1', '13']; 3;4
+170;1.1.7.4.6.1;pro;"There is no cultural homogeneity in the US; in fact, the opposite is the case: the US can be grouped into eleven different 'nations', each with an entirely different culture. Nevertheless, the unity of the US is not compromised.";['1', '0', '0', '1', '2']; ;5
+171;1.1.7.4.6.1.1;con;The USA's unity is compromised by the different 'nations' mentioned.;['0', '1', '0', '0', '0']; ;6
+172;1.1.7.4.6.1.2;con;After 9/11, there have been religious tensions between especially Christianity and Islam in the US. chicagopolicyreview.org;['0', '0', '1', '0', '0']; ;6
+173;1.1.7.4.6.1.3;con;Looking at the history of the US, it has known a history in which the different ethnicities and cultures have clashed with each other. en.wikipedia.org en.wikipedia.org en.wikipedia.org en.wikipedia.org;['0', '1', '0', '0', '0']; 1;6
+174;1.1.7.4.6.1.3.1;pro;Even today the ethnic tensions between the different groups have not been fully resolved, harming relations between the groups. pewresearch.org;['0', '0', '0', '0', '0']; ;7
+175;1.1.7.4.6.1.4;con;"The regional differences pointed to in these ""nations"" do not constitute entirely different cultures, and the overall culture of the USA is still a largely homogeneous one.";['0', '1', '0', '0', '0']; ;6
+176;1.1.7.4.6.1.4.1;con;The USA accepted immigrants from all over the world who would embrace their funding ideals. It isn't homogeneous today and in the past it was largely heterogeneous.;['0', '0', '0', '0', '0']; ;7
+177;1.1.7.4.6.1.4.1.1;pro;A significant proportion ofimmigrants (around 40%) who come to the United States are from Asia, in particular, from China.;['0', '0', '0', '0', '0']; ;8
+178;1.1.7.4.6.2;pro;Almost all European countries today do not share a common homogeneous identity.;['0', '0', '0', '0', '1']; 7;5
+179;1.1.7.4.6.2.1;pro;Germany experience a successful unification process despite having a wide variety of cultural identites.;['0', '0', '0', '0', '0']; ;6
+180;1.1.7.4.6.2.2;pro;Hungary was cut apart (en.wikipedia.org) in 1920 and large parts got merged into neighbouring Austria, Slovakia, Romania, Yugoslavia (later Serbia, Croatia and Slovenia), where they form disctinct cultural groups, but separated by nation-state borders.;['0', '0', '0', '0', '0']; ;6
+181;1.1.7.4.6.2.3;pro;Switzerland is a confederation regrouping different languages, cultures and political opinions;['0', '0', '0', '0', '1']; ;6
+182;1.1.7.4.6.2.4;pro;Spain is a country made of 19 autonomous regions, with different cultures, each with its own parliament and even five official languages different from Spanish.;['0', '0', '0', '0', '0']; 1;6
+183;1.1.7.4.6.2.5;pro;The United Kingdom is made up of four constituent parts: England, Scotland, Wales and Northern Ireland (and the Cornish national minority). They have cultural and linguistic differences, yet form a stable political union.;['0', '0', '0', '0', '1']; ;6
+184;1.1.7.4.6.2.5.1;con;In 2014, Scotland held a referendum for their independence, suggesting that such states do feel like they are losing their own culture. This could occur because of legislation outlawing a certain cultural tradition.;['0', '0', '0', '0', '1']; ;7
+185;1.1.7.4.6.3;pro;India contains a multitude of cultures and languages. They have a designated lingua franca (Hindi), but most Indians don't speak the language of their neighbor states.;['1', '0', '0', '0', '1']; 2;5
+186;1.1.7.4.6.4;pro;Europeans have been growing used to cultural and national diversity for centuries due to frequent territorial changes between their sovereigns.;['0', '0', '0', '0', '0']; 10;5
+187;1.1.7.4.6.4.1;pro;With the Final Act of the Congress of Vienna, considerable parts of European territories were redistributed between nation states, empires and other political entities.;['0', '0', '0', '0', '0']; ;6
+188;1.1.7.4.6.5;con;Being able to function as a stable political union doesn't necessarily mean things aren't for the worse, especially in other dimensions than stability.;['0', '0', '0', '0', '0']; 6;5
+189;1.1.7.4.6.6;con;Yugoslavia and Czechoslovakia collapsed/separated because of cultural divisions and tensions or had internal difficulties because of cultural and language differences.;['0', '0', '0', '0', '0']; 13;5
+190;1.1.7.4.6.6.1;con;Internal divisions and tensions occur in almost every EU country, but this does not mean that these countries are close to collapse.;['0', '0', '0', '1', '0']; 5;6
+191;1.1.7.4.6.6.1.1;pro;Some examples still today: Basque Country, Italian Tyrol, Catalonia, Bavaria, and Brittany.;['0', '0', '0', '0', '0']; 1;7
+192;1.1.7.4.6.6.2;con;The EU (and therefore the USE) tears down borders, which is the very reason tensions significantly decreased in territories.;['0', '1', '0', '0', '0']; 5;6
+193;1.1.7.4.6.6.2.1;pro;A typical example for this would be Northern Ireland.;['0', '0', '0', '0', '0']; ;7
+194;1.1.7.4.6.6.3;con;Thanks to the EU, many states today cede power in favour of a more regional management, resulting in the opposite of what is suggested here.;['0', '0', '1', '0', '0']; 5;6
+195;1.1.7.4.6.6.3.1;pro;Greater regional integration results in greater protection for regional interests.;['0', '0', '0', '0', '0']; ;7
+196;1.1.7.4.6.6.4;con;These examples of former countries are very limited (compared with all the current cases of internal divisions and tensions in member countries today) and also from past times when the mentioned ex-countries weren't part of the EU.;['0', '0', '0', '1', '0']; 5;6
+197;1.1.7.4.7;con;Local rules can diverge on a state or community level with the USE providing a common legal framework. This would negate the need for a common European identity.;['2', '3', '3', '0', '3']; 2;4
+198;1.1.7.4.7.2;pro;The EU has gone to great lengths to preserve minority cultures, e.g. protecting the Welsh and Irish languages or protecting goods from particular regions (like the Cornish Pasty).;['0', '0', '0', '0', '0']; 2;5
+199;1.1.7.4.8;con;"There is no need to establish a single European identity for the USE to work. The EU never has attempted to replace national identities and rather works as an ""intermediary"" identity, giving European people a ground for common values while keeping diversity. Europe and the identity challenge: who are ""we""?";['0', '0', '0', '1', '4']; 1;4
+200;1.1.7.4.9;con;Most Europeans are in ever growing contact with each other due to migrations, exchanges, and commercial bonds. This promotes high levels of integration that are sufficient for creating a European state. A common identity is therefore not required.;['0', '1', '0', '2', '4']; 11;4
+201;1.1.7.4.10;con;The EU has been crucial for tearing down arbitrary borders between country states which have created historical frictions for local communities.;['0', '0', '0', '2', '2']; ;4
+202;1.1.7.4.11;con;In historical Europe it was common to form a supranational political entity despite the lack of a pre-existing unifying identity (which in some cases was created as a result of such a union rather than pre-dating it).;['0', '0', '0', '0', '0']; 9;4
+203;1.1.7.4.11.1;pro;The Holy Roman Empire, the Polish-Lithuanian Commonwealth and the Austro-Hungarian Empire are the examples of such entities.;['0', '0', '0', '0', '0']; ;5
+204;1.1.7.4.11.1.1;con;The Holy Roman Empire was not a single unified state, and was rather a confederation of principalities, with some of the principalities electing the emperor, and the emperor having little power, especially toward the end of its existence, and does show the practicality of a unified European state.;['0', '0', '0', '0', '0']; 2;6
+205;1.1.7.4.12;con;A European identity can be stimulated by various programms.;['0', '0', '0', '0', '0']; ;4
+206;1.1.7.4.12.2;pro;Primary education in all member states could teach more EU history, culture and laws, and a common second language, presumably English, to stimulate an European identity.;['0', '0', '0', '0', '0']; ;5
+207;1.1.7.5;con;Studies have indicated that despite these seeming differences, the EU has thus far - and would continue in a USE - been able to work through them to a constructive conclusion.;['0', '0', '0', '0', '1']; ;3
+208;1.1.7.5.1;pro;The EU has been united in their position on Brexit, with many countries showing solidarity with Ireland over the question of the border with Northern Ireland.;['0', '0', '0', '0', '0']; ;4
+209;1.1.8;con;The temptation of corruption for politicians and civil servants will be higher than it is today in the EU.;['8', '1', '1', '0', '1']; 8;2
+210;1.1.8.1;pro;The subsidiarity principle would be weakened with stronger centralization leading to a larger concentration of funds. This makes corruption easier to hide.;['2', '1', '0', '1', '6']; 1;3
+211;1.1.8.1.1;con;The principle of subsidiarity forms the institutional basis for federal states. Therefore, in the case of a USE the independence for a lower authority in relation to a higher body or for a local authority in relation to central government would still be guaranteed.;['0', '0', '0', '0', '0']; ;4
+212;1.1.8.2;pro;The European Commission was frequently criticized by its own watchdog for maladministration in 2018. This problem will be exacerbated in a USE because a USE government will have more powers.;['1', '0', '0', '1', '0']; 1;3
+213;1.1.8.3;pro;The USE will be more vulnerable to lobbying and the activities of interest groups.;['0', '0', '0', '0', '1']; 4;3
+214;1.1.8.3.1;pro;Lobbying one central government is easier than lobbying 28 national governments.;['0', '0', '0', '0', '0']; ;4
+215;1.1.8.3.1.1;con;Currently it is not required to lobby 28 governments. Many nations have vetoes, so only one or two countries need to be lobbied.;['0', '0', '0', '0', '1']; ;5
+216;1.1.8.3.2;pro;"Lobbying is undemocratic; it is a process in which money is used by particular interest to buy favorable regulation.";['0', '0', '0', '0', '0']; 1;4
+217;1.1.8.3.2.1;con;"Societal actors and groups need to have a way to communicate their interests and to fight for them; this is vital to democracy.";['0', '0', '0', '0', '0']; ;5
+218;1.1.8.3.3;con;Technically, smaller states are more vulnerable to lobbying efforts and economic interests than a superstate simply because they have less economic & political clout in comparison to the lobbyists.;['0', '0', '0', '0', '0']; ;4
+219;1.1.8.3.4;con;Taking this into account, the USE can contain a special system of checks and balances in order to minimize harmful influences of special interest groups.;['0', '0', '0', '0', '0']; ;4
+220;1.1.8.4;con;People from certain countries are fed up with their local politicians. More power residing with the USE would mean less power from corrupt or inefficient local administrations and more centralised standards and controls.;['0', '0', '0', '0', '0']; 9;3
+221;1.1.8.4.1;pro;Hungary is among the most corrupt countries within the EU and it receives a fair amount of pressure from the Union Euronews - Parlament debate on Hungary;['0', '0', '0', '0', '0']; ;4
+222;1.1.8.4.2;pro;Since 2015, corruption has been the 2nd biggest concern of the Spanish population.;['0', '0', '0', '0', '0']; ;4
+223;1.1.8.4.2.1;pro;In 2019, this concern was competing with a 3rd: politicians.;['0', '0', '0', '0', '0']; ;5
+224;1.1.8.5;con;The EU is very transparent, which can be carried into a USE.;['0', '0', '1', '0', '7']; 4;3
+225;1.1.8.5.1;pro;The EU's transparency directive limits opportunities for corruption.;['0', '0', '0', '0', '0']; ;4
+226;1.1.8.5.2;pro;Any data can be requested on AsktheEU.;['0', '0', '0', '0', '0']; ;4
+227;1.1.8.5.2.1;con;A system where data has to be requested, instead of a completely transparent view into the finances of the EU - an open view of the accounts, for example - are especially prone to corruption.;['0', '0', '0', '0', '0']; 1;5
+228;1.1.8.5.2.1.1;pro;In the past, institutions processing Freedom of Information have been dogged by delays and obfuscation.;['0', '0', '0', '0', '0']; ;6
+229;1.1.8.5.2.1.2;pro;There is no way of ensuring that the data produced has not been falsified.;['0', '0', '0', '0', '0']; ;6
+230;1.1.8.5.3;con;There are issues with the transparency of how laws are formed and evolved, which a USE might equally inherit.;['0', '0', '0', '0', '0']; ;4
+231;1.1.8.6;con;Individual countries could be corrupt too.;['0', '0', '0', '0', '7']; 1;3
+232;1.1.8.6.1;pro;The smaller the country, the easier it is for crime organizations to bribe enough people and silence everyone.;['0', '0', '0', '0', '0']; ;4
+233;1.1.8.6.1.1;con;Small countries are among the richest and best managed in the world. The reason is that people are closer to the matters managed.;['0', '0', '0', '0', '0']; 1;5
+234;1.1.8.6.1.3;con;The interest for crime organizations to bribe is lower when a country is smaller, because whatever wrong they do will be noticed more quickly and because there is less to take.;['0', '0', '0', '0', '0']; ;5
+235;1.1.9;con;The USE could never make effective law because there would be too many political parties with completely different needs.;['5', '3', '2', '0', '2']; 12;2
+236;1.1.9.1;pro;The political systems of European countries are incompatible.;['1', '0', '0', '0', '0']; 8;3
+237;1.1.9.1.1;pro;EU states have vastly different voting systems.;['0', '0', '0', '0', '0']; ;4
+238;1.1.9.1.2;pro;While some states are monarchies, such as Sweden, others are republics, e.g., Germany.;['0', '0', '0', '0', '0']; ;4
+239;1.1.9.1.3;con;The EU member states' political systems share core principles and roots.;['0', '0', '0', '1', '0']; 2;4
+240;1.1.9.1.3.1;pro;The single political systems do share basic principles such as the separation of powers or the rule of law.;['0', '0', '0', '0', '1']; ;5
+241;1.1.9.1.3.2;pro;All EU members states are governed democratically.;['0', '0', '0', '0', '1']; ;5
+242;1.1.9.1.3.3;pro;"The EU accession procedure is meant to make sure a certain level of uniformity exists in what concerns the political systems, namely through the ""Copenhagen criteria"".";['0', '0', '0', '0', '1']; 5;5
+243;1.1.9.1.3.4;pro;There is an EU Charter of Fundamental Rights which all EU citizens are entitled to.;['0', '0', '0', '0', '0']; 2;5
+244;1.1.9.2;pro;The variety of positions taken by EU member states governments indicates that political parties across USE will be incredibly diverse. This will make formation of a government difficult.;['0', '1', '0', '0', '0']; ;3
+245;1.1.9.2.1;pro;The EU's foreign policy is currently dysfunctional as member states disagree on what needs to be done, with some members trying to emphasise their policies over other members' policies. A unified political union would allow for a single foreign policy that is not deadlocked.;['0', '0', '0', '0', '0']; 6;4
+246;1.1.9.2.1.1;pro;"Germany is against the presence and exercises of the US in Europe; Poland is heavily in favor, so much so that it even offers a subsidy for a permanent military presence.";['0', '0', '0', '0', '0']; ;5
+247;1.1.9.2.1.2;pro;Some central-European countries have pro-Israel policies, while many western-European countries have pro-Palestine or even anti-Israel policies.;['0', '1', '0', '1', '0']; 7;5
+248;1.1.9.2.1.3;pro;"Germany wants to build the ""Nord Stream 2"" pipeline from Russia, which Poland is categorically against.";['0', '0', '0', '0', '0']; ;5
+249;1.1.9.2.1.4;con;On the contrary, being able to speak with multiple voices is beneficial for the EU.;['0', '0', '0', '1', '1']; 9;5
+250;1.1.9.2.1.4.1;pro;Regarding North Korea, while France and Germany generally favor stronger sanctions, Sweden and Switzerland tend to favor more direct diplomacy. This allows different EU member states to test out different approaches.;['0', '0', '0', '0', '0']; ;6
+251;1.1.9.2.1.4.2;pro;Certain states have recalled their embassies from other states to make a political gesture or preserve security of personnel, as France has previously done from Syria. Embassies from other countries could then act as proxies to gather information and serve citizens of states without diplomatic presence.;['0', '0', '0', '0', '0']; ;6
+252;1.1.9.2.1.4.3;pro;Speaking with two voices allows appeasement of both the US and Russia at the same time.;['0', '1', '1', '0', '0']; ;6
+253;1.1.9.3;con;The parties present in the European Parliament are pan-European groupings of national parties that share common values. These have been effective at making decisions so far and would easily transfer over to the USE parliament.;['0', '0', '0', '0', '1']; ;3
+254;1.1.9.4;con;An election threshold can solve this problem effectively.;['0', '0', '0', '0', '1']; ;3
+255;1.1.9.5;con;It would actually be a positive scenario if different political organizations must talk to peers in other regions to organise themselves into bigger organizations. Similar things happen in any nation state and enhances understanding between groups and the political life.;['0', '0', '0', '0', '0']; ;3
+256;1.1.9.5.1;con;An over obsession with cooperation and bipartisanship, as seen in the US, can be a negative thing.;['0', '0', '0', '0', '0']; ;4
+257;1.1.9.6;con;Many modern democracies have a lot of political parties. This has not proven to be an obstruction compared to nations with few parties.;['0', '0', '0', '0', '1']; ;3
+258;1.2;pro;The USE will benefit EU members economically.;['24', '7', '12', '17', '74']; 6;1
+259;1.2.1;pro;The USE will better be able to stand its ground facing other big international players as USA, China, Russia, Brasil or India, in economical and trading negotiations.;['0', '0', '1', '0', '10']; 3;2
+260;1.2.1.1;con;The EU will still be economically weaker than the US and China.;['0', '0', '0', '0', '0']; ;3
+261;1.2.2;pro;The USE will harmonize laws and regulations more than the EU does, reducing internal barriers to trade.;['3', '1', '3', '1', '7']; 5;2
+262;1.2.2.1;pro;By standardising health and safety regulations, businesses can reduce their costs as they no longer need to conform to different standards.;['0', '0', '0', '0', '0']; ;3
+263;1.2.2.2;pro;"Measures like the Euro were implemented to reduce internal barriers to trade; a USE having a formal standardised currency across all states would be beneficial on this basis.";['0', '0', '0', '0', '0']; 1;3
+264;1.2.2.2.2;con;It can be harmful to combine many countries under one valuta.;['0', '0', '0', '0', '0']; ;4
+265;1.2.2.2.2.1;pro;Internal money transfers are a common feature of federal states (e.g. Equalization Payments in Germany) and burden wealthier states.;['0', '0', '0', '0', '0']; ;5
+266;1.2.2.2.2.2;pro;The Greek government debt crisis illustrated how a struggling economy in the EU will not benefit from improved exchange rates.;['0', '0', '1', '0', '0']; 7;5
+267;1.2.2.3;pro;Differing rules of origin for products means businesses need to set up production processes in multiple member states.;['0', '0', '0', '0', '0']; ;3
+268;1.2.2.4;pro;Overhead costs incurred in obtaining a work permit, a residence permit, driving license, etc., can be avoided.;['0', '0', '0', '0', '0']; ;3
+269;1.2.3;pro;A deeper financial integration would create financial stability in the USE.;['3', '2', '1', '6', '13']; 4;2
+270;1.2.3.1;pro;A unified fiscal policy will be beneficial for current member states.;['0', '0', '0', '0', '1']; ;3
+271;1.2.3.1.1;pro;A monetary union can only work if accompanied by a common fiscal policy. They are two sides of the same coin (p. 72).;['0', '0', '0', '0', '1']; ;4
+272;1.2.3.1.2;pro;"Strong fiscal policies have been correlated with tackling inequality; a unified fiscal policy could address the inequalities existing in the current EU.";['0', '0', '0', '0', '1']; ;4
+273;1.2.3.1.3;pro;A common fiscal policy will allow current member states to share the risk of any economic shock, preventing any one member state from facing the brunt of a crisis.;['0', '0', '0', '1', '1']; ;4
+274;1.2.3.1.3.1;pro;The harms of country-specific macroeconomic shocks will be distributed across all current member states.;['0', '0', '0', '0', '0']; ;5
+275;1.2.3.1.3.2;pro;"Greece accounts for less than 2% of the output of the EU; writing off its risk would be easy if the EU had a common fiscal policy.";['0', '0', '0', '0', '2']; ;5
+276;1.2.3.1.4;con;A unified fiscal policy could create a greater barrier to entry for prospective states.;['0', '0', '0', '0', '0']; ;4
+277;1.2.3.3;pro;By standardising taxation policy, neither corporations or individuals would be able to migrate to member states that have low corporate tax. This would allow the USE to obtain more taxation revenue which it can then reinvest into services.;['0', '0', '0', '0', '3']; 9;3
+278;1.2.3.3.1;pro;The current European Union is already making small steps in this regard. In a USE its ability to do so would be greatly increased.;['0', '0', '0', '0', '1']; ;4
+279;1.2.3.3.2;con;High(er) taxes do not make wealthy individuals move.;['0', '0', '0', '0', '0']; 3;4
+280;1.2.3.3.2.1;pro;"The average millionaire is relatively old with deep roots in their community; they usually have strong family and business ties.";['0', '0', '0', '0', '0']; ;5
+281;1.2.3.3.2.2;pro;"In the US, tax burden various greatly between the individual states; however, only about 2.5% of millionaires move to different states each year. Also, not all millionaires move to lower-tax states.";['0', '0', '0', '0', '0']; ;5
+282;1.2.3.3.3;con;This could lead to capital flight.;['1', '0', '0', '0', '1']; 1;4
+283;1.2.3.3.3.1;pro;Hong Kong has incredibly low corporate tax rates.;['0', '0', '0', '0', '0']; ;5
+284;1.2.3.3.3.2;pro;"Singapore's low tax rates make it seem like a tax haven; it is one country corporations could relocate to.";['0', '0', '0', '0', '0']; ;5
+285;1.2.3.3.3.3;con;Relevant successful businesspeople started their business in big federations (e.g., the USA) with relatively high taxes but stable and predictable fiscal policies (e.g., Elon Musk started his business in the USA).;['0', '0', '0', '0', '0']; 1;5
+286;1.2.4;con;Regional economic imbalances will make economic policies ineffective.;['3', '2', '1', '1', '4']; 5;2
+287;1.2.4.1;pro;The economies of EU member states are shown to vary in terms of their individual wealth and contribution to the bloc’s combined GDP. In 2016, Germany accounted for over a fifth (21.1%), then the U.K. (16.0%), France (15.0%), Italy (11.3%), Spain (7.5%) and the Netherlands (4.7%).;['0', '0', '0', '0', '1']; ;3
+288;1.2.4.1.1;pro;Eleven Member States had a GDP of less than 1% of the EU total. They were: Malta, Cyprus, Estonia, Latvia, Lithuania, Slovenia, Croatia, Bulgaria, Luxembourg, Slovakia and Hungary.;['0', '0', '0', '0', '0']; ;4
+289;1.2.4.2;pro;Due to structural divergences between the member states' economies, there is a difference in the need for fiscal discipline for some states and government spending for others.;['0', '0', '0', '0', '0']; ;3
+290;1.2.4.2.1;pro;It is important for countries to be able to set their own interest and exchange rates to combat unemployment and inflation as they arise. A common currency means countries cannot do this themselves;['0', '0', '0', '0', '0']; ;4
+291;1.2.4.2.2;pro;"In the long term, devaluation would have devasted southern states' economies, while countries such as Germany benefited from a ""weak"" currency, because it helps their exports.";['0', '0', '0', '0', '0']; 18;4
+292;1.2.4.3;con;The EU is trying to fix this problem with specific cohesion funds.;['0', '0', '0', '0', '1']; ;3
+293;1.2.4.4;con;The USE will help to reduce economic inequalities between current member states.;['0', '0', '0', '0', '0']; ;3
+294;1.2.4.4.1;pro;The USE public administration can better redistribute wealth and jobs among the different members of the union.;['0', '0', '0', '1', '1']; ;4
+295;1.2.4.4.1.1;pro;Most European countries have strong social benefits programs including healthcare, retirement and (nearly) free basic and higher education. The USE will be able to equitably spread out the benefits of such programs.;['0', '0', '0', '0', '0']; ;5
+296;1.2.4.4.2;pro;A unified USE makes it possible to establish a uniform social security system throughout Europe. Such a system is vital to avoid social crises, like the one that happened in Greece.;['0', '0', '0', '0', '3']; 5;4
+297;1.2.4.4.2.1;pro;A unified social security system would see financial transfers from richer nations to poorer ones.;['0', '0', '0', '0', '0']; ;5
+298;1.2.4.4.2.1.1;con;Rich countries would be opposed to greater fiscal integration on most big-ticket items (e.g. healthcare, pensions, welfare) as they would see this as a subsidy to poorer countries.;['0', '0', '0', '0', '0']; ;6
+299;1.2.4.4.2.1.1.1;pro;Rich regions likely would not accept sharing their wealth, as the latest example of Catalonia's independence effort shows. One of the biggest reasons for secession is economic.;['0', '0', '0', '0', '0']; ;7
+300;1.2.4.4.2.1.1.1.1;con;Rich regions in the EU are already sharing their wealth with poorer ones. There is no reason to think this would not be the case in a USE.;['0', '0', '0', '0', '0']; ;8
+301;1.2.4.4.2.1.1.2;con;The richer countries already contribute more to the EU than they are getting back financially. They receive other benefits, which would not have to change in case of a change in structure.;['0', '0', '0', '0', '0']; 1;7
+302;1.2.4.4.3;con;Economically stronger countries would be hurt.;['0', '0', '0', '0', '0']; ;4
+303;1.2.4.4.3.2;con;Rich regions would benefit from increased economic and political stability in Europe. For example, relatively small, fiscally irresponsible Greece played a major role in a crisis that affected all of Europe.;['0', '0', '0', '0', '2']; ;5
+304;1.2.4.5;con;Almost every country in the world has similar problems, with some regions being much more well developed than others.;['0', '0', '0', '0', '2']; ;3
+305;1.2.4.5.1;pro;In the USA, the state of California has around the same GDP as the UK, with it being around 5 times the state of Massachusetts, which is somewhere in the middle in terms of GDP in the USA.;['0', '0', '0', '0', '0']; 1;4
+306;1.3;pro;The development of the European Union since 1945 has been one of the most successful peace projects in history. Developing the EU into a USE will consolidate this effort and ensure lasting peace.;['28', '6', '7', '24', '182']; 16;1
+307;1.3.1;pro;A strong European identity would make the region more peaceful.;['3', '2', '1', '3', '14']; ;2
+308;1.3.1.2;con;Historically, strong national identities have not made nations more peaceful.;['0', '0', '0', '0', '1']; ;3
+309;1.3.1.2.1;pro;A strong German identity in the 1930s did not bring about more peace. A strong Russian identity in the 1910s did not bring about more peace. A strong British identity in the 1800s did not bring about more peace. An expansionist EU identity could also increase the risk of conflict.;['0', '0', '0', '0', '0']; 5;4
+310;1.3.2;pro;The EU has contributed to peace since its inception;['0', '0', '0', '0', '0']; ;2
+311;1.3.2.1;pro;The EU was instrumental as a driver of the Good Friday Agreement.;['0', '0', '0', '0', '0']; 3;3
+312;1.3.2.2;pro;European nations have been at war every single generation until now - the baby boomers are the first generation in the Western part of the EU to have lived without war.;['0', '0', '0', '0', '0']; 4;3
+313;1.3.2.3;pro;"According to the Nobel committee, the EU ""contributed to the advancement of peace"".";['0', '0', '0', '0', '0']; 8;3
+314;1.3.2.3.1;con;Argumentum ab auctoritate.;['0', '0', '0', '0', '0']; ;4
+315;1.3.2.3.2;con;This was met with strong criticism.;['0', '0', '0', '0', '0']; ;4
+316;1.3.2.4;con;Since the EU has been at peace since 1945, it is clear that peace is possible without the USE.;['0', '0', '0', '0', '0']; 2;3
+317;1.3.2.4.1;pro;It is a basic result of peace research that democracies do not fight each other. There is, therefore, no need to create a USE to maintain peace in Europe.;['0', '1', '0', '0', '0']; 7;4
+318;1.3.2.4.2;con;The current Libyan crisis is the perfect example where two European states, namely France and Italy, are supporting different sides for their own gain and pushing a foreign country to the brink of civil war. A USE where the states have no foreign policy would avoid such risks.;['0', '0', '0', '1', '2']; 3;4
+319;1.3.2.4.2.1;pro;Italy is currently (as of 01/05/2019) supporting the Al-Serraj government, publicly supported by the U.N. and EU, whereas evidence suggests France supports Haftar.;['0', '0', '0', '0', '1']; 3;5
+320;1.3.2.4.3;con;That does not preclude conflict arising in the future. It is best to take measures which decrease the probability of future conflict, rather than assuming conflict will never occur.;['0', '0', '0', '1', '0']; ;4
+321;1.3.3;con;Robust and open trade is more likely to bring peace among members without the risks associated with forming a large federation.;['6', '1', '2', '3', '9']; 9;2
+322;1.3.3.1;pro;People with shared economic interests are less likely to fight amongst each other.;['0', '0', '0', '0', '0']; 1;3
+323;1.3.3.2;pro;The USE will require participating countries to abandon their sovereignty and give it to the newly created political entity. This is a serious obstacle to realising the USE.;['0', '1', '0', '0', '0']; 2;3
+324;1.3.3.2.1;pro;A USE would centralise many policy areas, depriving former member states from regulating on those areas.;['2', '3', '2', '2', '4']; 3;4
+325;1.3.3.2.1.1;pro;Economic policy would have to be determined by the centre for it to be effective.;['0', '0', '0', '0', '1']; 6;5
+326;1.3.3.2.2;pro;Loss of sovereignty is never popular, and will lead to increasing political discontent. This will only hinder the stability of the USE.;['2', '1', '2', '4', '0']; ;4
+327;1.3.3.2.2.1;pro;An inability to elect a government that was reflective of their own beliefs led to the Scottish referendum: whatever way Scotland votes, they get a much more right-wing government than they want as England has the majority of seats in Parliament. Such sentiments will only be exacerbated when power moves even further away to a supra-national level.;['0', '0', '0', '0', '0']; ;5
+328;1.3.3.2.2.1.1;pro;The more the British government moves away from Scottish opinion, the more support there is for Scottish independence.;['0', '0', '0', '0', '0']; ;6
+329;1.3.3.2.2.2;pro;"It was a loss of sovereignty that led to the British wanting to leave the EU; any further attempts to remove power from Britain will inevitably lead to protests and increasing discontent.";['0', '0', '0', '0', '0']; ;5
+330;1.3.3.2.2.2.1;pro;Thousands are already protesting at the possibility of not leaving the EU.;['0', '0', '0', '0', '0']; ;6
+331;1.3.3.2.3;pro;"Many nations had to fight for their sovereignty; therefore, it is very unlikely that they will give up sovereignty to a supranational government.";['5', '6', '4', '2', '1']; 5;4
+332;1.3.3.2.3.1;pro;Many Poles paid with their lives for their sovereignty at the Katyn massacre.;['0', '0', '0', '0', '1']; 1;5
+333;1.3.3.2.3.1.1;con;Which was committed by the Soviet Union, in wartime. The fear of war and the vulnerability of an isolated Poland at the time are lessons that should lead us to support a strong EU, not to oppose it.;['0', '0', '0', '0', '0']; 1;6
+334;1.3.3.2.3.2;con;"Many of these fights were fought for popular sovereignty, mainly against monarchical or foreign rule. The USE as a super-federal construct would not put the sovereignty of the people at stake; there would only be more levels of decision-making.";['0', '0', '0', '0', '1']; 1;5
+335;1.3.3.2.3.3;con;"People have fought and died for all sorts of causes; this does not automatically makes the cause to be in any way desirable or even applicable.";['1', '0', '0', '0', '1']; ;5
+336;1.3.3.2.4;con;EU countries already give up large amounts of their sovereignty.;['3', '0', '3', '5', '17']; 2;4
+337;1.3.3.2.4.1;pro;Countries forfeit a certain degree of sovereignty when they join international institutions.;['0', '0', '0', '0', '0']; ;5
+338;1.3.3.2.4.1.1;pro;The European Court of Justice is the highest court for any member state, and can overrule the Supreme Courts of individual states.;['0', '0', '0', '0', '0']; ;6
+339;1.3.3.2.4.1.1.1;pro;Participation in the EU entails a limitation of sovereignty, as recognised by the ECJ in Van Gend and Loos. Increased sovereignty does not present qualitatively different obstacles to the integration process already successfully in place.;['0', '0', '0', '0', '0']; 2;7
+340;1.3.3.2.4.1.2;pro;EU member states are part of the World Trade Organisation, agreeing to abide by an internationally agreed set of trade rules. This implicitly concedes the ultimate right to determine your own trade rules.;['0', '0', '0', '0', '0']; ;6
+341;1.3.3.2.4.2;pro;Countries do not have complete sovereignty in the status quo.;['0', '0', '0', '0', '1']; ;5
+342;1.3.3.2.4.2.1;pro;Smaller states are often dependent on larger states, even in terms of internal policy, which means that the relationship between states is better understood in terms of power relationship rather than sovereignty.;['0', '0', '0', '0', '1']; ;6
+343;1.3.3.2.4.2.2;pro;Governments often cede sovereignty to international treaties and organizations.;['0', '0', '0', '0', '0']; ;6
+344;1.3.3.2.4.2.2.1;con;The United Nations, one of the major international organizations, actually aims to uphold state sovereignty.;['0', '0', '0', '0', '0']; ;7
+345;1.3.3.2.4.2.3;pro;Globalization has meant all states have had to cede some sovereignty to others.;['0', '0', '0', '0', '0']; ;6
+346;1.3.3.2.4.2.3.1;pro;Globalisation has encouraged a race to the bottom, where current member states are lowering regulatory standards in order to attract businesses when they otherwise would not want to. The collective bargaining power of the USE would prevent such a race to the bottom.;['0', '0', '0', '0', '0']; 9;7
+347;1.3.3.2.4.2.4;con;Even if countries do not have full and complete sovereignty, the USE would doubtlessly lead to countries having less sovereignty.;['0', '0', '0', '0', '0']; ;6
+348;1.3.3.2.4.3;con;It is vital countries retain as much sovereignty as possible.;['0', '0', '0', '0', '0']; ;5
+349;1.3.3.2.4.3.1;pro;A loss of sovereignty cedes power to actors who may not have that state's interests at heart.;['0', '0', '0', '0', '0']; ;6
+350;1.3.3.2.5;con;This happens in any federation. There was a willful intention to lose sovereignty and to standardize laws and treaties from the very start of the EU.;['0', '0', '1', '0', '6']; 9;4
+351;1.3.3.2.5.1;pro;A good example of states losing sovereignty to a federation is the United States of America.;['0', '0', '0', '0', '0']; ;5
+352;1.3.3.2.5.2;pro;Parliaments around Europe have ceded to the primacy of EU law up to now because they see the benefits that can be realised if they do.;['0', '0', '0', '0', '0']; ;5
+353;1.3.3.2.5.3;con;The USE would lead to a further loss of sovereignty compared to the EU, so it is unclear why a loss of some sovereignty is an indication of support for losing even more.;['0', '0', '0', '0', '0']; ;5
+354;1.3.3.2.6;con;There is a benefit to ceding part of ones sovereignty in a small nation state to have influence and hence sovereignty over a much larger body.;['0', '2', '1', '1', '6']; ;4
+355;1.3.3.2.6.1;pro;Countries will have a greater say over federal policies as a whole.;['0', '0', '0', '0', '0']; 10;5
+356;1.3.3.2.6.2;con;Individual voters would have less power per vote, as their vote would only count as one in 512 million, as opposed to one in their country's smaller population number.;['0', '0', '0', '0', '0']; ;5
+357;1.3.3.3;pro;Nations with robust and open trade are more likely to have republican or democratic virtues, and thus cultures which are unwilling to engage in war with other, similar, nation states.;['0', '0', '0', '0', '0']; 3;3
+358;1.3.3.4;con;Robust and open trade is an outcome of long lasting peace and mutual trust. While more amicable deals will always help solidify peace, you can't have trade before the other.;['0', '0', '0', '1', '1']; ;3
+359;1.3.3.5;con;Trade can be a potential source of conflict (p. 3), but this would be lessened in a federated system with greater integration.;['0', '0', '0', '0', '0']; ;3
+360;1.3.4;con;Factors other than the EU were responsible for peace in Europe.;['3', '5', '2', '2', '3']; ;2
+361;1.3.4.1;pro;In Europe, there has been peace because of a Pax Americana.;['0', '0', '0', '1', '0']; ;3
+362;1.3.4.1.1;con;It's only a matter of time before EU-US relations sour.;['0', '0', '0', '0', '1']; 10;4
+363;1.3.4.1.2;con;Pax Americana is not a theory with explanatory power, but rather a statement of how things are. The success of the European project on the peace front helps explain how Pax Americana came to be.;['0', '0', '0', '0', '0']; ;4
+364;1.3.4.2;pro;NATO has been the guarantor of peace in Europe for the last half-century. There was a long time of peace from the end of the Second World War to the creation of the EU.;['0', '0', '0', '0', '1']; ;3
+365;1.3.4.2.1;pro;“The EU has been a consequence, not a cause of European peace.” Source: David Abulafia, Professor of History at Cambridge University.;['0', '0', '0', '0', '0']; 4;4
+366;1.3.4.2.2;con;NATO has been unstable and subject to various crises.;['0', '0', '0', '0', '0']; 2;4
+367;1.3.4.2.2.1;pro;France left the NATO in 1966, meaning that a military alliance is not enough to keep nations together.;['0', '0', '0', '0', '0']; ;5
+368;1.3.4.2.2.2;pro;"The underlying factors that led to the two world wars were not actually addressed by NATO; these problems were solved only by trusting each other in economy and diplomacy, with actions such as free trade and free movement.";['0', '0', '0', '0', '0']; 3;5
+369;1.4;pro;The USE will be more effective than the EU at promoting a common European foreign policy.;['0', '2', '2', '5', '54']; 16;1
+370;1.4.1;pro;Given the decline of the US as a super power, the USE could be necessary to act against the rise of non-western powers.;['0', '0', '0', '0', '1']; 3;2
+371;1.4.1.1;pro;The only economy large enough to stand against China besides the US currently is the combined economic power of the EU.;['0', '0', '0', '0', '0']; 4;3
+372;1.4.1.2;pro;This is especially pertinent in the face of a Russia that is becoming increasingly assertive - or even aggressive - in Europe's neighborhood and even Europe itself.;['0', '0', '0', '0', '0']; 1;3
+373;1.4.1.2.1;pro;Russian' agents assassinated a Chechen Georgian in Berlin in 2019 and tried to poison a Russian activist on a plane in 2020 as well as two Russian citizens in England in 2018.;['0', '0', '0', '0', '0']; 3;4
+374;1.4.1.2.2;pro;Russia invaded and annexed parts of Ukraine since 2014.;['0', '0', '0', '0', '0']; 1;4
+375;1.4.1.2.3;con;Europe is already able to deter Russia sufficiently well since most of its members are tied together in NATO, and since its potential to impose economic sanctions is immense.;['0', '0', '0', '0', '0']; 5;4
+376;1.4.1.2.3.1;pro;The EU has shown that it is willing to respond with one voice to Russian aggression. This is illustrated by the sanctions that have been in place against Russian individuals and entities ever since the Ukraine crisis in 2014.;['0', '0', '0', '0', '0']; ;5
+377;1.4.1.2.3.2;pro;"The member countries of the EU are tied together through a mutual defense clause in the Lisbon Treaty that obliges them to assists by ""all the means in their power"" any member state that is ""the victim of armed aggression on its territory"". This makes any escalating tensions with Russia highly unlikely.";['0', '0', '0', '0', '0']; ;5
+378;1.4.1.2.3.3;pro;Of the 27 member states of the EU, currently 21 are also NATO members. Any attack on them would oblige the other member states of NATO - including the United States - to come to their aid. This deters Russian aggressiveness.;['0', '0', '0', '0', '0']; ;5
+379;1.4.1.2.3.4;con;These potential measures against Russia are easier to activate in a more united EU: an USE.;['0', '0', '0', '0', '0']; ;5
+380;1.4.1.2.3.4.1;pro;The most effective measure against Russia would be to not import its natural resources anymore. Oil and gas are responsible for 30% of Russian's GDP. 60% of Russian's export consists of oil and gas. 38% of Russian's export goes to the EU. But the EU is heavily dependant on Russia for these resources. To quickly transfer to sustainable energy sources, and heavily decrease these imports from Russia, drastic investments are needed. This calls for a more united EU: an USE.;['0', '0', '0', '0', '0']; 1;6
+381;1.4.2;pro;The USE will enable a more assertive foreign and defense policy for the benefit of its members.;['0', '1', '1', '1', '8']; 11;2
+382;1.4.2.1;pro;The USE will likely take the UK and France's position in the UNSC, obtaining a veto power.;['2', '2', '2', '2', '13']; 3;3
+383;1.4.2.1.1;con;The UK and France are already part of the P5 in the UNSC.;['0', '0', '0', '1', '0']; 7;4
+384;1.4.2.1.1.1;con;France (and UK) are not obliged to represent EU interests in the security council, but their own.;['0', '0', '0', '0', '1']; ;5
+385;1.4.2.1.1.2;con;As the UK is leaving, there will only be one EU nation in the UNSC: France.;['0', '0', '0', '0', '1']; ;5
+386;1.4.2.1.2;con;This would relatively lessen European power in the UN, as it would be giving up one two votes for one.;['0', '0', '0', '0', '0']; ;4
+387;1.4.2.2;pro;A USE will be able to better defend its borders than the EU in its current form.;['0', '0', '0', '0', '2']; 3;3
+388;1.4.2.2.1;pro;The current global arms race is dangerous, and Europe is at risk of falling behind other global players such as the US and China. A USE would be able to better pool and allocate its resources in order to upgrade its military.;['0', '0', '0', '0', '1']; 3;4
+389;1.4.2.2.2;pro;A USE would provide a greater military deterrent than the EU does.;['0', '0', '0', '0', '0']; 7;4
+390;1.4.2.2.2.1;pro;The USE would be able to take advantage of nuclear deterrence.;['0', '0', '0', '0', '0']; 1;5
+391;1.4.2.2.2.2;pro;"Russia is an enemy of the EU; a USE would consolidate European powers against it.";['0', '0', '0', '0', '0']; 1;5
+392;1.4.2.2.2.2.1;pro;Europe needs a strong military deterrent to combat Russia's aggressive expansionism.;['0', '0', '0', '0', '0']; ;6
+393;1.4.2.2.2.2.1.1;pro;Europe has imposed sanctions against Russia for its annexation of Crimea.;['0', '0', '0', '0', '0']; ;7
+394;1.4.2.2.2.2.1.2;con;On the contrary, Russia is likely to see a new, more powerful neighbour as a military threat, which could result in escalating tensions.;['0', '0', '0', '0', '0']; ;7
+395;1.4.2.2.2.2.1.2.1;pro;"Russia has already designated NATO as a security threat; it will almost certainly respond to a USE army in the same way.";['0', '0', '0', '0', '0']; ;8
+396;1.4.2.2.2.2.2;pro;In Poland, parliamentary elections in 2007 were swayed by hostile rhetoric towards Russia.;['0', '0', '0', '0', '0']; ;6
+397;1.4.2.2.2.2.3;pro;Europe is reluctant to grant visa free travel for Russians between the exclave Kaliningrad and the Russian mainland.;['0', '0', '0', '0', '0']; 2;6
+398;1.4.2.2.2.2.4;pro;Russia purposefully operates disinformation (fake news) campaigns in order to manipulate and weaken EU members. This can rightly be considered as hostile to the EU.;['0', '0', '0', '0', '0']; ;6
+399;1.4.2.2.2.3;pro;A unified USE military force would be stronger than any individual member state's army.;['0', '0', '0', '0', '0']; ;5
+400;1.4.2.2.2.3.1;pro;According to 2018's global firepower ranking, the EU member states combined have the second most powerful military behind the USA.;['0', '0', '0', '0', '0']; ;6
+401;1.4.2.2.2.3.2;pro;The military budget of EU member states is about $200bn, which outstrips China's $146bn.;['0', '0', '0', '0', '0']; ;6
+402;1.4.2.2.3;pro;The weakness of the German military illustrates the need for a united European army: if all EU member states' armies are combined, they will be able to make up for each others weaknesses.;['0', '0', '0', '0', '1']; 2;4
+403;1.4.2.2.4;pro;The EU needs to increase its defence programmes as it cannot rely on the US any longer.;['0', '0', '0', '0', '0']; 1;4
+404;1.4.2.2.4.1;pro;NATO has been an economic burden for the US: roughly half of the American defensive budget (150$ billion annually) is devoted to sustaining the NATO commitment.;['0', '0', '0', '0', '0']; 3;5
+405;1.4.2.2.4.2;pro;In the past decade (during the Obama and Trump presidency), the US has pivoted its diplomatic focus to Asia. This has weakened NATO.;['0', '0', '0', '0', '0']; 3;5
+406;1.4.2.2.4.3;pro;The trans-atlantic alliance with the US has been reducing in strength over the past decade and more rapidly during the Trump administration in the US.;['0', '0', '0', '0', '0']; 6;5
+407;1.4.2.2.4.3.1;pro;The current US president has expressed unwillingness to continue footing the bill.;['0', '0', '0', '0', '0']; 1;6
+408;1.4.2.2.4.4;con;"The US has reiterated firm commitment to the European front in the 2018 Nuclear Posture Review, explicitly stating ""No country should doubt the strength of our extended deterrence commitments or the strength of U.S. and allied capabilities to deter, and if necessary defeat, any potential adversary’s nuclear or nonnuclear aggression.""";['0', '0', '0', '0', '0']; 1;5
+409;1.4.2.2.5;con;"Member states currently disagree on military policy; such disagreement will spill over into a USE, curtailing its effectiveness.";['0', '0', '0', '0', '0']; ;4
+410;1.4.2.2.5.1;pro;The Falkland Islands remain contentious, with Spain saying they would support Argentina while the UK would vie for continued possession.;['0', '0', '0', '0', '0']; 5;5
+411;1.4.2.2.5.2;pro;There is deadlock on how to deploy existing EU battalions. The use of a USE army would not be any more functional than this.;['0', '0', '0', '0', '0']; ;5
+412;1.4.2.2.6;con;"Some EU member states are known to be 'neutral' nations; this means they avoid military conflict. If they become a part of a new USE, they will lose this neutrality, and so become members to future conflict.";['0', '0', '0', '0', '0']; ;4
+413;1.4.2.2.6.1;pro;Sweden is one such neutral nation, who would not wish to be bound into military conflict.;['0', '0', '0', '0', '0']; ;5
+414;1.4.2.2.6.2;pro;Some smaller countries such as Ireland have strong international respect as a militarily neutral nation, which would be lost.;['0', '0', '0', '0', '0']; 9;5
+415;1.4.2.2.6.3;pro;Switzerland has a long history of being a neutral country, and as a result has avoided participating in military conflicts.;['0', '0', '0', '0', '0']; ;5
+416;1.4.2.2.7;con;Many EU nations have harmful foreign policies. A USE, as a more powerful nation, would only exacerbate the harmful effects of such policies;['0', '0', '0', '0', '0']; 2;4
+417;1.4.2.2.7.1;pro;France has been accused of continuing to support colonialist policies in many of its former African colonies.;['0', '0', '0', '0', '0']; ;5
+418;1.4.2.2.7.2;pro;EU multinationals are already destroying the farming trade in Africa.;['0', '0', '0', '0', '0']; ;5
+419;1.4.2.2.7.3;con;Influencing small states is not inherently negative. A unified Europe could very well use its soft power to support human rights in states like Belarus.;['0', '0', '0', '0', '1']; ;5
+420;1.4.2.2.8;con;This would result in more money going towards the military, taking away funds from other services.;['0', '0', '0', '0', '0']; ;4
+421;1.4.2.2.9;con;Given that most of Europe is already part of NATO, the difference to the status quo is marginal.;['0', '0', '0', '0', '0']; 1;4
+422;1.4.2.2.9.1;con;NATO is fairly weakened, due to a withdrawal of US arms from Europe and a general decline of military power and resolve, as can be seen by Russia's nearly unchallenged actions in Crimea and Ukraine’s Donbass region. A unified and assertive USE will change this dynamic due to an increased deterrent effect.;['0', '0', '0', '0', '0']; 3;5
+423;1.4.2.3;con;Most ESU states outsource much of their defense spending from the US currently. It is unclear if the US would continue to do so for an USE.;['0', '0', '0', '0', '0']; 1;3
+424;1.4.3;pro;A USE will be able to better coordinate its policy on climate change.;['0', '1', '1', '0', '8']; 2;2
+425;1.4.3.2;pro;At the moment, the EU can only set out frameworks on climate change policies, as opposed to requiring Member States to implement specific policies. A political union will eliminate this problem.;['0', '0', '0', '0', '0']; ;3
+426;1.4.3.2.1;pro;"Current EU measures are 'clearly insufficient'; a USE would be more able to meet potential new targets of Europe becoming carbon-neutral by 2050.";['0', '0', '0', '0', '0']; ;4
+427;1.4.3.3;con;"The EU in its current form is doing enough to tackle climate change; there is no need for a USE when it comes to this issue.";['0', '0', '0', '0', '0']; ;3
+428;1.4.3.3.1;pro;The EU has refused to sign trade deals with countries that do not ratify the Paris climate change accords.;['0', '0', '0', '0', '0']; ;4
+429;1.4.3.3.1.1;con;The US and EU have continued trade and signing trade deals, despite the fact that the US has left the Paris Climate Accords.;['0', '0', '0', '0', '0']; ;5
+430;1.4.3.3.2;con;Litigants from eight member states are taking the European Parliament and the Council of the European Union are being taken to court for allowing overly high greenhouse gas emissions to continue until 2030.;['0', '0', '0', '0', '0']; ;4
+431;1.4.3.3.3;con;While the EU is doing well, it could be doing better if there was more coordination as EU countries currently widely differ on climate change adaption strategies.;['0', '0', '0', '0', '0']; ;4
+432;1.4.3.4;con;"This will not impact the effects of global climate change; only that of Europe.";['0', '0', '0', '0', '0']; ;3
+433;1.4.5;con;Forcing foreign policy plans on nations previously used to being independent would cause a lack of unity within the USE, and may even cause independence movements within the new nation.;['0', '0', '2', '0', '0']; 3;2
+434;1.4.5.1;pro;Individual European states differ greatly when it comes to their energy sources, particularly when it comes to the importing of Russian crude oil.;['0', '0', '0', '0', '0']; ;3
+435;1.4.5.2;pro;Some European countries, for example, would like to view China as a strategic partner, while others would like the common EU policy to view China as a strategic rival.;['0', '0', '0', '0', '0']; ;3
+436;1.4.6;con;Even within an USE there would be many foreign policy disagreements between the member states leading to an ineffective European policy.;['0', '0', '0', '0', '0']; ;2
+437;1.4.6.1;con;In the United States of Europe, individual states would have less control over foreign policy than the federal system, leading to less conflict over things they have little control over.;['0', '0', '0', '0', '0']; ;3
+438;1.4.6.2;con;The divergence of views on foreign policy across the USE would be a saefguard against 'groupthink', which has led to foreign policy disasters in the past.;['0', '0', '0', '0', '0']; ;3
+439;1.6;con;"The USE won't be a better democracy than the EU; the EU has a democratic deficit, which the USE would likely inherit.";['49', '23', '23', '34', '104']; 28;1
+440;1.6.1;pro;The creation of a strengthened monopoly of power could harm those who have differing or opposing views to the central government. This is underlined by today's EU behavior.;['4', '2', '3', '1', '2']; 37;2
+441;1.6.1.1;pro;"The European Commission is trying to merge the Presidents of the European Commission and the European Council into one presidency. Quote: ""Europe would be easier to understand if one captain was steering the ship"". This erodes control mechanisms.";['0', '0', '0', '0', '1']; 4;3
+442;1.6.1.2;pro;The President of the European Commission Jean-Claude Juncker told European citizens that Britain will be treated as “deserters” following a vote to leave the European Union. This is intimidation.;['0', '0', '0', '0', '3']; 16;3
+443;1.6.1.2.1;con;The fact that Brexit is allowed to happen illustrates the fact that the EU allows for dissent.;['0', '0', '0', '0', '0']; ;4
+444;1.6.1.2.1.1;con;This would presumably be disallowed under a USE, which serves to strengthen the point that dissent would be met increasingly poorly.;['0', '0', '0', '0', '0']; ;5
+445;1.6.1.4;con;In 2017, virtually every EU country scored highly on the Human Freedom Index, indicative of a lack of totalitarian influence.;['0', '0', '0', '0', '1']; ;3
+446;1.6.1.5;con;Persecution of the minority is a trait of autocratic forms of government. The EU does not have, permit, or tolerate any sort of laws that can facilitate discrimination. This is codified in its Fundamental Rights Charter.;['0', '0', '0', '0', '1']; 1;3
+447;1.6.1.6;con;Freedom of speech is a fundamental human right within the EU, and it allows for democratic debate.;['1', '0', '0', '1', '3']; 2;3
+448;1.6.1.6.1;pro;Euroskeptic Marine Le Pen has a long history in the European Parliament and has been allowed to express her beliefs freely.;['0', '0', '0', '0', '0']; ;4
+449;1.6.1.7;con;A USE would evolve institutionally in the direction of democracy.;['0', '0', '0', '0', '0']; ;3
+450;1.6.1.7.1;pro;The European Parliament is likely to play a bigger role in the USE as it would be a political union now, and this would increase democratic legitimacy.;['0', '0', '0', '0', '0']; 2;4
+451;1.6.1.7.2;pro;A directly elected USE executive, and moving away from the current mixed model which includes significant intergovernmental elements, would strengthen democratic legitimacy and accountability.;['0', '0', '0', '0', '0']; 1;4
+452;1.6.1.7.3;con;This is by no means certain.;['0', '0', '0', '0', '1']; ;4
+453;1.6.2;pro;People are no longer feeling represented by EU's politicians.;['4', '5', '3', '1', '5']; 2;2
+454;1.6.2.1;pro;Polls and referendums suggest that European citizens are against the USE.;['0', '0', '0', '0', '0']; 18;3
+455;1.6.2.1.1;pro;Many former Warsaw Pact members are not supportive of further EU integration.;['4', '2', '2', '3', '2']; 5;4
+456;1.6.2.1.1.1;pro;Euroscepticism is widespread among the citizens of the Czech Republic.;['1', '0', '0', '0', '1']; ;5
+457;1.6.2.1.1.1.1;pro;According to a survey, only 25% of Czechs were satisfied with their European Union membership.;['0', '0', '0', '0', '0']; 2;6
+458;1.6.2.1.1.1.1.1;con;This poll is simply outdated and cherry-picking. The same institute puts the satisfaction at 36% in 2018. The same institute also puts approval of EU membership at 62% (vs 31% who believe CZ should leave).;['0', '0', '0', '0', '0']; 2;7
+459;1.6.2.1.1.2;pro;Hungary is increasingly Eurosceptic.;['0', '0', '0', '0', '1']; ;5
+460;1.6.2.1.1.2.1;con;Despite euroscepticism reported in media, a majority of Hungarians feel that their voice is heard in the EU (50% heard vs 47% not heard) and trust in the EU has been rising strongly in recent polls. Source;['0', '0', '0', '0', '0']; 5;6
+461;1.6.2.1.1.3;pro;Poland has strong Eurosceptic sentiments.;['0', '0', '0', '0', '1']; ;5
+462;1.6.2.1.1.4;con;Lithuania, Estonia and Latvia (the only former Soviet Union members in the EU) are among the most pro-European nations in the EU.;['0', '1', '0', '0', '1']; ;5
+463;1.6.2.1.1.4.1;pro;These states all have high trust in the EU and they are among the strongest proponents of further integration plans.;['0', '0', '0', '0', '1']; ;6
+464;1.6.2.1.1.5;con;Politicians of these countries and some others foster anti EU sentiments, not giving visibility to EU achievements, while simultaneously blaming problems of their countries on the EU.;['0', '0', '0', '0', '0']; 13;5
+465;1.6.2.1.1.5.1;pro;Viktor Orban accused EU Commissioner Jean-Claude Juncker and United States billionaire George Soros of flooding the EU with migrants.;['0', '0', '0', '0', '0']; ;6
+466;1.6.2.1.1.5.2;pro;UK politicians lied about the contributions given to the EU and about the possibility to have £350 million weekly back from the EU, which wont happen but served as an effective campaign message for Brexit. Instead of focusing on how to resolve their domestic problems, they focused on blaming EU for their problems.;['0', '0', '0', '0', '0']; 3;6
+467;1.6.2.1.2;pro;The idea of a united Europe is on the decline as eurosceptic parties are registering gains in elections.;['0', '6', '4', '1', '4']; 1;4
+468;1.6.2.1.2.1;pro;Eurosceptic parties are gaining electoral ground in the EU.;['0', '0', '0', '0', '0']; 2;5
+469;1.6.2.1.2.1.1;pro;The French National Front's popularity is hovering around 13%.;['1', '0', '0', '0', '0']; ;6
+470;1.6.2.1.2.1.2;pro;The Freedom Party of Austria won 26% of the vote in 2017.;['1', '0', '0', '0', '0']; ;6
+471;1.6.2.1.2.1.3;pro;The Dutch Party for Freedom (PVV) won 13% of the votes in 2017.;['1', '0', '0', '0', '0']; ;6
+472;1.6.2.1.2.1.4;pro;Hungary's Prime Minister, Viktor Orban, is decidedly anti-EU.;['1', '0', '0', '0', '0']; 9;6
+473;1.6.2.1.2.1.5;pro;The Alternative for Germany (AfD) party won 11.5% in 2017.;['0', '0', '0', '0', '0']; ;6
+474;1.6.2.1.2.1.5.1;pro;Given Germany's coalition based governments, even a small percentage of votes for AfD can disrupt German law-making.;['0', '0', '0', '0', '0']; ;7
+475;1.6.2.1.2.1.5.2;con;AfD are expected to do less well in 2021.;['0', '0', '0', '0', '0']; ;7
+476;1.6.2.1.2.1.6;con;Many countries are rejecting Eurosceptic parties.;['0', '0', '0', '0', '0']; ;6
+477;1.6.2.1.2.1.6.1;pro;Ireland's Renua party - a soft Eurosceptic party - have no elected representatives at any level of government.;['0', '0', '0', '0', '0']; ;7
+478;1.6.2.1.2.1.6.2;pro;Angela Merkel - a formative pro-EU advocate - remains popular in Germany;['0', '0', '0', '0', '0']; ;7
+479;1.6.2.1.2.1.6.3;pro;French President Macron wants a stronger, more unified Europe.;['0', '0', '0', '0', '0']; ;7
+480;1.6.2.1.3;pro;Only 30% of French and German citizens are in favour of a USE.;['6', '4', '5', '1', '8']; ;4
+481;1.6.2.1.3.1;con;"Large portions of the population don't care or are undecided. The margins were as follows: Germany: 30% for, 33% against; France 28% for, 26% against. yougov.de";['0', '0', '0', '0', '1']; ;5
+482;1.6.2.1.3.2;con;Given that the idea of a USE is yet to reach the mainstream, the fact that 30% of the populations of two of the biggest countries are in favour is significant.;['0', '0', '0', '0', '0']; ;5
+483;1.6.2.1.4;pro;"Votes on a ""European Constitution"" have been rejected across Europe.";['0', '0', '0', '0', '0']; ;4
+484;1.6.2.1.4.1;pro;"The Netherlands overwhelmingly voted against ratifying the Constitution, with over 60% of the public voting ""no"".";['0', '0', '0', '0', '0']; 1;5
+485;1.6.2.1.4.1.1;con;The Dutch vote was heavily influenced by claims made only weeks before the referendum suggesting that the Dutch currency had been undervalued when the Euro was introduced.;['0', '0', '0', '1', '1']; 3;6
+486;1.6.2.1.4.1.2;con;"Polls indicated that 30% of ""no"" voters in the Netherlands were voting to show their unhappiness with the austerity program implemented by the then governing coalition.";['0', '0', '0', '0', '1']; 2;6
+487;1.6.2.1.4.2;pro;The French public rejected the Treaty on the Constitution for Europe, with 54.7% voting against ratification (p. 8).;['0', '0', '0', '0', '0']; ;5
+488;1.6.2.1.4.2.1;con;"The French vote was used as a ""for or against the government"" vote by the Chirac government at the time. The government didn't think it could fail, and thus that it could ""easily"" gain support. But it took the risk and it failed. So, rejection in France is only partly linked to the constitution itself.";['0', '0', '0', '0', '0']; 4;6
+489;1.6.2.1.4.3;con;Luxembourg ratified the Treaty, with 56.5% voting for them.;['0', '0', '0', '0', '0']; ;5
+490;1.6.2.1.4.4;con;Spain endorsed the Constitution in a referendum by a wide margin, with 76% of the public voting for and only 17% against.;['0', '0', '0', '0', '0']; ;5
+491;1.6.2.1.5;con;"The recent YouGov poll was only conducted in a limited number of countries and was focused more on Brexit; support may be more widespread than realised.";['0', '1', '3', '2', '5']; ;4
+492;1.6.2.1.6;con;A 2017 Eurobarometer revealed that most Europeans are in favor of further integration.;['1', '2', '1', '1', '10']; 3;4
+493;1.6.2.1.6.1;pro;The USE is the logical conclusion of further integration.;['0', '0', '0', '0', '0']; ;5
+494;1.6.2.1.6.2;con;Further integration is different from the USE.;['0', '0', '0', '0', '1']; ;5
+495;1.6.2.1.6.2.1;pro;Further integration can happen short of the federalization of the EU.;['0', '0', '0', '0', '0']; 1;6
+496;1.6.2.1.6.3;con;A 2021 survey found that, in light of the COVID-19 pandemic, many people have a weaker view of the EU.;['0', '0', '0', '0', '1']; ;5
+497;1.6.2.2;pro;"Elections to the European parliament already have a poor turnout; the electorate do not seem to trust that MEPs will represent them as well as local politicians will.";['0', '0', '0', '0', '0']; ;3
+498;1.6.2.2.1;pro;"There is a correlation between poor turnout and ""a decrease in employment levels as well as by a growing relevance of the legislative functions of the EP"". It can be inferred that the EP is not reflecting the needs of their electorate where national governments are.";['0', '0', '0', '0', '0']; ;4
+499;1.6.2.2.2;con;There is no evidence that a poor turnout reduces the quality of accountability. If only those well-informed about politics bother to vote, the quality and sophistication of their scrutiny is likely to be higher.;['0', '0', '0', '1', '2']; ;4
+500;1.6.2.3;con;Currently, European elections are perceived to be less important than national general elections. Once they become the main elections, politicians will invest in connecting with Europeans more.;['0', '0', '0', '0', '0']; ;3
+501;1.6.3;pro;The EU's institutional setup prevents it from realizing its full democratic potential, something the USE will inherit.;['3', '2', '1', '1', '1']; 3;2
+502;1.6.3.1;pro;The USE would have to rely on a large bureaucracy to sustain itself, which could undermine democracy or erode trust in the institutions.;['0', '0', '0', '0', '0']; 1;3
+503;1.6.3.1.1;pro;Evidence suggests (USA) that a decline of efficiency accompanies the growth of bureaucracy.;['0', '0', '0', '0', '0']; ;4
+504;1.6.3.1.2;con;The growth of EU staffing so far has averaged 5% since 1959. A study by Derk-Jan Eppink illustrates that said growth cannot be linked either to the enlargement process or treaties conferring additional responsibilities to the EU.;['0', '1', '0', '0', '0']; 1;4
+505;1.6.3.1.3;con;The size of the EU's bureaucracy is often overestimated.;['0', '0', '1', '0', '0']; ;4
+506;1.6.3.1.3.1;pro;"""The total size of the European bureaucracy is about exactly the same size as the number of people employed by Derbyshire County Council (...).""";['0', '0', '0', '0', '0']; ;5
+507;1.6.3.1.4;con;Bureaucracy is not necessarily undemocratic. It rather depends on the political process inside the bureaucracy whether it leaves room for civic participation.;['0', '0', '0', '1', '2']; ;4
+508;1.6.3.2;pro;In the EU's political process the power rests in the hands of people further away from the voter.;['0', '0', '0', '0', '0']; ;3
+509;1.6.3.2.1;pro;In the European Union, a significantly larger electorate has led to a lower value of the individual vote.;['0', '0', '0', '0', '0']; 4;4
+510;1.6.3.2.1.2;con;"The power of one vote would decline but it has impact on a larger group of people, so proportionaly this keeps the ""value of the vote"" the same.";['0', '0', '1', '1', '2']; 1;5
+511;1.6.3.2.1.3;con;A USE would give individual voters greater control as the EU is a more powerful international entity. Individual countries have less influence and control of their own destiny.;['0', '0', '0', '0', '0']; 1;5
+512;1.6.3.2.1.3.1;pro;A federal Europe lets people vote for European representatives arguing over European issues. National representatives would not need to be trusted with areas or issues they know little about.;['0', '0', '0', '0', '0']; ;6
+513;1.6.3.2.1.4;con;The number of voters is not a very relevant measure for the quality of its democracy. If it were, participating in almost any national election would be meaningless, since your vote is only one among millions.;['0', '0', '0', '0', '1']; ;5
+514;1.6.3.2.1.4.1;pro;The value of voting is in the quality of the public debate that precedes it, and of which your vote (and those of others) is the result. Voting is a collective act, not a summation of individual ones.;['0', '0', '0', '0', '0']; ;6
+515;1.6.3.2.2;con;In its current form this might be true, but the formation of a USE implies a change in the voting and representation system (like a powerful Senate and Congress as in its role-model, the USA).;['0', '0', '0', '0', '2']; ;4
+516;1.6.3.4;pro;Only one of three branches of the EU, the Parliament, is directly democratically elected, and its power is limited by the EU Commission and the Council of the European Union, partly unelected bodies.;['0', '0', '0', '0', '0']; 14;3
+517;1.6.3.4.1;pro;"The EU's democratic deficit comes from the ineffectiveness of the EU Parliament, which has little real influence; it can only adopt legislation put forward by the European Commission, rather than suggest legislation itself.";['0', '0', '0', '0', '0']; 5;4
+518;1.6.3.4.2;pro;The members of the European commission are appointed by the national governments.;['0', '0', '0', '0', '0']; ;4
+519;1.6.3.4.3;con;In most systems with a representative majority, only the parliament is elected. Italy, Germany, Belgium and the Netherlands all have a system of an elected parliament which then appoints a government.;['0', '0', '0', '0', '1']; 1;4
+520;1.6.3.4.4;con;The council is made up of elected representatives of each member country. These are not elected by the entire EU population but are elected in the country they are representing.;['0', '0', '0', '1', '0']; ;4
+521;1.6.4;pro;The Treaty of Lisbon undermined the EU's democratic accountability.;['0', '0', '0', '0', '0']; 10;2
+522;1.6.4.1;pro;Citizens of EU member states did not get a say on the Lisbon Treaty.;['0', '0', '0', '0', '0']; ;3
+523;1.6.4.1.1;pro;In Germany there was no referendum about the Lisbon Treaty.;['0', '0', '0', '0', '0']; ;4
+524;1.6.4.1.2;con;There were referenda on the Lisbon Treaty, such as in Ireland.;['0', '0', '0', '0', '0']; ;4
+525;1.6.4.1.2.1;con;Ireland initially rejected the Lisbon Treaty in a referendum in 2008.;['0', '0', '0', '0', '0']; ;5
+526;1.6.4.2;pro;The Lisbon Treaty brought with it procedural changes that undermine the veto powers of countries in the Council of Ministers.;['1', '0', '0', '0', '0']; 4;3
+527;1.6.4.2.1;pro;The Ordinary Legislative Procedure, which was introduced as successor of the Codecision Making Procedure, empowers the European Parliament at the cost of the Council of Ministers.;['0', '0', '0', '0', '0']; ;4
+528;1.6.4.3;con;Countries secured special provisions, such as the opt-out from the EU’s Charter of Fundamental Rights secured by the Czech Republic.;['1', '0', '0', '1', '0']; ;3
+529;1.6.4.3.1;pro;Ireland also secured concessions following their initial rejection of the Treaty (p. 11).;['0', '0', '0', '0', '0']; ;4
+530;1.6.4.3.2;con;This opt-out was promised to Czech Republic as a condition for its ratification of the Lisbon Treaty, however this promise was never delivered on, the opt-out was never legally accepted by the EU side, and withdrawn by the Czech government in 2014.;['1', '0', '0', '0', '0']; 5;4
+531;1.6.4.4;con;The European Parliament approved it, in their capacity as representatives of the people. The Council approved it, in their capacity as representatives of the Member States.;['0', '0', '0', '1', '1']; ;3
+532;1.6.5;pro;EU is already biased towards strong countries like Germany. A more federal organisation would only accentuate the unbalance of powers inside the EU.;['6', '7', '2', '4', '7']; 3;2
+533;1.6.5.1;pro;A regional Bavarian politician in Brussels (Manfred Weber) tried to order the Slovakian PM to dismiss his interior minister.;['0', '0', '0', '2', '0']; ;3
+534;1.6.5.2;pro;Germany made non-negotiable demands as a condition for German contributions to the solution of the Eurozone crisis for the benefit of Germany.;['0', '0', '0', '0', '0']; 1;3
+535;1.6.5.2.1;pro;Germany bailed out Greece to save German and French banks. This indicates the disproportionate power Germany has.;['0', '0', '0', '0', '0']; 2;4
+536;1.6.5.3;pro;"The USE dominated by Germany threats the risk of realizing the ""Mitteleuropa Project"" (Friedrich Naumann, 1915) where in particular Eastern European economies become peripheral to Germany’s economy.";['0', '0', '0', '0', '1']; 13;3
+537;1.6.5.3.1;con;"The ""Mitteleuropa Projekt"" was a result of an existing situation, more than a domination plan. Germany didn't exist as such until 1871 and the different kingdoms were looking for a way to defend themselves from other already existing great empires.";['0', '0', '0', '0', '0']; 4;4
+538;1.6.5.3.2;con;Germany is the most prosperous state in Europe, with the biggest, at the same time muticultural and well organized society. It is normal and positive for everyone that they participate in the economies of other regions.;['0', '0', '0', '0', '0']; 2;4
+539;1.6.5.3.3;con;"Politicians from ""peripheral"" states seem to expect from Germany a (much needed) leadership to keep Europe prosperous and safe.";['0', '0', '0', '0', '0']; 4;4
+540;1.6.5.3.3.1;pro;"""I appeal to the Germans - us and you - to help the European Union survive and maintain it. You are aware - nobody can do it better. I am probably the first Polish Foreign Minister to say that, but here it is: I am less afraid of German power than I start to fear German inactivity. The Germans have become an indispensable people for Europe. You can not let it lose your key role in the EU."" Radoslaw Sikorski, 2011";['0', '0', '0', '0', '0']; ;5
+541;1.6.5.4;pro;Germany is the most populous country in the EU and, therefore, it will have the biggest say.;['0', '0', '2', '1', '2']; 1;3
+542;1.6.5.4.1;con;Smaller countries have fewer people per representative, meaning someone in Germany is significantly less represented than someone in the Netherlands.;['0', '0', '0', '0', '1']; ;4
+543;1.6.5.5;con;A unified Europe would prevent countries like Germany and France from dominating the political landscape.;['0', '1', '0', '1', '1']; ;3
+544;1.6.5.5.1;pro;A USE would further make the power relations subject to moral scrutiny. In that sense, the EU counters the inherent power bias towards stronger states, and so would a USE.;['0', '0', '0', '0', '0']; ;4
+545;1.6.5.5.2;pro;These power imbalances have a big impact right now because the countries are sovereign. When they give up jurisdiction to the higher level, they would have less autonomy.;['0', '0', '0', '0', '0']; ;4
+546;1.6.5.6;con;Smaller states are able to exploit their leverage in the current Union and will be able to do so in a USE.;['0', '0', '0', '0', '0']; ;3
+547;1.6.5.6.1;pro;The Netherlands can continue to operate as a tax-haven.;['0', '0', '0', '0', '0']; ;4
+548;1.6.6;con;The EU has no democratic deficit because it is legitimated by democratically elected representatives.;['9', '2', '5', '6', '8']; 7;2
+549;1.6.6.1;pro;The European Union is indirectly governed democratically.;['0', '0', '0', '0', '0']; ;3
+550;1.6.6.1.1;pro;The European Commission is proposed by the Council of the European Union (representatives of democratically elected national governments), then appointed by the European Council (democratically elected head of states) after the approval of the European Parliament (democratically directly elected by European citizens).;['0', '0', '0', '0', '0']; 4;4
+551;1.6.6.2;pro;The EU has an appropriate balance of democracy for its current powers, which is heavily biased towards the nation-state represented by the democratically elected European Council consisting of heads of state of members.;['0', '0', '0', '0', '1']; ;3
+552;1.6.6.3;pro;The members of the European Parliament are directly elected by the European citizens.;['0', '0', '0', '0', '1']; ;3
+553;1.6.6.4;con;The democratic legitimacy of the European Parliament is limited by the fact that the seat allocation is not proportionate to the population of the member states. Citizens of large member states (like Germany, France or Italy) are underrepresented in the Parliament compared to smaller states.;['1', '0', '0', '0', '0']; 2;3
+554;1.6.6.4.1;con;This is by design, to avoid the complete dissolution of the smaller states. Note that a similar system is in use in many federations across the globe, including the US.;['0', '0', '0', '0', '1']; ;4
+555;1.6.7;con;There is a continuous effort to improve democracy in the EU.;['0', '0', '1', '1', '6']; 8;2
+556;1.6.7.1;pro;"An elected European Parliament was created in 1979 and given the power to approve or reject EU legislation. This means ""the democratic deficit"" has already been tackled.";['0', '0', '0', '0', '0']; ;3
+557;1.6.7.2;con;Efforts to improve democracy is the EU as it stands are unlikely to work, as they are not pursuing initiatives with sufficient longevity.;['0', '0', '0', '0', '0']; ;3
+558;1.6.8;con;Many EU democracies already have large democratic deficits, thus the democratic deficit of the USE wouldn't be worse than most of its member states.;['0', '0', '1', '1', '3']; 3;2
+559;1.6.8.1;pro;Voter turnout is already low in many EU countries, with many member states being governed by parties who represent a minority of people.;['0', '0', '0', '0', '0']; 1;3
+560;1.6.8.2;pro;Several EU countries have un-elected bodies or Houses that perform important democratic operations;['0', '0', '0', '0', '0']; 1;3
+561;1.6.9;con;This depends strongly on which government style the USE tries to emulate. There is no guarantee a USE would be implemented in the same way as the UE.;['0', '0', '1', '2', '3']; 7;2
+562;1.6.10;con;The perceived democratic deficit is directly connected to the EU not having attained statehood. Compared to international institutions it is probably the most democratically legitimized one on the planet.;['5', '4', '6', '9', '29']; 1;2
+563;1.6.10.2;pro;The criticism levelled at the internal organization of the EU is due to sovereign member states' governments wanting to keep their say in the decision-making process.;['0', '0', '0', '0', '4']; 4;3
+564;1.6.11;con;Democracy does not always have to be to the advantage of its citizens.;['0', '0', '0', '0', '0']; 28;2
+565;1.6.11.1;pro;The presence of democracy does not have to relate to the prosperity of the continent.;['0', '0', '0', '0', '0']; ;3
+566;1.6.11.2;pro;A democracy provides citizens with power by the ability to vote. But there is no guaranty that these citizens are capable of judging what is best for themselves, their country, or the world.;['0', '0', '0', '0', '0']; 8;3
+567;1.6.11.2.1;pro;Citizens could be not intelligent enough to asses current issues.;['0', '0', '0', '0', '0']; ;4
+568;1.6.11.2.2;pro;Citizens could have too less time to asses current issues.;['0', '0', '0', '0', '0']; ;4
+569;1.6.11.2.3;pro;Citizens could not be interested in current issues.;['0', '0', '0', '0', '0']; ;4
+570;1.6.12;con;Democracy is not a value by itself.;['13', '2', '3', '3', '4']; 15;2
+571;1.6.12.1;pro;"Democracy is 'a form of government in which the supreme power is vested in the people and exercised directly by them or by their elected agents under a free electoral system.' As such, democracy is subject to people's beliefs and convictions; it is not principally valuable or morally right.";['0', '0', '0', '0', '3']; ;3
+572;1.6.12.2;con;A good reason to value democracy is that it is highly correlated to personal and economic freedoms. Both of which are correlated with income.;['0', '0', '0', '1', '0']; ;3
