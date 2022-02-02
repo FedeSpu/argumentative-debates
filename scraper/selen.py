@@ -114,7 +114,8 @@ SELECTION OF THE DISCUSSION
 # RELIGION
 #wd.get('https://www.kialo.com/people-should-not-follow-any-specific-religion-3371.1261?path=3371.0~3371.1261')
 #wd.get('https://www.kialo.com/has-religion-been-a-good-thing-for-humanity-8539')
-wd.get('https://www.kialo.com/the-existence-of-god-2629')
+#wd.get('https://www.kialo.com/the-existence-of-god-2629')
+wd.get('https://www.kialo.com/god-exists-3491')
 
 # Close "new to Kialo" dialog
 time.sleep(4)
@@ -173,7 +174,7 @@ for con_map in cons_map:
     get_claim_votes('con', '1.{}'.format(index_level), pros_map, cons_map, 1)
     index_level += 1
 
-dataset.to_excel('the-existence-of-god.xlsx')
+dataset.to_excel('output.xlsx')
 print(dataset.iloc[:-1])
 
 wd.close()
