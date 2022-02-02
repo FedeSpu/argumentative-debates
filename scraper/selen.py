@@ -108,8 +108,13 @@ SELECTION OF THE DISCUSSION
 # wd.get("https://www.kialo.com/pro-life-vs-pro-choice-should-abortion-be-legal-5637?closeSidebar=notifications.activity")
 # wd.get('https://www.kialo.com/should-conscientious-objection-to-abortion-be-banned-2851')
 # wd.get('https://www.kialo.com/should-there-be-a-universal-basic-income-ubi-1634?closeSidebar=notifications.activity')
-wd.get('https://www.kialo.com/the-existence-of-god-2629')
+# wd.get('https://www.kialo.com/the-existence-of-god-2629')
 # wd.get('https://www.kialo.com/high-speed-rail-network-europe-55592')
+
+# RELIGION
+#wd.get('https://www.kialo.com/people-should-not-follow-any-specific-religion-3371.1261?path=3371.0~3371.1261')
+#wd.get('https://www.kialo.com/has-religion-been-a-good-thing-for-humanity-8539')
+wd.get('https://www.kialo.com/the-existence-of-god-2629')
 
 # Close "new to Kialo" dialog
 time.sleep(4)
@@ -168,7 +173,7 @@ for con_map in cons_map:
     get_claim_votes('con', '1.{}'.format(index_level), pros_map, cons_map, 1)
     index_level += 1
 
-dataset.to_excel('output.xlsx')
+dataset.to_excel('the-existence-of-god.xlsx')
 print(dataset.iloc[:-1])
 
 wd.close()
