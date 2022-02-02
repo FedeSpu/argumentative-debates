@@ -1,0 +1,359 @@
+;Level;Stance;Claim;Votes;Comments;Depth
+0;1;None;In an exclusive relationship you should confess to your partner after a one night stand.;['5', '2', '3', '19', '8'];;0
+1;1.1;pro;Revealing the one night stand enhances the long-term stability of the relationship.;['2', '7', '9', '3', '7']; 11;1
+2;1.1.1;pro;Knowing about one's partner's infidelity would help identify and subsequently work on the problems in the relationship.;['0', '0', '2', '0', '0']; ;2
+3;1.1.1.1;pro;Open communication on how to move forward after obstacles can benefit and strengthen a relationship.;['0', '0', '2', '0', '0']; 7;3
+4;1.1.1.2;pro;Confessions of infidelity can lead to a better relationship by forcing examination and discussion.;['0', '0', '1', '1', '0']; 16;3
+5;1.1.1.2.1;pro;If underlying dissatisfaction with the state of the relationship has contributed to cheating, the confession can act as a wake-up call to one's partner about problems that they may be ignoring or perpetuating.;['0', '1', '6', '4', '0']; 3;4
+6;1.1.1.2.2;pro;"A confession and apology can result in the cheated-upon partner being willing ""to forgive, regain trust, and reconcile the relationship"", and more so than in the absence of a confession and apology (p. 10).";['0', '1', '6', '5', '0']; ;4
+7;1.1.1.2.2.1;pro;Apologies are helpful in softening negative attitudes toward an offender and in reducing urges to aggressively retaliate.;['0', '1', '8', '4', '1']; ;5
+8;1.1.1.2.2.2;con;Statistics show that the likelihood of a breakup after revealing an affair is two to three times higher than forgiveness (p. 8-9).;['0', '0', '5', '4', '1']; ;5
+9;1.1.1.2.3;pro;Common reasons for infidelity are feelings of dissatisfaction and neglect in the relationship, more so than sexual desire or the excitement of risk.;['0', '1', '5', '5', '1']; 1;4
+10;1.1.1.2.3.1;con;Many partners engage in affairs because they are sexually unsatisfied.;['1', '1', '11', '1', '0']; 10;5
+11;1.1.1.2.3.1.1;pro;Men who had affairs were significantly more sexually dissatisfied in their marriages compared with women.;['0', '0', '8', '6', '0']; ;6
+12;1.1.1.2.3.1.2;con;There is evidence that a propensity to sexual infidelity is heritable. Thus, it cannot simply be blamed on sexual dissatisfaction.;['0', '3', '10', '0', '1']; 8;6
+13;1.1.1.2.3.1.2.1;pro;There is ample evidence that humans are not wired for monogamy, meaning that some infidelity is inevitable, even if all relationships are strong.;['0', '2', '5', '5', '0']; 1;7
+14;1.1.1.2.3.1.2.1.1;con;Even if natural polyamory is backed by evidence, people may not consider or recognise non-monogamous relationships due to the associated social stigma.;['0', '0', '2', '0', '0']; 25;8
+15;1.1.1.2.4;pro;Some couples might be happiest in a semi-monogamous relationship: cheating might enable partners to consider this as an option.;['1', '6', '4', '1', '1']; 24;4
+16;1.1.1.2.4.1;pro;Extramarital involvement causes distress both to participants and their partners. A confession can transform the relationship into an open one and make everything less stressful.;['0', '2', '10', '1', '1']; 1;5
+17;1.1.1.2.4.2;con;A couple turning to a non-monogamous relationship works extremely rarely to improve and save the marriage.;['0', '0', '2', '6', '0']; ;5
+18;1.1.1.2.4.3;con;An overwhelming majority of US adults would never consider being in an open relationship.;['0', '4', '6', '3', '1']; ;5
+19;1.1.1.2.4.4;con;Even if this is the case, starting that conversation in the context of a breach of trust is unlikely to get a positive and open reaction from your partner.;['0', '1', '5', '6', '2']; 1;5
+20;1.1.1.2.4.4.1;pro;Non-monogamous relationships are built on mutual trust to work. Cheating erodes this foundation.;['0', '1', '2', '4', '1']; 1;6
+21;1.1.1.2.5;pro;Sexual infidelity is often found when individuals experience sexual boredom but are otherwise satisfied with the relationship.;['0', '0', '1', '1', '0']; 2;4
+22;1.1.1.2.5.1;con;This does not make the breach of trust any less significant.;['1', '0', '3', '7', '2']; ;5
+23;1.1.1.2.5.2;con;This still indicates underpinning issues in the relationship that one's partner deserves to know about and have an opportunity to address.;['0', '3', '4', '6', '0']; 5;5
+24;1.1.1.2.6;con;Only a few relationships experience growth or improvement as a result of cheating.;['0', '0', '0', '0', '0']; 1;4
+25;1.1.1.2.7;con;Many relationships are already strong and healthy even if one partner had a spontaneous one night stand.;['0', '4', '8', '1', '0']; 11;4
+26;1.1.1.2.7.1;pro;"The majority of individuals who are unfaithful are ""content"" in their relationships. This indicates that most people do not cheat because they're unhappy but because they ""could be happier"".";['1', '2', '7', '3', '1']; 3;5
+27;1.1.1.2.8;con;Those who have affairs tend to see their own affairs as the result of relationship problems, whereas they see the partner's affairs as the cause of relationship problems. A confession might therefore not help to solve problems as the partner might rather see cheating as a cause rather than a result of these problems.;['0', '0', '5', '5', '2']; 4;4
+28;1.1.1.2.8.1;pro;The norms against infidelity are oftentimes applied hypocritically. Illustratively, partners who both had affairs see their partner's affair as more damaging to the relationship than their own (p. 297).;['0', '0', '3', '9', '2']; 14;5
+29;1.1.1.2.9;con;The distrust created by the knowledge of infidelity hinders effective communication and therefore close examination of relationship problems.;['0', '2', '2', '7', '1']; 1;4
+30;1.1.1.4;con;It is possible that the partner who was cheated on will feel so hurt by the cheating that they do not want to work on the problems in the relationship, but rather end it all together.;['0', '0', '1', '1', '0']; 1;3
+31;1.1.2;pro;Keeping secrets can negatively impact intimacy, which makes one less engaged and less satisfied with the relationship.;['0', '0', '0', '2', '0']; ;2
+32;1.1.3;pro;By telling your partner about it you take responsibility, can show remorse, and can actively try to move forward together by rebuilding trust.;['0', '1', '7', '6', '4']; 2;2
+33;1.1.3.2;con;Without a confession there is no necessity to show responsibility or remorse and no need to re-build trust.;['0', '0', '5', '3', '0']; ;3
+34;1.1.3.2.1;con;Taking responsibility can help with making better choices - such as not cheating - in the future, and rebuilding trust can improve the relationship in general.;['1', '2', '4', '5', '1']; 13;4
+35;1.1.4;con;Infidelity is one of the leading causes of damage to relationships.;['0', '2', '6', '10', '2']; 1;2
+36;1.1.4.1;pro;A confession can lead to extensive divorce litigation, financial problems, and loss of child custody.;['0', '0', '2', '0', '0']; 11;3
+37;1.1.4.1.1;pro;28% of children of divorced parents live in poverty compared to only 19% of other children.;['1', '2', '4', '5', '1']; 4;4
+38;1.1.4.1.1.1;con;It is not clear whether such statistics are linked to the effects of divorce, or the economic status of couples more likely to divorce.;['0', '2', '7', '3', '2']; ;5
+39;1.1.4.1.2;pro;Divorcees close to the poverty threshold usually would need at least a 30% increase in income to preserve the living standard they had prior to the divorce (p. 126).;['0', '1', '4', '6', '1']; 2;4
+40;1.1.4.1.3;pro;After a breakup, some 15-20% of American parents who separate from their partner are not part of a joint custodial arrangement. They effectively lose guaranteed access to their children (p. 10).;['1', '0', '6', '6', '0']; 7;4
+41;1.1.4.1.4;con;Being concerned about your own financial situation is a selfish reason to keep infidelity a secret.;['0', '0', '1', '1', '0']; ;4
+42;1.1.4.2;pro;A confession makes it more likely that the partner cheats as revenge. This hurts the partner who cheated in the first place.;['0', '1', '1', '0', '0']; 6;3
+43;1.1.4.2.1;pro;Individuals often think about sexual retaliation as a tool for revenge (p. 13).;['0', '2', '10', '2', '0']; 1;4
+44;1.1.4.2.1.1;con;When a person is hurt, thinking about revenge is a normal reaction. This does not mean that they will decide to act on these thoughts.;['0', '3', '6', '6', '0']; ;5
+45;1.1.4.2.2;con;Even though it could hurt the stability of the relationship, it is hypocritical to not confess to cheating out of fear that your partner will then cheat.;['0', '1', '4', '7', '2']; 9;4
+46;1.1.4.3;pro;Revealing it has a high likelihood of ending the relationship.;['0', '0', '1', '1', '0']; 1;3
+47;1.1.4.3.1;pro;Many people stay in a relationship even though they cheated. This indicates that they view it as worthwhile continuing.;['0', '0', '2', '0', '0']; ;4
+48;1.1.4.3.2;pro;If confessing will end a relationship that is otherwise beneficial for both you and your partner, then you will be depriving both of you of a good that you would otherwise have.;['0', '5', '6', '4', '3']; 2;4
+49;1.1.4.3.2.1;con;By withholding this information from the cheated-upon partner, they are deprived of the right to make an informed, autonomous decision.;['0', '3', '5', '4', '0']; 17;5
+50;1.1.4.3.2.1.1;pro;Close partners may feel confident that they know about each other but it has been shown that people lack accuracy in predicting their partner's preferences (p. 755-756).;['0', '0', '2', '0', '0']; 8;6
+51;1.1.4.3.2.1.2;pro;The partner might prefer the emotional harm of knowing over being lied to.;['1', '1', '4', '6', '2']; 2;6
+52;1.1.4.3.2.1.3;con;In close relationships, parties rely on and trust each other to look out for each others' interests. Cheating does not eradicate that, and in many relationships, the cheating partner may well be in a position to determine that their partner would prefer not to know.;['1', '3', '9', '3', '1']; 1;6
+53;1.1.4.3.2.1.3.1;pro;If one knows that their partner is not a critical thinker and prefers happiness than truth in life, and after cheating their feeling towards her/him haven’t changed, it’s better not to tell them.;['0', '0', '1', '0', '0']; 1;7
+54;1.1.4.3.2.1.4;con;The anger about cheating can lead to decisions in the heat of the moment which are driven by emotions and might later be regretted.;['0', '5', '8', '2', '0']; 36;6
+55;1.1.4.3.2.1.4.1;pro;Anger about many different situations influences decision-making every day. Therefore, following a confession anger has the potential to obstruct proper assessment and informed choices.;['0', '1', '7', '3', '0']; 7;7
+56;1.1.4.3.2.1.4.2;con;Anger is not constant and reduces over time. This allows for informed decision making later.;['0', '4', '6', '6', '0']; ;7
+57;1.1.4.3.2.1.4.3;con;As anger is common, partners may learn and choose to delay important decisions until their anger has subsided and they feel able to act more rationally.;['0', '0', '2', '0', '0']; ;7
+58;1.1.4.3.2.1.4.3.1;con;Anger is quite common in many situations in life, yet many people never learn to control it in the heat of the moment.;['0', '0', '2', '0', '0']; ;8
+59;1.1.4.3.2.1.4.3.2;con;A cheated-upon partner may have no desire to control the anger, instead choosing to let the frustration pour out.;['0', '1', '0', '1', '0']; 5;8
+60;1.1.4.3.2.1.5;con;Some partners might prefer the emotional safety of not knowing what happened.;['2', '2', '4', '2', '0']; ;6
+61;1.1.4.3.2.2;con;If you decided to cheat in the first place, you probably do not value your commitment to the relationship enough for it to be worth continuing. Therefore, the relationship ending might not be a bad thing.;['0', '2', '4', '6', '0']; 15;5
+62;1.1.4.3.2.2.1;con;Cheating is not a rational choice but is based on emotions.;['0', '4', '6', '3', '0']; 4;6
+63;1.1.4.3.2.2.1.1;con;All choices are irrational and based on some emotions to some extent, but this does not mean that individuals should not be held accountable for their actions.;['0', '0', '2', '0', '0']; 1;7
+64;1.1.4.3.3;pro;Infidelity is a major factor in more than half of all divorces.;['0', '0', '5', '8', '7']; 2;4
+65;1.1.4.3.3.1;pro;Infidelity ranks highest as a reported reason for divorce.;['0', '0', '3', '5', '5']; ;5
+66;1.1.4.3.3.2;con;Compared to an upfront confession, hiding the infidelity may make divorce an even more likely outcome if your partner does eventually find out, as it adds an element of ongoing dishonesty.;['0', '1', '9', '1', '2']; 5;5
+67;1.1.4.3.3.2.1;pro;The longer you hold on to the secret of infidelity, the more betrayed your partner will feel when they eventually find out.;['0', '0', '5', '9', '1']; ;6
+68;1.1.4.3.3.2.1.1;pro;The feeling of betrayal is reinforced by a feeling that expected behavior, namely a confession, was not put forward.;['0', '0', '7', '5', '4']; ;7
+69;1.1.4.3.3.2.1.1.1;pro;Some people might get more upset about the lying and the deception than about the cheating.;['0', '2', '4', '6', '3']; 7;8
+70;1.1.4.3.3.2.1.1.1.1;pro;A one night stand can be seen as a lapse in judgement that can be forgiven, while lying about it over a sustained period of time means making a continuous, active choice to betray the partner's trust.;['0', '0', '4', '4', '1']; ;9
+71;1.1.4.3.3.2.1.2;con;It is by no means inevitable that the partner will eventually find out about the affair.;['1', '3', '7', '3', '0']; 3;7
+72;1.1.4.3.3.2.1.2.1;pro;A one night stand can hardly come to light at a later stage. This is only likely to happen if you keep in touch with the person you slept with.;['0', '0', '2', '0', '0']; 1;8
+73;1.1.4.3.3.2.1.2.1.1;pro;The cheating partner could revert to a normal lifestyle that does not show any signs that a one night stand has occurred.;['1', '5', '2', '4', '2']; 1;9
+74;1.1.4.3.3.2.1.2.1.2;pro;Many of the signs that could indicate that a one night stand happened, such as dropped calls or coming home late, will fade from memory as time passes. The chance of the affair coming to light thus decreases continuously.;['0', '2', '9', '1', '2']; 9;9
+75;1.1.4.3.3.2.1.2.1.2.1;con;If a partner was worried by these signs, it is unlikely that they will be forgotten. This then has the potential to lead to confirmation bias in the future, even in relation to anomalies that are not actually linked to any cheating.;['0', '2', '4', '8', '2']; 7;10
+76;1.1.4.3.3.2.1.2.1.3;con;Even if no one else is aware of a one night stand, the person with whom the infidelity took place may feel guilty and confess.;['0', '2', '7', '4', '0']; 2;9
+77;1.1.4.3.3.2.1.2.1.4;con;Assuming that third parties are aware of the one night stand or there is evidence (e.g. communications and receipts) that it took place, it can come to light even without staying in touch with the partner.;['0', '1', '6', '7', '1']; ;9
+78;1.1.4.3.3.2.1.2.1.5;con;Even if no-one else is aware of it, you may in the future confess or let slip a detail that reveals the one night stand.;['0', '2', '5', '7', '0']; ;9
+79;1.1.4.3.3.2.1.2.2;con;While not inevitable, the chances are there that the partner will find out eventually. This needs to be taken into consideration.;['0', '1', '9', '6', '0']; 12;8
+80;1.1.4.3.3.3;con;Divorce may be the least bad option if a marriage has deteriorated to the point of infidelity.;['0', '1', '1', '0', '0']; ;5
+81;1.1.4.3.4;pro;More than half of those in committed releationships break up immediately after an instance of infidelity is discovered.;['0', '0', '2', '0', '0']; 9;4
+82;1.1.4.3.4.1;pro;50% is a relatively high chance of divorce or separation. Most people would not want to take a 50/50 gamble with a relationship they care about if they can avoid it.;['0', '1', '1', '0', '0']; 2;5
+83;1.1.4.3.5;con;The likelihood of a breakup is strongly correlated with the quality of the relationship and the commitment to it (p. 10). If the partner ends the relationship, it is most likely not only due to cheating.;['1', '1', '6', '4', '2']; 3;4
+84;1.1.4.3.5.1;pro;A partner is much more likely to forgive the cheating if the relationship was satisfying previously. (p. 2);['0', '1', '5', '6', '3']; ;5
+85;1.1.4.3.5.1.1;pro;A partner who was committed to and satisfied with a relationship is more likely to empathize and identify extenuating circumstances, making forgiveness easier (p. 2).;['0', '2', '2', '8', '1']; 3;6
+86;1.1.4.3.5.2;pro;People less committed to their partners are likely to use their partner's infidelity as an attempt to withdraw from the relationship (p. 2).;['0', '0', '3', '5', '2']; 15;5
+87;1.1.4.3.6;con;A breakup as a result of a confession is not inevitable. There may be many other positive facets of a relationship which encourage the partner to continue with it, even if they were victim to infidelity.;['0', '2', '10', '3', '2']; 4;4
+88;1.1.4.3.6.1;pro;Sincere apologies can show remorse and how much one values the relationship despite making a mistake. They can provide the motivation to want to save the relationship.;['0', '1', '5', '8', '0']; 8;5
+89;1.1.4.3.6.1.2;pro;Apologies can compensate for the level of hurt experienced, making forgiveness easier.;['0', '3', '5', '7', '1']; ;6
+90;1.1.4.3.6.2;pro;Fear of losing what was built together is a strong motive for people to stay despite betrayal.;['0', '1', '9', '2', '1']; ;5
+91;1.1.4.3.6.3;pro;Many people stay because they have nowhere else to go.;['0', '5', '6', '2', '0']; ;5
+92;1.1.4.3.6.3.1;con;The precarious situation of one's partner should not be used to justify the decision of whether or not to confess.;['0', '0', '4', '6', '1']; 11;6
+93;1.1.4.3.7;con;As the mutual agreement to exclusivity was broken unilaterally by the partner who cheated, the partner who has been cheated upon deserves the opportunity to decide whether they want to continue the relationship under the new circumstances.;['0', '2', '4', '11', '11']; 30;4
+94;1.1.4.3.7.2;pro;It could be in the interest of the other party that the relationship is ended. For example, the other party may have a wish to be exclusively in monogamous relationships. Withholding information will lead to the wish of the other party being unfulfillable.;['0', '1', '1', '0', '0']; ;5
+95;1.1.4.3.7.3;pro;If aware of the infidelity, the assessment of the mutual agreement will change. Withholding the opportunity to review it would breach this agreement between two partners as it would unilaterally changes its terms.;['0', '2', '5', '5', '3']; 3;5
+96;1.1.4.3.7.4;pro;Revealing it allows a partner to choose between continuing or ending the relationship. It gives back the power of decision to the cheated-upon partner, which was initially denied when the one night stand was committed.;['0', '1', '0', '1', '0']; 3;5
+97;1.1.4.3.8;con;If the confession ends the relationship, this is your responsibility. This is a risk you take when you cheat.;['1', '2', '5', '11', '7']; 8;4
+98;1.1.4.4;pro;Couples aware of infidelity exhibit greater marital instability, dishonesty, arguments about trust, narcissism, and time spent apart.;['0', '0', '2', '0', '0']; 2;3
+99;1.1.4.5;pro;A confession of infidelity affects the relationship in a negative way by destroying trust and causing mental harm.;['0', '0', '2', '0', '0']; 2;3
+100;1.1.4.5.1;pro;Women may react to infidelity by creating an alliance network which serves as insurance in case of a later break up as it mitigates the cost of risky behavior (i.e. cheating with others or breaking up) (p. 416).;['0', '0', '2', '0', '0']; 28;4
+101;1.1.4.5.1.2;pro;Some partners may stay in a relationship because they cannot afford to break up. Having a support network can lower the hurdle.;['0', '2', '5', '4', '2']; 3;5
+102;1.1.4.5.1.3;pro;9% of people in the UK do not have a close friend. For them it might be difficult to find outside support for the emotional arduous path of divorce.;['0', '4', '5', '3', '1']; 3;5
+103;1.1.4.5.1.4;con;If the relationship is so weak that having an insurance system is enough for someone to treat it with little regard, it was not likely to survive anyway.;['0', '0', '5', '3', '2']; ;5
+104;1.1.4.5.1.5;con;A support network can equally give someone the strength and support necessary to work through hard longterm problems, making them more likely to stay in the relationship.;['0', '1', '2', '8', '1']; ;5
+105;1.1.4.5.2;pro;It can cause stress and anxiety for the cheated-on partner, which is likely to destroy the relationship.;['0', '1', '6', '7', '0']; ;4
+106;1.1.4.5.2.1;pro;Women who have experienced a partner's infidelity are more likely to suffer from poor mental health.;['0', '2', '4', '8', '0']; ;5
+107;1.1.4.5.3;con;Being honest about your breach of trust is, itself, an act of trust, beginning the process of rebuilding the foundation of the relationship rather than further eroding trust by concealing it.;['0', '0', '2', '0', '0']; 4;4
+108;1.1.4.5.3.2;pro;Immediate disclosure of a one night stand better facilitates relationship recovery compared to when it is admitted only after repeated denials (p. 119).;['0', '0', '1', '1', '0']; 14;5
+109;1.1.4.5.3.2.1;pro;A confession is a way of taking responsibility for one's actions. By making this choice, a cheater looks sincere and willing to face the inevitable problems a relationship can have as a result of infidelity.;['0', '0', '1', '1', '0']; 1;6
+110;1.1.4.5.3.2.3;con;A later discovery does not necessarily have to occur after repeated denials.;['0', '4', '8', '2', '0']; 4;6
+111;1.1.4.5.3.2.4;con;There is a likelihood that, should the affair come to light at a much later stage - and especially if it were a one off - there would be a demonstrated period of fidelity which may be reassuring if believed by the partner.;['1', '6', '6', '1', '0']; 7;6
+112;1.1.4.5.3.2.4.1;pro;If a partner finds out about a one night stand shortly after it occurred, they're likely to watch for signs of it happening again. If they find out at a later stage and cannot find any signs of other infidelity, they may more readily forgive their partner.;['0', '0', '2', '0', '0']; 1;7
+113;1.1.4.5.3.2.4.2;pro;If the relationship has been going well and the cheated on partner feels confident that their partner is being honest about the one time it occurred, the trust in the relationship will likely be rebuilt more quickly.;['0', '0', '2', '0', '0']; ;7
+114;1.1.4.5.3.2.4.3;con;If the one night stand comes to light at a later stage, there is little reason for the partner to assume that no other affairs ever took place. After all, the cheating partner has already demonstrated their willingness to hide a one night stand.;['0', '2', '3', '6', '4']; ;7
+115;1.1.4.5.3.2.4.4;con;There is also a demonstrated period of deceit, which is hardly likely to inspire feelings of trust and fidelity.;['0', '2', '5', '3', '4']; ;7
+116;1.1.4.5.3.3;pro;Apologizing implies that one recognizes and regrets an offence, indicating willingness to mend the damage done to the relationship.;['0', '1', '5', '6', '1']; ;5
+117;1.1.4.5.3.3.2;con;Apologies are often made for personal gains without showing signs of sincere remorse.;['0', '2', '7', '1', '0']; ;6
+118;1.1.4.5.3.4;pro;This act of honesty may be seen as an attempt to save the relationship, making the person who was cheated on more willing to hear their partners explanations.;['0', '1', '4', '7', '1']; 5;5
+119;1.1.4.5.3.5;con;A confession can sow permanent doubt in the relationship.;['0', '0', '2', '0', '0']; 15;5
+120;1.1.4.5.3.5.1;pro;Telling one's partner can cause permanent harm and, for example, make them less trusting and more insecure in this and future relationships.;['0', '0', '5', '9', '0']; 12;6
+121;1.1.4.5.3.5.3;con;Doubt will likely not be permanent if measures to re-establish trust are taken.;['0', '1', '1', '0', '0']; 1;6
+122;1.1.4.5.3.6;con;If you cheated once, you might do so again. Given this, revealing makes future cheating more difficult because your partner will be more suspicious in future.;['0', '0', '2', '0', '0']; 65;5
+123;1.1.4.5.3.6.1;pro;A lot of partners lose their trust in the cheating partner (p. 8). This will lead to increased suspicion.;['0', '3', '3', '8', '4']; 4;6
+124;1.1.4.5.3.6.2;pro;Getting away with cheating can give a sense of being 'above the law', almost giving the individual a 'high'. This can make it rewarding to do it again and continue the high, compromising the relationship.;['0', '0', '2', '0', '0']; 8;6
+125;1.1.4.5.3.6.3;pro;Reconciliation enables a conscientious individual to commit the act again. A lasting impact, e.g., the growing burden of guilt, is necessary to prevent repeat offenses.;['0', '0', '2', '0', '0']; 6;6
+126;1.1.4.5.3.6.3.1;pro;If sincere remorse exists, the conscientious individual deserves the burden of guilt and should not relieve it by revealing the affair.;['0', '0', '2', '0', '0']; 12;7
+127;1.1.4.5.3.6.3.1.1;pro;This creates a self determining punishment without emotionally harming another. Telling your partner emotionally hurts them while trying to allow you to escape your own emotional pain.;['0', '0', '0', '0', '0']; ;8
+128;1.1.4.5.3.6.4;con;If you are prone to moments of weakness, making future cheating more difficult should be seen as a good thing.;['0', '0', '1', '2', '0']; 1;6
+129;1.1.4.5.3.6.4.1;con;Cheating is not only done out of weakness.;['0', '1', '1', '0', '0']; ;7
+130;1.1.4.5.3.6.4.1.1;pro;People are often driven to cheat because one partner doesn't fulfill all of their needs.;['0', '0', '2', '0', '0']; ;8
+131;1.1.4.5.3.6.4.1.1.1;pro;Humans are inherently imperfect. Finding one that matches all qualities is extremely difficult if not impossible.;['0', '0', '1', '1', '0']; ;9
+132;1.1.4.5.3.6.5;con;If you want to continue having multiple sexual partners, it is morally better that you are not in a committed exclusive relationship in the first place.;['0', '1', '4', '8', '7']; 47;6
+133;1.1.4.5.3.6.5.1;pro;The commitment made to a partner is the premise of an exclusive relationship.;['0', '2', '2', '4', '4']; ;7
+134;1.1.4.5.3.6.5.2;pro;Given that your partner expects faithfulness from you, continuing to cheat will hurt them deeply.;['1', '1', '5', '2', '3']; ;7
+135;1.1.4.5.3.6.5.2.1;pro;Causing harm to others for one's own pleasure is immoral.;['0', '0', '6', '5', '0']; ;8
+136;1.1.4.5.3.6.5.2.2;pro;When in a close relationship of trust and confidence, you owe a duty to your partner not to deliberately cause them harm.;['0', '3', '3', '3', '2']; ;8
+137;1.1.4.5.3.6.5.2.2.1;con;The cheated-upon partner is not harmed as long as they do not know about the one night stand. The affair alone is thus not sufficient to harm them.;['0', '2', '4', '0', '1']; ;9
+138;1.1.4.5.3.6.5.2.2.1.1;con;This assumes that the partner will never find out about the infidelity and deceit.;['0', '1', '4', '6', '0']; 4;10
+139;1.1.4.5.3.6.5.2.2.1.2;con;This suggests that it is okay to behave unethically as long as you don't get caught.;['0', '0', '0', '1', '0']; 1;10
+140;1.1.4.5.3.6.5.2.2.1.3;con;People can be harmed without knowing it or knowing why.;['0', '3', '3', '6', '0']; ;10
+141;1.1.4.5.3.6.5.2.2.1.3.1;pro;By keeping this secret, you leave your partner with no knowledge of why your behaviour may have changed e.g. why you are acting secretive.;['1', '2', '2', '7', '0']; ;11
+142;1.1.4.5.3.6.5.2.2.1.3.2;pro;Normalising your own infidelity by avoiding consequences makes it more likely that you will repeat the behaviour, causing further harm to your partner.;['0', '0', '5', '7', '0']; 2;11
+143;1.1.4.5.3.6.5.2.2.1.3.3;pro;By keeping this secret from your partner when others may know it, you may be opening your partner up to ridicule or judgement by others.;['0', '1', '5', '6', '0']; ;11
+144;1.1.4.5.3.6.5.2.2.1.3.4;pro;Even if protection was used, one night stands still have a non-neglible risk of sexually transmitted infections that could harm your significant other and mean they should be informed.;['0', '0', '2', '6', '1']; 9;11
+145;1.1.4.5.3.6.5.2.2.1.3.4.1;pro;Recent research suggests that the correct use of condoms can protect from HIV/AIDS only around 80% of the time.;['0', '3', '5', '9', '1']; 2;12
+146;1.1.4.5.3.6.5.2.2.1.3.4.2;pro;Condoms cannot protect from the transmission of certain STIs, such as herpes and syphilis, and offer no absolute protection from other STIs, mainly due to incorrect use.;['1', '2', '8', '5', '2']; ;12
+147;1.1.4.5.3.6.5.2.2.1.3.4.3;con;After a one night stand, the cheating partner could get tested for STIs. If it turns out they have not caught an STI, then there is no risk.;['1', '7', '7', '3', '1']; ;12
+148;1.1.4.5.3.6.5.2.2.1.3.4.3.1;con;Not all STIs are immediately visible. Thus, the cheating partner might inaccurately believe that they are not infected.;['0', '2', '6', '3', '3']; ;13
+149;1.1.4.5.3.6.5.2.2.1.3.4.3.2;con;The results of STI tests usually take several days to arrive. Your partner might get infected in the meantime.;['0', '2', '5', '5', '2']; ;13
+150;1.1.4.5.3.6.5.2.2.1.3.4.3.2.1;pro;For a reliable HIV test, one normally needs to wait several weeks.;['0', '1', '4', '6', '3']; 2;14
+151;1.1.4.5.3.6.5.3;con;Being in an exclusive committed relationship (while cheating at the same time) is often the only way to extract emotional stability from the partner.;['1', '3', '6', '2', '0']; 10;7
+152;1.1.4.5.3.6.5.3.1;con;If an emotional commitment is valuable to you, you should be willing to make the commitments your partner expects in return.;['1', '1', '4', '4', '4']; 4;8
+153;1.1.4.5.3.6.5.3.2;con;Emotional stability is not extracted from a partner, as successful relationships are more likely to occur when two stable individuals enter a relationship with realistic expectations.;['0', '0', '2', '0', '0']; ;8
+154;1.1.4.5.3.6.5.3.3;con;Your partner has entered into that emotional commitment expecting the same in return. It is a question of fairness, and it is unfair not to live up to that expectation and agreement.;['0', '1', '5', '6', '2']; 8;8
+155;1.1.4.5.3.6.5.4;con;Cheating causes less harm than serial monogamy.;['0', '1', '1', '0', '0']; 1;7
+156;1.1.4.5.3.6.5.4.1;pro;Serial monogamy involves many sucessive breakups that causes pain and suffering.;['0', '1', '1', '0', '0']; 1;8
+157;1.1.4.5.3.6.6;con;If you want to continue having casual sex with multiple partners, you are probably personally better off not being in a committed, exclusive relationship.;['1', '2', '3', '7', '7']; 3;6
+158;1.1.4.5.3.6.6.1;pro;When not in a committed relationship, one has more time, money, and focus to invest in pursuing multiple sexual opportunities.;['0', '1', '5', '4', '2']; ;7
+159;1.1.4.5.3.6.6.2;pro;If not in a committed relationship, you will not need to worry about hiding your flings from a partner.;['0', '2', '1', '6', '3']; ;7
+160;1.1.4.5.3.6.6.3;pro;Maintaining a supposedly exclusive romantic relationship while also seeking out multiple sexual partners is logistically difficult.;['0', '0', '3', '4', '2']; 15;7
+161;1.1.4.5.3.6.6.4;pro;In the long term, it is psychologically difficult to maintain repeated lies. Thus, at some point, one would need to choose between continued one night stands and the romantic relationship.;['0', '0', '4', '5', '3']; ;7
+162;1.1.4.5.3.6.6.5;con;Being in a stable relationship while having one night stands allows one to receive emotional stability through the relationship and sexual satisfaction with various partners at the same time.;['0', '2', '7', '1', '2']; 3;7
+163;1.1.4.5.3.7;con;Without a confession the partner is given no reason to call the trust into question. Trust only gets destroyed by confessing.;['0', '1', '1', '0', '0']; 4;5
+164;1.1.4.5.3.7.1;con;Cheating is itself a breach of that trust. Even if one's partner is unaware, it will taint the relationship.;['1', '0', '8', '6', '0']; 3;6
+165;1.1.4.5.4;con;Communication is primordial for the welfare of a relationship. It helps to understand each other's needs and behaviours. It is then important to communicate about anything, including a one night stand.;['0', '0', '2', '0', '0']; 1;4
+166;1.1.4.6;con;An early reveal reduces the damage compared to the case of the one night stand coming to light at a later stage.;['0', '0', '2', '0', '0']; 3;3
+167;1.1.4.6.1;pro;Immediately disclosing infidelity gives you control over how the confession happens.;['0', '0', '1', '1', '0']; ;4
+168;1.1.4.6.2;pro;Even if you don't expect that the affair will be revealed, you can't discount the chance you will end up confessing later.;['0', '0', '2', '1', '0']; 6;4
+169;1.1.4.6.2.1;pro;While revealing a betrayal early has the potential to end the relationship, it could also be salvageable. However, the longer you conceal it, the more likely it is you will lose your partner, or entire social circle.;['0', '0', '2', '0', '0']; 5;5
+170;1.1.4.6.4;pro;Finding out about a betrayal from a third party is more damaging to a relationship as it conveys a stronger sense that one has been deceived.;['0', '0', '0', '8', '4']; 4;4
+171;1.1.4.6.4.1;pro;Finding out about infidelity from a third party is more likely to foster vengeful thoughts than a confession and is the least likely method of discovery to be forgiven (p. 3-4).;['0', '0', '3', '5', '2']; 6;5
+172;1.1.4.6.4.4;con;Many people will not believe third parties who report infidelity.;['0', '5', '4', '0', '0']; 3;5
+173;1.1.4.6.5;con;Even if the cheating is later discovered, if you haven't kept in touch with the other person it can indicate to your partner that you had no interest in anything more than a one night stand to begin with.;['2', '11', '5', '1', '1']; ;4
+174;1.1.4.7;con;The reactions to be expected from a confession can vary a great deal from relationship to relationship.;['0', '0', '0', '0', '0']; ;3
+175;1.1.4.7.1;pro;The best course of action depends on the expectations that a partner who cheated has towards themselves. These differ from person to person.;['0', '1', '1', '0', '0']; ;4
+176;1.1.4.7.1.1;pro;The degree of guilt felt differs from person to person. In general, women feel significantly more guilt.;['0', '0', '5', '5', '0']; 2;5
+177;1.1.4.7.1.2;pro;Certain people value honesty as an essential part of their character. For them it is worth risking a relationship for telling the truth.;['0', '0', '6', '4', '2']; 4;5
+178;1.1.4.7.1.2.1;con;These people rank their own impulse to be honest higher than the protection of the partner from harm. In the end it is simply egoistic.;['0', '1', '3', '3', '0']; 2;6
+179;1.1.4.7.2;pro;A confession can provoke extreme reactions on the part of the cheated-upon partner, e.g. crimes of passion.;['0', '1', '4', '4', '3']; 23;4
+180;1.1.4.7.2.1;pro;Men may engage in violent behaviors when they feel their partner’s infidelity threatens their dominance (p. 414).;['0', '0', '6', '6', '1']; 9;5
+181;1.1.4.7.2.1.1;con;To suggest that a woman should change her behavior because of her male partner's possible propensity for violence is to hold her causally responsible for his unacceptable behavior.;['0', '3', '5', '4', '2']; ;6
+182;1.1.4.7.2.2;pro;Therapists advise that infidelity should not be disclosed if there is a risk of domestic violence.;['0', '2', '4', '6', '2']; ;5
+183;1.1.4.7.2.3;pro;The risk of violence is a particularly significant consequence, and so if drawing any generalities, the risk of violence - even if only to some people - should be considered particularly important.;['0', '1', '7', '1', '1']; 3;5
+184;1.1.4.7.2.4;con;Only some relationships involve a violent or potentially violent partner, and this therefore should not be the basis for any generalisations about whether a confession is right.;['0', '2', '3', '0', '0']; 11;5
+185;1.1.4.7.3;pro;The damage a confession and a subsequent breakup can cause differs from relationship to relationship, for example based on the presence of children or the financial dependence of one partner on the other.;['0', '0', '1', '1', '0']; ;4
+186;1.1.4.7.3.1;pro;Only some relationships involve children, and this should therefore not be the basis for any generalizations about whether a confession is right.;['0', '0', '9', '2', '1']; 28;5
+187;1.1.4.7.3.2;pro;In the case that the significant other is dependent on the partner who cheated, for example due to a serious disability, a confession can lead to a breakup and, thereby, to even more severe problems for the partner.;['0', '2', '5', '3', '0']; 24;5
+188;1.1.4.7.3.2.1;con;Even a fully dependent partner has the right to make the decision about whether and how to continue a relationship after a case of infidelity. Preventing him or her from doing so is patronizing.;['1', '1', '4', '3', '2']; ;6
+189;1.1.4.7.3.3;con;This attitude has the potential to encourage affairs for partners who know that the cheated-on partner will not break up due to the high cost of this step.;['1', '0', '10', '1', '0']; ;5
+190;1.1.5;con;The silence encourages the cheater's behavior as there is no punishment.;['0', '0', '1', '1', '0']; 7;2
+191;1.1.5.1;pro;"Cheating without punishment can lead to a pattern of cheating, by normalising and minimalising the effects of the infidelity. People adopting such an attitude are likely to continue to classify future transgressions as ""just a one-off"", long past the point where it becomes a pattern.";['0', '1', '3', '5', '1']; ;3
+192;1.1.5.2;pro;For many people, not confessing will make the relationship feel tainted and thus increase the likelihood that any future slip-ups will not be perceived as very serious.;['0', '2', '4', '8', '1']; 9;3
+193;1.1.5.3;pro;Those who cheat in one relationship are more likely to cheat in future relationships, compared to those who had not cheated previously.;['0', '3', '3', '6', '3']; 4;3
+194;1.1.5.5;con;The cheater is still aware of the fact that getting caught would come with a punishment, otherwise there would be no incentive to conceal the cheating in the first place.;['0', '0', '7', '7', '0']; ;3
+195;1.1.6;con;By revealing it you open up the possibility of being blackmailed by your significant other or by the one night stand partner.;['0', '0', '2', '0', '0']; 5;2
+196;1.1.6.1;pro;The other party to the one night stand may harass you or your partner and cause problems, for example, by continuously sending flowers to your home. Though harassment may not come as a surprise if the cheated-upon partner already knows about the one night stand, it could still put an additional strain on the relationship.;['0', '0', '2', '0', '0']; 13;3
+197;1.1.6.1.1;con;If you make clear from the beginning that you are in a relationship and that is just a one night stand, it is less likely that the person might want to cause you problems.;['0', '1', '7', '5', '0']; ;4
+198;1.1.6.2;pro;After confessing to your partner, they may hold it over your head. Every future argument may be countered by reminding you that you cheated.;['0', '6', '5', '4', '3']; ;3
+199;1.1.6.2.1;con;Ideally in a functioning relationship, once past issues are resolved they should not come up in future arguments.;['1', '5', '5', '2', '0']; ;4
+200;1.1.6.2.1.1;pro;In healthy relationships, parties to the relationship try to set aside self-interest, and act in the interest of the relationship as a whole.;['0', '0', '1', '1', '0']; ;5
+201;1.1.6.2.1.2;con;Infidelity is such an emotional issue that it is difficult to stick to ideal behavioural norms.;['1', '2', '4', '5', '0']; 11;5
+202;1.1.6.3;pro;The presence of a demand for exclusivity and the perceived threat of blackmail are strong indicators of an unhealthy relationship and/or risk taking behavior which warrants a period of abstinence and self reflection.;['0', '0', '2', '0', '0']; ;3
+203;1.1.6.4;con;Blackmail is an unlikely outcome of admitting to cheating.;['0', '1', '1', '0', '0']; ;3
+204;1.1.6.4.1;pro;Most people would be very embarrassed by being exposed in their social circle as a blackmailer, which would likely happen if they actually went ahead and revealed the one night stand.;['0', '0', '2', '0', '0']; 1;4
+205;1.1.6.4.2;pro;Blackmail is illegal, and people will fear legal consequences.;['0', '0', '2', '0', '0']; 4;4
+206;1.1.6.4.3;pro;As blackmailing is generally considered immoral it is an unlikely threat to be put forward.;['0', '1', '1', '0', '0']; ;4
+207;1.1.6.5;con;The potential for blackmail by the one night stand partner is much larger when the cheating partner did not confess but tries to hide the misstep by all means.;['0', '3', '9', '5', '1']; 9;3
+208;1.1.6.5.1;pro;The direct costs to a blackmailer of actually carrying out his or her threat are marginal. This invites the one night stand partner to make demands.;['0', '4', '8', '2', '1']; ;4
+209;1.1.6.5.1.1;pro;Not even a name is necessary, as even an anonymous letter is likely to arouse suspicion with the partner.;['0', '7', '3', '5', '0']; ;5
+210;1.1.6.5.1.3;con;Blackmail costs time and energy. Most people are unlikely to go out of their way to blackmail someone after a one night stand.;['1', '3', '5', '6', '0']; ;5
+211;1.1.6.5.2;pro;The threat of blackmail can be repeated, which invites the one night stand partner to attempt it quickly and with increasing demands.;['0', '3', '9', '1', '1']; ;4
+212;1.1.6.5.2.1;pro;Demands increase because the blackmailee experiences a sunk cost fallacy that makes them accept higher demands.;['0', '3', '6', '5', '0']; 11;5
+213;1.1.6.5.2.2;pro;The consequences of refusing the demands of the blackmailing one night stand partner increase with every demand accepted, as the relationship partner will feel even more betrayed.;['0', '0', '0', '0', '0']; ;5
+214;1.1.6.5.3;con;This assumes that the partner in the one night stand is interested in such behaviour, or has the information necessary to commit blackmail. This is unlikely.;['0', '4', '3', '6', '1']; ;4
+215;1.1.6.5.5;con;Taking the risk and not confessing until blackmail attempts are made is a cost-free strategy.;['0', '0', '0', '2', '1']; ;4
+216;1.2;pro;Revealing the one night stand will relieve feelings of guilt.;['1', '5', '12', '7', '5']; ;1
+217;1.2.1;pro;Guilt can cause various negative impacts on a persons health and psyche. (p. 2);['0', '0', '1', '1', '0']; ;2
+218;1.2.1.1;pro;Having a one night stand can cause depression.;['0', '1', '1', '0', '0']; 3;3
+219;1.2.2;pro;Living with that guilt can destroy a relationship that might otherwise survive the admission of cheating.;['1', '3', '3', '9', '3']; ;2
+220;1.2.2.1;pro;Guilt can also express itself in a wide range of other ways, including nervousness and depression, that - particularly when unexplained to the partner - can damage the relationship.;['0', '0', '1', '1', '0']; 4;3
+221;1.2.3;con;In an exclusive relationship you can hardly consider something a relief if it upsets your partner.;['0', '0', '0', '0', '0']; ;2
+222;1.2.3.1;pro;To shift the emotional burden of one's action onto one's partner is immoral.;['0', '2', '4', '6', '2']; 11;3
+223;1.2.3.2;pro;Partners form shared goals in a relationship. Causing emotional harm to your partner hurts one's own ability to achieve these goals and therefore makes oneself worse off.;['0', '2', '4', '2', '2']; 1;3
+224;1.2.3.3;con;While telling the partner may upset them, at least it means knowing that there is no longer a secret between you and your partner which would still be a relief.;['0', '0', '1', '1', '0']; ;3
+225;1.2.5;con;Feeling guilty can be the lesser of two evils if, for example, the alternative would be a breakup of the relationship.;['0', '3', '5', '6', '5']; 3;2
+226;1.2.5.1;pro;A guilty conscience is expressed in extra attentiveness, buying of gifts or extra confessions of love. This will change the relationship for the better.;['0', '1', '1', '0', '0']; ;3
+227;1.2.5.1.1;con;Extra attentiveness may make the partner suspicious and make them want to find out if there is something going on.;['0', '1', '10', '1', '0']; ;4
+228;1.2.6;con;Not everybody feels guilty after cheating.;['0', '3', '7', '6', '2']; 8;2
+229;1.2.6.1;pro;If the cheating partner feels no guilt the partnership is not affected emotionally. A confession, on the other hand, would do harm to the relationship.;['0', '1', '1', '0', '0']; ;3
+230;1.2.6.2;pro;Around two-thirds of those who have cheated do not regret their actions.;['0', '0', '2', '0', '0']; 8;3
+231;1.2.6.3;con;After making a confession, the cheating partner does usually feel guilty (p. 82).;['0', '2', '7', '4', '0']; ;3
+232;1.3;pro;Confessing to a one night stand is morally the right thing to do.;['0', '0', '1', '3', '1']; 1;1
+233;1.3.1;pro;Most people regard revealing it as the right thing to do.;['0', '0', '2', '0', '0']; 6;2
+234;1.3.1.1;pro;Most people predict that they would tell their spouse if they ever engaged in sex outside the relationship. This indicates that they regard a confession as the right thing to do.;['0', '3', '6', '6', '3']; 3;3
+235;1.3.1.2;con;Argumentum ad populum is a logical fallacy that cannot be used to prove a point. Just because the masses agree does not mean it's correct.;['0', '0', '2', '0', '0']; 1;3
+236;1.3.2;pro;It is disrespectful to your partner to conceal that you broke your commitment to exclusivity.;['0', '0', '0', '2', '0']; 26;2
+237;1.3.2.1;pro;Some suggest that respect is even more crucial than love for a successful relationship.;['1', '2', '3', '10', '4']; ;3
+238;1.3.2.3;pro;In a committed relationship, cheating is a violation of an (implicit or explicit) agreement between two people. As such, there is an obligation to inform the other person when that agreement has been breached.;['0', '3', '8', '6', '5']; 5;3
+239;1.3.2.3.1;pro;Creating a norm of honesty in your relationship is good for you, as it makes it less likely that your partner cheats on you, or betrays you in some other way.;['0', '0', '0', '4', '2']; 17;4
+240;1.3.2.3.1.1;con;The partner can always be dishonest without the other partner knowing in order to further their personal benefit.;['0', '2', '6', '1', '0']; 6;5
+241;1.3.2.3.3;pro;Concealing such an action is an ongoing deceit that will persist throughout the entire length of your relationship.;['0', '0', '1', '1', '0']; ;4
+242;1.3.2.3.4;pro;The social norms against infidelity are nearly universal. In most countries the majority of people regard an affair as something negative.;['0', '1', '3', '9', '2']; 2;4
+243;1.3.2.3.4.1;pro;Anglo-Saxon countries in general do trend towards conservative views on extramarital affairs, the US leading them with disapproval rates of over 80%.;['0', '0', '1', '1', '0']; 6;5
+244;1.3.2.3.4.2;pro;Between 1972 and 2012 extramarital sex became less acceptable, while the acceptability of other sexual activities, e.g. same-sex, premarital, or teen sexual activities increased.;['0', '0', '2', '0', '0']; ;5
+245;1.3.2.3.4.3;con;Less than half of all French people consider an affair to be morally wrong.;['0', '6', '6', '3', '1']; 12;5
+246;1.3.2.3.5;con;An interwoven relationship creates no obligation to be honest.;['2', '3', '6', '1', '1']; 17;4
+247;1.3.2.3.5.1;pro;Being honest can increase emotional vulnerability. There is an obligation, in this instance, to protect oneself that outweighs the obligation to be honest.;['1', '3', '5', '3', '0']; 11;5
+248;1.3.2.3.5.2;con;Romantic relationships usually come with the implicit agreement to honestly share information that is relevant to this relationship with one another.;['0', '0', '4', '6', '4']; ;5
+249;1.3.2.3.6;con;Some types of infidelity can be seen as more acceptable than others.;['0', '4', '8', '2', '1']; ;4
+250;1.3.2.3.7;con;Given how often committed partnerships end, the interweaving of two people's lives is often not deep enough to form an obligation.;['0', '0', '0', '0', '0']; ;4
+251;1.3.2.3.7.1;pro;A lot of people enter into relationships being aware that they will experience significant difficulties in the future and that the relationship might end.;['0', '0', '2', '0', '0']; 3;5
+252;1.3.2.3.7.1.1;pro;Many couples choose to sign a prenuptial agreement to mitigate risk should the marriage end.;['0', '0', '2', '0', '0']; ;6
+253;1.3.2.3.7.2;con;Just because a commitment might be short term does not mean the commitment does not exist.;['0', '2', '4', '7', '2']; ;5
+254;1.3.2.4;con;Revealing the one night stand will cause unnecessary harm to your partner.;['3', '2', '11', '5', '4']; 12;3
+255;1.3.2.4.1;pro;If the one night stand was merely about fun or short-term gratification, it does not necessarily have any implications or consequences for the relationship.;['2', '9', '3', '2', '1']; 17;4
+256;1.3.2.4.1.1;pro;Infidelity in itself can increase the happiness in the relationship by providing an outlet for an unhappy sex life.;['0', '0', '2', '0', '0']; 3;5
+257;1.3.2.4.1.1.2;con;Alternatively, sex outside of an unhappy marriage can reinforce dissatisfaction with the relationship as it comes - in relative terms - without the burdens and responsibilities of a serious relationship.;['0', '0', '6', '3', '1']; 9;6
+258;1.3.2.4.1.2;con;It may be meaningless to oneself but could have a lot of meaning for the partner who was cheated on.;['1', '0', '2', '4', '3']; 4;5
+259;1.3.2.4.1.2.1;pro;It is easy for the person who cheated to say that the one night stand was simply about fun but it is unlikely that their partner, to who they committed exclusively, will see it this way.;['0', '0', '1', '1', '0']; 3;6
+260;1.3.2.4.1.2.1.1;pro;Even if the person who cheated believes they still love and respect their partner, the partner may feel betrayed and hurt by the choice to cheat.;['0', '0', '1', '1', '0']; 1;7
+261;1.3.2.4.1.3;con;Having a one night stand indicates you're not committed to the relationship.;['1', '0', '2', '0', '0']; 8;5
+262;1.3.2.4.1.3.1;pro;Committing an act of infidelity is usually indicative that the person does not love their partner as much as they thought they did.;['0', '0', '2', '0', '0']; ;6
+263;1.3.2.4.1.3.2;con;The majority of people who cheat actually are committed to their partners but end up cheating due to personal psychological reasons.;['0', '0', '2', '0', '0']; ;6
+264;1.3.2.4.1.4;con;Those that have cheated are often paranoid that their partner will also cheat. The only way to recover is through the long job of rebuilding mutual trust.;['0', '0', '2', '0', '0']; 1;5
+265;1.3.2.4.2;pro;The truth can hurt people deeply. A lie or not telling the truth is often more considerate.;['0', '2', '13', '4', '1']; 27;4
+266;1.3.2.4.2.1;pro;"""Ignorance is bliss"": it is more comfortable not to know certain things.";['0', '4', '6', '4', '0']; 6;5
+267;1.3.2.4.2.1.1;pro;Knowledge of having been cheated on has been linked to the occurrence of depressive episodes in women.;['0', '1', '5', '4', '3']; 8;6
+268;1.3.2.4.2.1.2;con;It may be more comfortable in the immediate sense, but that does not mean it is better to be deceived about the commitment of one's partner in the longer term.;['1', '2', '5', '6', '0']; ;6
+269;1.3.2.4.2.2;pro;Confessing sometimes is an act of aggression toward the partner who was cheated on, therefore not telling can be seen as protective and respectful.;['0', '0', '0', '0', '0']; 6;5
+270;1.3.2.4.2.3;pro;Many individuals do not confess to a one night stand because they don't want to hurt their partner.;['0', '0', '2', '0', '0']; 2;5
+271;1.3.2.4.2.4;pro;The betrayed partner may feel partly responsible for the affair and thus question themselves.;['0', '0', '2', '1', '0']; 10;5
+272;1.3.2.4.2.4.1;pro;Betrayed partners feel anger with themselves for missing the signs or not being supportive enough of their partner.;['0', '1', '2', '9', '1']; 2;6
+273;1.3.2.4.2.4.2;pro;The majority of those who have been cheated on suffer significant damage to their self-image, and personal or sexual confidence.;['0', '0', '5', '7', '1']; 2;6
+274;1.3.2.4.2.7;pro;With a confession you knowingly harm your partner. You should consider the feelings of your partner when you make the decision about confessing or not.;['0', '0', '2', '0', '0']; 32;5
+275;1.3.2.4.2.7.5;con;The partner's feelings should have been considered before the one night stand which broke the agreement to exclusivity. Using the fear of harming a partner as an excuse to avoid telling them will only increase the harm done.;['0', '0', '1', '1', '1']; 2;6
+276;1.3.2.4.2.7.6;con;It's not the revelation that causes the unwanted despair but the act of cheating itself and, in this situation, that has already occurred.;['0', '0', '1', '1', '0']; ;6
+277;1.3.2.4.2.8;con;While this might be true for minor lies and obfuscations, it is certainly not considerate in the context of relationships, and thus in a context that determines the course of whole lives.;['1', '2', '4', '6', '0']; 10;5
+278;1.3.2.4.2.8.1;pro;Telling a child their beloved pet has gone to a farm - rather than died - protects them from distress without them being likely to make major decisions on the basis of the lie. An individual, believing in their partner's commitment, may well change the course of their life depending on this lie.;['0', '1', '5', '4', '1']; 2;6
+279;1.3.2.4.2.8.2;con;A lot of parents do not opt for telling their children when they are adopted. This is a significant lie that also has the potential to determine the course of whole lives.;['0', '2', '7', '2', '0']; ;6
+280;1.3.2.4.2.8.2.1;con;It may similarly be considered wrong not to give children this information when they are older so that they can make their own decisions regarding it.;['0', '0', '2', '0', '0']; ;7
+281;1.3.2.4.2.9;con;While being dishonest may sometimes be considerate, it always violates other norms such as treating others with respect.;['0', '2', '4', '8', '0']; 3;5
+282;1.3.2.4.2.9.1;pro;It is often difficult to discern whether, in these circumstances, it is better to treat the other person with respect as your equal worthy of the truth, or with consideration to protect their feelings.;['0', '0', '2', '3', '0']; 16;6
+283;1.3.2.4.2.9.1.1;pro;This is often the case in relationships characterized by paternalism, such as parent-child relationships as well as some doctor-patient relationships.;['0', '1', '1', '0', '0']; ;7
+284;1.3.2.4.2.9.2;con;Violating norms is acceptable if it brings benefits.;['0', '6', '5', '3', '0']; ;6
+285;1.3.2.4.3;pro;Exclusivity in a relationship suggests that your romantic and sexual experiences are tied to those of your partner as things you will always pursue together. Confessing to infidelity breaks this bond by admitting that you have opened up that shared experience to a third party.;['0', '0', '0', '0', '0']; 4;4
+286;1.3.2.5;con;Infidelity is not necessarily the result of disrespect for the partner, but may be a function of other factors, such as whether one lives in an urban, rather than a rural, area.;['4', '7', '6', '2', '2']; 7;3
+287;1.3.2.5.1;con;While these are factors that may increase the ease with which someone might act on the urge to have an affair, they do not say anything as regards the disrespect it demonstrates to act on that urge.;['0', '0', '6', '6', '2']; ;4
+288;1.3.2.6;con;It is not the concealment which is disrespectful but the act of cheating itself. While honesty is generally important in a relationship, people would react differently to the news and their significant others can best judge whether they would be better - or worse - off for knowing.;['0', '0', '2', '0', '0']; 2;3
+289;1.3.3;pro;Honesty in a relationship will reveal your partner's character, wishes, and values and so helps you to decide how to deal with the situation.;['0', '0', '2', '0', '0']; 12;2
+290;1.5;con;Revealing infidelity can cause problems that go far beyond the feelings of those involved in the relationship.;['2', '6', '5', '11', '3']; 25;1
+291;1.5.1;pro;A confession can put the one night stand partner at risk.;['1', '8', '4', '3', '2']; 7;2
+292;1.5.1.1;pro;The victim of the infidelity could act in violent or irrational ways towards the person with whom their partner had the one night stand.;['0', '0', '1', '1', '0']; 1;3
+293;1.5.1.2;pro;If the one night stand partner isn't single themselves, revealing the affair has the potential to ruin their relationship in addition.;['0', '0', '2', '0', '0']; 2;3
+294;1.5.1.4;con;The person in question can be kept a secret, both to protect them and to not give one's significant other the material for unpleasant mental images.;['1', '4', '5', '2', '1']; 5;3
+295;1.5.1.4.1;pro;A confession can be balanced with protecting the one night stand partner where necessary. Either way, it does not eliminate your ability to be honest with your partner while minimising the risk of violence towards the other party to the infidelity.;['0', '0', '2', '0', '0']; 17;4
+296;1.5.1.4.2;con;The cheated-upon partner may be upset by not knowing.;['0', '5', '6', '3', '1']; 1;4
+297;1.5.1.4.2.1;pro;Obsessing over details of an affair is used as a strategy to work through the anger and trauma caused.;['0', '0', '7', '4', '1']; 2;5
+298;1.5.1.4.3;con;It is unrealistic that a confession would not reveal the name of the cheating partner as openness is part of complete reconciliation.;['0', '4', '8', '2', '1']; ;4
+299;1.5.2;pro;If you and your partner work together this, could cause disruptions at work. It could even result in one of them losing their job.;['0', '1', '0', '1', '0']; 9;2
+300;1.5.3;pro;A break-up can put mutual friends in an awkward position.;['1', '7', '7', '1', '2']; ;2
+301;1.5.4;pro;A confession can mean children suffer due to the behavior of one of their parents, especially if the confession leads to a breakup and, by extension, potentially single-parent child rearing.;['0', '2', '9', '6', '2']; 2;2
+302;1.5.4.1;pro;Children will feel that they are missing out on something, when comparing their family to families where parents are not divorced.;['0', '2', '4', '3', '1']; 5;3
+303;1.5.4.1.1;pro;Only 9% of co-parenting families are harmonious (p. 250). Other children will experience a lack of peaceful family dinners or cordial family holidays.;['0', '0', '8', '3', '1']; ;4
+304;1.5.4.1.1.1;con;In many cases, families will not have been harmonious to begin with, and so a separation may simply reduce the child's exposure to that conflict.;['0', '2', '6', '1', '1']; ;5
+305;1.5.4.1.2;con;The child does not have to compete for bonding time with a second parent.;['0', '1', '1', '0', '0']; 1;4
+306;1.5.4.1.2.1;con;The child would probably have more bonding time with the other parent if they still lived together, which could compensate for the time the parents spend bonding without their child.;['0', '4', '6', '4', '0']; ;5
+307;1.5.4.1.2.2;con;If the child would have to compete for bonding time with a second parent, that would probably be a result of bad parenting, which would be unlikely to change because of the breakup.;['0', '3', '5', '6', '0']; ;5
+308;1.5.4.2;pro;When infidelity is the reason for divorce, the negative effects of divorce on children's psychology are exacerbated.;['0', '1', '4', '5', '2']; ;3
+309;1.5.4.2.1;pro;Children of parental infidelity exhibit a negative reaction to the situation across a range of psychological responses and behviours.;['0', '0', '2', '0', '0']; 13;4
+310;1.5.4.4;pro;If a confession leads to a breakup or divorce, and in turn leads to a child growing up with only one parent, it is likely to negatively affect the child's educational achievement.;['1', '2', '8', '2', '1']; ;3
+311;1.5.4.4.1;con;A divorce or breakup does not necessarily lead to single-parent families. The parent with primary custody may remarry, or the separated couple may co-parent.;['0', '1', '9', '5', '0']; 9;4
+312;1.5.4.4.1.1;pro;Co-parenting is common, with 80% of divorced parents reporting moderate or high interaction with their children, that remains high in the long term (p. 250).;['0', '1', '2', '8', '1']; 2;5
+313;1.5.4.4.1.2;con;Around a third of co-parenting families are antagonistic (p. 250). This continues the stress and discomfort a child endures during divorce.;['0', '1', '6', '5', '0']; ;5
+314;1.5.4.5;pro;A child growing up with only one parent following a breakup has increased chances of developing substance abuse issues and/or committing crimes.;['0', '1', '7', '3', '2']; 8;3
+315;1.5.4.5.1;pro;Children from single-parent families are more prone than children from two-parent families to drug usage, gang membership, educational expulsion, commitment to reform institutions, and juvenile murder.;['0', '0', '2', '2', '0']; 13;4
+316;1.5.4.5.1.1;pro;The increased risk of juvenile drug use within single-parent families arises partly due to a reduced allocation of time and attention available for the children (p. 11).;['0', '0', '2', '0', '0']; ;5
+317;1.5.4.5.2;pro;Alcohol consumption increases the risk of divorce. It therefore follows that children in divorced families are likely to have a higher exposure to alcohol consumption which they may imitate.;['0', '0', '2', '0', '0']; 1;4
+318;1.5.4.6;pro;Children are particularly important individuals in such scenarios, and so particular care should be given when determining the best general approach.;['0', '0', '1', '1', '0']; 6;3
+319;1.5.4.6.1;pro;Children are still developing as people, thus anything that impacts them at a young age has the potential to affect the rest of their lives.;['0', '1', '9', '4', '1']; ;4
+320;1.5.4.6.2;pro;Children are more emotionally vulnerable than adults.;['0', '0', '10', '4', '1']; ;4
+321;1.5.4.7;con;For children, a separation of the parents can be better than the continuation of a relationship that results in bad parenting.;['0', '1', '4', '5', '3']; 17;3
+322;1.5.4.7.1;pro;Marital conflict causes development problems in children, such as aggression, bad conduct, anxiety, depression, withdrawal, low academic achievements, and low social competence (p. 120).;['0', '0', '4', '6', '6']; 3;4
+323;1.5.4.7.2;con;A one night stand does not indicate a significantly more troubled relationship than the mean given how many people cheat.;['0', '1', '9', '1', '0']; ;4
+324;1.5.4.7.2.1;pro;Up to 40% of married men and 25% of married women cheat during their lifetime.;['0', '0', '6', '1', '1']; 7;5
+325;1.5.4.7.2.2;con;Only about 10% of people in a relationship cheat in any given year. The lifetime rate of infidelity is 21% for men and 13% for women.;['0', '0', '5', '1', '2']; 1;5
+326;1.5.4.9;con;Many children and families continue to function normally after the initial crisis period that follows divorce (p. 108).;['0', '0', '8', '6', '0']; ;3
+327;1.5.4.9.1;pro;The majority of children possess great resilience in coping with changes to their life situations.;['0', '0', '2', '0', '0']; 1;4
+328;1.5.4.10;con;Growing up in a single parent household presents children and adolescents with a unique set of challenges, thus allowing for the development of new skills and coping strategies.;['0', '3', '8', '3', '0']; 4;3
+329;1.5.4.10.1;pro;Children in single-parent homes have more household responsibility, demonstrated by the time spent on doing chores (p. 14).;['0', '2', '12', '1', '0']; 7;4
+330;1.5.4.10.2;pro;Growing up in a single-mother-headed household will influence values for work and family in a positive way (p. 115).;['0', '0', '2', '0', '0']; 1;4
+331;1.5.4.10.2.2;pro;Children of single mothers may develop occupational aspirations and family values that are less shaped by gender-specific stereotypes than would otherwise be the case, e.g. for maternal employment (p. 115).;['0', '4', '6', '3', '1']; 6;5
+332;1.5.4.10.2.3;pro;Single-parent families have different authority structures, as there are not two partners that collaborate on and reinforce each others' decisions about rules and discipline. This allows the child more room for decision-making.;['0', '0', '2', '0', '0']; ;5
+333;1.5.4.10.2.3.1;con;Lack of a collaborative partner may simply result in decisions made by the single parent being treated as unquestionable.;['0', '2', '7', '2', '0']; ;6
+334;1.5.4.10.3;pro;Children gain more independence in single parent households.;['0', '3', '9', '3', '0']; ;4
+335;1.5.4.10.3.1;pro;Single parents may try to emphasise the importance of financial independence due to their personal experience of more difficult financial situations.;['0', '1', '8', '1', '1']; 10;5
+336;1.5.4.10.3.1.1;con;Nonsingle parents in a more precarious financial situation are more likely to teach their children financial independence as well.;['0', '2', '5', '4', '0']; 3;6
+337;1.5.4.10.3.4;con;This is not always the case. Single parents can become overprotective in an effort to gain more control over their child and reduce the risk of losing them as well.;['0', '0', '7', '4', '0']; ;5
+338;1.5.4.10.3.4.1;pro;There is a tendency for successfully raising their children to become the most important goal for single parents. This focus is often expressed in overprotectiveness (p. 610).;['0', '0', '4', '7', '0']; 1;6
+339;1.5.4.10.3.5;con;Independence in young children needs to be balanced with structure in order for them to be able to adopt healthy behavioural patterns.;['1', '3', '6', '1', '0']; ;5
+340;1.5.6;pro;Revealing an act of infidelity could have a negative effect on the wider family.;['0', '0', '2', '0', '0']; ;2
+341;1.5.7;con;Your problems, and your partner's problems, ought to be more important than other people's problems.;['0', '0', '2', '0', '0']; 1;2
+342;1.5.7.1;pro;Prioritising your relationship will make it more successful in the long run.;['0', '0', '1', '1', '0']; ;3
+343;1.5.8;con;When deciding to reveal a one night stand, one can also decide to approach it in such a way that it minimises harm. Predicting quantities of harm, or the future, is difficult but that is not sufficient a reason to not attempt doing so.;['0', '0', '2', '0', '0']; 3;2
+344;1.6;con;A one night stand is not significant enough to warrant telling your partner.;['7', '11', '8', '3', '1']; 4;1
+345;1.6.2;pro;Cheating is relatively common even in ostensibly exclusive relationships. This implies that the norm is compatible with minor indiscretions and therefore informing your partner is not always necessary.;['0', '4', '8', '5', '1']; 10;2
+346;1.6.2.1;pro;Both the likelihood of and attitudes towards cheating change if one's peers cheat or do not perceive cheating as problematic (p. 313).;['0', '0', '2', '0', '0']; 6;3
+347;1.6.2.2;pro;58% of Turks have had an extramarital affair.;['0', '4', '5', '3', '0']; ;3
+348;1.6.2.3;pro;In 2001, almost two thirds of Americans believed that half or more of all married men have had an affair, making it a widespread and relevant assumption.;['0', '5', '4', '4', '1']; ;3
+349;1.6.2.4;con;Commonality of an action does not make it unimportant.;['0', '3', '6', '4', '1']; ;3
+350;1.6.3;con;Calling it a 'one night stand' is euphemistic phrasing. Its significance lies in the conscious decision you made to betray your partner's trust.;['0', '0', '0', '3', '4']; 5;2
+351;1.6.3.1;pro;"A one night stand and a long-term affair both involve sex. It is sex that makes it ""cheating"", rather than the length of the affair. The fact it may have only happened once does not make it any less important an act to confess to.";['0', '0', '2', '0', '0']; 9;3
+352;1.6.4;con;The significance of a one night stand in the context of a relationship should be decided by both partners. Hence, the partner deserves to be informed.;['0', '5', '3', '8', '5']; 4;2
+353;1.6.4.1;pro;"In order to love somebody one needs to know all their flaws and accept that. For the cheated on partner it may be a sign of being weak person (even if it happended only once); it's up to the partner to choose what to do with such a truth.";['0', '0', '1', '0', '0']; ;3
+354;1.6.4.2;pro;The definition - as well as the severity - of acts of infidelity varies from couple to couple and is often not discussed until after a betrayal has taken place.;['0', '0', '2', '0', '0']; ;3
+355;1.6.5;con;People are more likely to forgive their partner and less likely to worry about their future behaviour when they have been cheated on only once, compared to frequently. This indicates that the insignificance of a one night stand may actually be the reason it does not need to be hidden (p. 10).;['0', '0', '2', '0', '0']; 2;2
+356;1.6.5.1;pro;If a person has only cheated on their partner once, there is a better chance of the relationship surviving compared to if they have had multiple affairs.;['0', '1', '1', '0', '0']; ;3
+357;1.6.5.2;con;It seems likely that finding out about your partner cheating on you once will lead to concerns about it occurring again in the future.;['0', '0', '1', '1', '0']; ;3
