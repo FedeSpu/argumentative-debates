@@ -1,0 +1,722 @@
+;Level;Stance;Claim;Votes;Comments;Depth
+0;1;None;The US should adopt stricter gun control legislation, in the form of the policy defined in the background discussion info.;['56', '21', '5', '14', '104'];66;0
+1;1.1;pro;Gun control measures are an effective way to limit the incidence and impact of mass shootings.;['8', '1', '2', '7', '5'];19;1
+2;1.1.1;pro;Certain guns make it easier for a violent person to kill several people before they can be stopped.;['0', '0', '2', '1', '1']; ;2
+3;1.1.1.1;pro;Guns can be used to kill from a distance, making them harder to protect against.;['0', '1', '2', '0', '0']; 2;3
+4;1.1.1.2;pro;More than half of mass shootings were conducted using semi-automatic weapons with high-capacity magazines.;['0', '0', '3', '0', '0']; ;3
+5;1.1.1.2.1;pro;The deadliest lone actor mass shooting in the US was committed with a firearm that simulates fully automatic fire, which indicates that a ban on automatic weapons is ineffective.;['0', '0', '3', '0', '0']; 17;4
+6;1.1.1.2.2;con;Less than a third of 1% of mass shootings are carried out using large-capacity magazines, therefore proposed legislation to restrict this particular type of firearm isn't likely to have a significant effect on their incidence.;['0', '0', '3', '0', '0']; ;4
+7;1.1.1.3;con;Knives, cars, bombs, and other weapons can be just as easy to use and as lethal as firearms.;['0', '1', '2', '0', '0']; 24;3
+8;1.1.1.3.1;pro;Bombs can be used instead of firearms to hurt people.;['0', '1', '2', '0', '0']; 3;4
+9;1.1.1.3.1.1;pro;There have been several bombings in recent years, like the ones in Austin Texas, the Boston Marathon bombing, and the Oklahoma City Bombing.;['0', '0', '3', '0', '0']; ;5
+10;1.1.1.3.1.2;pro;It is easy to make a bomb.;['0', '0', '3', '0', '0']; 1;5
+11;1.1.1.3.1.3;pro;Bombs can be detonated remotely making them harder to defend against than guns.;['0', '1', '2', '0', '0']; 4;5
+12;1.1.1.3.1.4;con;The fact that there have only been a few significant bombings implies that the ease of obtaining a gun is part of what makes people more likely to commit mass murder.;['0', '1', '1', '0', '1']; 3;5
+13;1.1.1.3.1.5;con;Suppliers are encouraged to flag people who purchase the components needed to make a bomb, like large amounts of fertilizer.;['0', '0', '2', '1', '0']; ;5
+14;1.1.1.3.2;pro;Vehicles can be used as deadly weapons.;['0', '2', '1', '0', '0']; ;4
+15;1.1.1.3.2.1;pro;Each year in the US there are roughly the same number of deaths due to car incidents (40,000) as gun-related incidents (36,383). If saving lives were the only concern, then stronger regulations should be placed on motor vehicles.;['0', '1', '2', '0', '0']; 9;5
+16;1.1.1.3.2.1.1;pro;It is possible to cause a comparable amount of harm as someone armed with a gun by combining the element of surprise with certain weapons or dangerous tools like cars and knives.;['0', '2', '1', '0', '0']; 2;6
+17;1.1.1.3.2.1.2;con;Automobiles have been made safer by the regulations and laws put in place throughout history. This suggests that while regulation of deadly things like cars and guns are difficult to enact, regulations ultimately reduce the risks of injury and death.;['0', '0', '1', '1', '0']; 2;6
+18;1.1.1.3.2.1.2.1;pro;As fatality rates in road traffic accidents have trended upward, new vehicle regulations aimed at saving lives (seat belts, airbags, no texting, etc.) have been introduced.;['0', '0', '2', '1', '0']; 7;7
+19;1.1.1.3.2.1.2.1.1;pro;Primary enforcement of mandatory seat belt laws reduces road deaths.;['0', '0', '2', '1', '0']; ;8
+20;1.1.1.3.2.1.3;con;Strong restrictions on car ownership are rarely proposed as a solution as banning cars would have a wider and stronger negative impact than banning guns.;['0', '1', '1', '1', '0']; 10;6
+21;1.1.1.3.2.1.3.1;pro;America is heavily dependent on cars, meaning that outlawing them would be profoundly impractical. The concern for saving lives is offset by this factor.;['0', '0', '2', '1', '0']; 7;7
+22;1.1.1.3.2.1.3.1.1;pro;Many cities and states the US are spread out and poorly serviced by public transit. Living in these places without a car severely limits employment opportunities.;['0', '0', '3', '0', '0']; 1;8
+23;1.1.1.3.2.1.4;con;The rate of car crash deaths has steadily decreased while the gun death rate has increased over the years.;['0', '0', '2', '1', '0']; ;6
+24;1.1.1.3.2.2;pro;Something as common as a truck can be more deadly than a gun.;['0', '2', '1', '0', '0']; 9;5
+25;1.1.1.3.2.3;con;In response to automobile-related terrorism, laws and regulations have been put in place to restrict vehicular access to pedestrian areas.;['0', '0', '2', '0', '1']; ;5
+26;1.1.1.3.2.4;con;Whereas guns are tools designed to cause harm, automobiles are designed for transportation.;['0', '0', '3', '0', '0']; ;5
+27;1.1.1.3.3;pro;There are many examples around the world of mass stabbings, showing that a knife can be just as harmful as a firearm.;['0', '1', '2', '0', '0']; 11;4
+28;1.1.1.3.3.1;pro;Knife wounds can be even more deadly than bullet wounds.;['0', '0', '3', '0', '0']; 6;5
+29;1.1.1.3.3.1.1;pro;Edged weapons like knives and swords are capable of causing significant amounts of harm in very short periods of time in densely populated spaces because they are not limited by the availability of ammunition.;['0', '0', '3', '0', '0']; ;6
+30;1.1.1.3.3.1.2;con;A study found there to be no significant difference between fatalities from gun shots or those from stab wounds.;['0', '0', '3', '0', '0']; 2;6
+31;1.1.1.3.3.2;pro;One man killed 19 and injured another 26 in one stabbing incident in Japan.;['0', '0', '3', '0', '0']; ;5
+32;1.1.1.3.3.3;pro;A group of eight terrorists armed with knives killed 31 people and injured more than 140 others in Kunming, China.;['0', '0', '3', '0', '0']; ;5
+33;1.1.1.3.3.4;pro;According to FBI crime data, deaths by knives in the US outnumber deaths by rifles by 5 to 1.;['0', '0', '1', '0', '0']; ;5
+34;1.1.1.3.3.4.1;con;The FBI crime data chart lists the number of murders per type of gun (handguns, rifles, shotguns, and unknown firearm), but groups all knives and cutting instruments together. Taken together, gun-related murders vastly outnumber knife-related murders.;['0', '0', '2', '0', '1']; ;6
+35;1.1.1.3.3.4.1.1;pro;Handgun-related murders outnumber knife-related murders in almost every state 2 to 1.;['0', '0', '2', '1', '0']; ;7
+36;1.1.1.3.3.5;con;It is much easier to stop someone with a knife than it is to stop someone with a gun. For example, police were able to shoot the knife-wielding suspects in the 2014 Kunming attack.;['0', '1', '2', '0', '0']; ;5
+37;1.1.1.3.3.6;con;Attempting to defend oneself with a knife is an ineffective tactic when compared to stopping the assailant with a handgun.;['0', '1', '2', '0', '0']; ;5
+38;1.1.1.3.4;con;America has a much higher annual death rate from gun violence than from deaths caused by bombings, airplane crashes, or deliberate vehicular attacks.;['0', '1', '1', '1', '0']; 4;4
+39;1.1.1.3.5;con;Other methods of hurting individuals, like hunting knives or cars, can be banned and regulated as well.;['0', '0', '2', '1', '0']; 8;4
+40;1.1.1.3.6;con;Rejecting gun control legislation as a partial solution because it fails to totally eliminate homicide is an example of the Nirvana fallacy.;['0', '0', '2', '1', '0']; 2;4
+41;1.1.2;pro;A study comparing the mass murder rate with the strictness of gun control laws in the US between 2009 and 2015 found that as gun control policy strictness increased, instances and severity of mass murder in that state both decreased (p. 14-15).;['0', '0', '2', '1', '0']; ;2
+42;1.1.2.1;pro;If there are fewer guns in circulation, it is more difficult for one to fall into the wrong hands.;['0', '0', '2', '0', '0']; ;3
+43;1.1.2.1.1;pro;Gun control would help fight organised crime.;['0', '0', '2', '1', '0']; 2;4
+44;1.1.2.1.1.1;pro;Half of all violent crime in the US is related to gang activity and the investigation and prosecution of gangs is made more difficult by the lack of strong universal gun laws.;['0', '0', '3', '0', '0']; 5;5
+45;1.1.2.1.1.1.1;pro;Individuals and gangs abuse weak US gun laws to acquire guns when they cannot get guns in places with strong gun laws. Adopting stricter universal gun control regulations would address this.;['0', '0', '1', '1', '0']; 1;6
+46;1.1.2.1.1.1.1.1;pro;Many US gun traders abuse weak gun laws in neighbouring states in order to traffic in firearms across state lines.;['0', '0', '2', '1', '0']; 2;7
+47;1.1.2.1.1.1.1.1.1;pro;Smugglers in Illinois are able to easily drive to neighbouring Indiana, make large firearm purchases and return.;['0', '0', '2', '1', '0']; 3;8
+48;1.1.2.1.1.1.1.1.2;pro;Chicago's strict gun laws are undermined by the comparatively lax laws of Indiana and Wisconsin.;['0', '0', '0', '1', '0']; 4;8
+49;1.1.2.1.1.1.1.1.2.1;pro;More than 20% of all guns in Chicago are purchased legally in Indiana, which has much more relaxed gun laws.;['0', '0', '2', '1', '0']; 3;9
+50;1.1.2.1.1.1.1.1.3;con;Katie Couric's documentary Under the Gun attempted to establish that federal and state gun laws can easily be circumvented, but was criticized for editing footage to disparage gun advocates.;['0', '0', '1', '0', '0']; ;8
+51;1.1.2.1.1.1.1.1.3.1;pro;Katie Couric has been accused of committing at least four federal felonies for buying and trafficking firearms while making the documentary.;['0', '1', '0', '0', '0']; ;9
+52;1.1.2.1.1.1.1.1.3.1.1;pro;Gun advocacy groups called for the Bureau of Alcohol, Tobacco, Forearms and Explosives (ATF) to investigate Katie Couric.;['0', '1', '2', '0', '0']; ;10
+53;1.1.2.1.1.1.1.1.3.1.1.1;con;The ATF declined to conduct a formal investigation of Katie Couric because they claimed it was unclear whether a violation of the law had occurred.;['0', '0', '2', '1', '0']; 1;11
+54;1.1.2.1.1.1.1.1.3.1.2;con;The point of the documentary was to demonstrate that it was relatively easy to commit federal felonies, which implies that current gun laws are not adequately enforced.;['0', '0', '2', '1', '0']; ;10
+55;1.1.2.1.1.1.1.1.3.2;pro;The creators of Under the Gun issued a formal apology in response to allegations of editing audio to make the interviewee look ill-prepared.;['0', '0', '1', '0', '0']; ;9
+56;1.1.2.1.1.1.1.1.3.3;con;The criticisms of Katie Couric's documentary only undermine her credibility as a producer, and do not address the evidence being presented.;['0', '0', '1', '0', '0']; ;9
+57;1.1.2.1.1.1.1.2;pro;In a 2015 report, the Mexican government estimated that of the 15 million firearms in circulation, 13 million were illegally obtained from the US.;['0', '0', '3', '0', '0']; 6;7
+58;1.1.2.1.1.1.1.2.1;pro;Nearly all gun violence in Mexico is committed with illegal firearms originating from the US.;['0', '0', '2', '1', '0']; ;8
+59;1.1.2.1.1.1.1.3;con;The majority of gun owners obtain their guns legally, while most criminals obtain their guns illegally.;['0', '1', '2', '0', '0']; ;7
+60;1.1.2.1.1.1.1.3.1;pro;It is possible to acquire firearms illegally in the US.;['0', '0', '0', '0', '0']; 6;8
+61;1.1.2.1.1.1.1.3.1.1;pro;Guns are easy to make at home.;['0', '0', '0', '0', '0']; ;9
+62;1.1.2.1.1.1.1.3.1.1.1;pro;Guns created using a 3D printer are especially difficult to regulate.;['0', '0', '3', '0', '0']; 10;10
+63;1.1.2.1.1.1.1.3.1.1.1.1;pro;While the Undetectable Firearms Act prohibits the ownership of any firearms that cannot be detected by a metal detector, this restriction does not pertain to all 3D-printed guns.;['0', '0', '2', '1', '0']; ;11
+64;1.1.2.1.1.1.1.3.1.1.1.2;con;The plastics used in 3D printing are too brittle to make a functional gun, and metal-based 3D printers are too expensive to work as a meaningful alternative.;['0', '1', '1', '1', '0']; 9;11
+65;1.1.2.1.1.1.1.3.1.1.1.2.1;con;While 3D printing cannot reliably be used to make the barrel of a pistol or rifle, it can be used to create the receiver.;['0', '0', '3', '0', '0']; ;12
+66;1.1.2.1.1.1.1.3.1.1.1.2.1.1;pro;It is especially desirable to create the receiver because it is highly regulated.;['0', '0', '3', '0', '0']; ;13
+67;1.1.2.1.1.1.1.3.1.1.1.2.1.2;con;People can already buy 80% receivers without serial numbers.;['0', '0', '3', '0', '0']; 4;13
+68;1.1.2.1.1.1.1.3.1.1.2;pro;Improvised firearms like zip guns can be made using household materials and are untraceable.;['0', '0', '2', '1', '0']; 2;10
+69;1.1.2.1.1.1.1.3.1.1.3;con;Many homemade guns are relatively low quality, and thus likely are not worth the time and effort to make.;['0', '0', '3', '0', '0']; ;10
+70;1.1.2.1.1.1.1.3.1.2;pro;It is almost impossible to search every shipping container for weapons smuggled into the US for gangs and other criminals.;['0', '0', '0', '0', '0']; 8;9
+71;1.1.2.1.1.1.1.3.1.2.1;con;Searching for imported weapons would likely have little effect on reducing gun violence as 78% of weapons traced to crimes were manufactured in the US (p. 4).;['0', '0', '2', '1', '0']; 7;10
+72;1.1.2.1.1.1.1.3.1.3;pro;The National Rifle Association (NRA) argues that firearms associated with criminal activity are linked to the black market, and thus should not be used as justification for gun regulations.;['0', '1', '1', '0', '0']; ;9
+73;1.1.2.1.1.1.1.3.1.3.1;pro;According to the US Department of Justice (DOJ), the majority of firearms used to commit crimes were stolen, purchased on the black market, from a drug dealer, on the street, or from family or friends.;['0', '0', '2', '0', '0']; ;10
+74;1.1.2.1.1.1.1.3.1.3.1.1;pro;In 2016, the DOJ report indicated that over half (56%) of firearms used to commit crimes were either stolen, acquired at the scene of the crime, or obtained off the street or from the black market (p. 1).;['0', '0', '3', '0', '0']; ;11
+75;1.1.2.1.1.1.1.3.1.3.1.1.1;con;The majority of guns used to commit crimes were obtained off the street or the black market (43%) or from friends and family (25%). While this evidence supports the existence of unregulated gun sales, it does not link them to states with strict gun control legislation.;['0', '0', '3', '0', '0']; ;12
+76;1.1.2.1.1.1.1.3.1.3.1.2;con;In 2016, the DOJ reported that only 1.3% of prisoners that used a gun to commit a crime purchased the weapon used in the crime from a licensed dealer, which indicates that gun control legislation does reduce the number of guns legally sold to criminals.;['0', '0', '2', '1', '0']; ;11
+77;1.1.2.1.1.1.1.3.1.3.2;con;While US gun laws regulate the sale of firearms from licensed vendors, sales and exchanges between friends or private citizens are unregulated in Florida. Unregulated gun sales connect legal firearms with the black market in Jamaica.;['0', '0', '1', '1', '0']; ;10
+78;1.1.2.1.1.1.1.3.1.3.2.1;pro;In 2009, 80% of all illegal guns seized in the Caribbean were traced back to the US.;['0', '0', '0', '0', '0']; ;11
+79;1.1.2.1.1.1.1.3.1.3.2.2;pro;Tawanna Banton, a Florida resident, was convicted of buying a handgun that was later used in the gang-related shooting of four police officers in Jamaica.;['0', '0', '3', '0', '0']; ;11
+80;1.1.2.1.1.1.1.3.1.3.3;con;Many guns purchased on the black market in Europe come from the US, where sellers exploit weak gun control legislation and ship them oversees.;['0', '0', '0', '1', '0']; ;10
+81;1.1.2.1.1.1.1.3.1.3.4;con;Despite evidence that criminals typically cannot acquire firearms within states with strict regulations, the NRA uses the idea of the black market to campaign against gun control legislation.;['0', '0', '3', '0', '0']; ;10
+82;1.1.2.1.1.1.1.3.1.4;con;Guns purchased illegally are much more expensive, which incentivizes purchasing firearms legally (pp. 83-84).;['0', '0', '1', '1', '0']; 3;9
+83;1.1.2.1.1.1.1.3.1.4.1;pro;In Australia the price of illegal semi-automatic handguns rose significantly after they were outlawed.;['0', '0', '3', '0', '0']; ;10
+84;1.1.2.1.1.1.1.3.1.4.2;con;Guns purchased illegally are not particularly expensive.;['0', '1', '2', '0', '0']; 4;10
+85;1.1.2.1.1.1.1.3.2;pro;Strict gun control legislation will drive gun sales underground, which involves illegally modifying guns and selling them on the black market.;['0', '1', '2', '0', '0']; 20;8
+86;1.1.2.1.1.1.1.3.2.1;pro;Many areas with strict gun control laws have a black market for guns.;['0', '0', '3', '0', '0']; ;9
+87;1.1.2.1.1.1.1.3.2.1.1;con;The presence of guns in areas with strict gun control legislation can usually be traced back to gun sales in areas with lenient gun regulations.;['0', '0', '2', '0', '1']; ;10
+88;1.1.2.1.1.1.1.3.2.1.1.1;pro;Illegal gun dealing relies on access to guns in the first place, or on inconsistencies in regional laws.;['0', '0', '1', '0', '1']; 2;11
+89;1.1.2.1.1.1.1.3.2.1.1.1.1;pro;Federal regulations are likely to be easier to enforce than state or city regulations because state and city regulations can be avoided by leaving the area.;['0', '0', '1', '0', '1']; 2;12
+90;1.1.2.1.1.1.1.3.2.1.1.2;pro;In the UK, police and border officials struggle to stop illegal guns from being smuggled across the border.;['0', '0', '2', '0', '0']; ;11
+91;1.1.2.1.1.1.1.3.2.2;pro;It is relatively easy to prepare a gun to be sold illegally. A gun can be made untraceable by using a power tool to effectively grind away the serial number.;['1', '1', '1', '3', '0']; 9;9
+92;1.1.2.1.1.1.1.3.2.2.1;con;Scientists have developed a reagent that can restore previously obliterated serial numbers from metal surfaces. This may be useful to law enforcement in tracing defaced firearms.;['0', '0', '3', '0', '0']; 1;10
+93;1.1.2.1.1.1.1.3.2.2.2;con;Gun registration could be modeled after automotive regulations, which require annual check-ins in order for them to remain legally eligible for use. This enables products to be traced back to their owners and penalizes anyone trying to illegally modify them.;['0', '0', '2', '0', '0']; 8;10
+94;1.1.2.1.1.1.1.3.2.2.2.1;pro;Even when gun registration is not universal, evidence suggests that gun registration laws are correlated with reduced gun-related crimes.;['0', '0', '0', '1', '0']; 2;11
+95;1.1.2.1.1.1.1.3.2.2.2.2;con;Canada abandoned their attempt to register an estimated 15 million 'long guns' after they failed to register even 25%.;['0', '0', '3', '0', '0']; 5;11
+96;1.1.2.1.1.1.1.3.2.3;con;Selling a gun on the black market requires significant interaction with serious criminal elements.;['0', '1', '2', '1', '0']; ;9
+97;1.1.2.1.1.1.1.3.2.3.1;pro;Illicit gun sales that take place in person come with additional risks like violent robbery or assault.;['0', '0', '3', '0', '0']; ;10
+98;1.1.2.1.1.1.1.3.2.3.2;pro;Guns sold on the black market are likely to give higher profits to criminals, gangs, cartels, and the mafia which traffic these products.;['0', '1', '1', '0', '0']; ;10
+99;1.1.2.1.1.1.1.3.2.3.3;con;Prohibition of alcohol caused an increase in crime and corruption, as organized crime filled the needs of the market (p. 1).;['0', '0', '2', '0', '0']; 15;10
+100;1.1.2.1.1.1.1.3.2.3.3.1;con;Unlike the complete ban of alcohol during prohibition, many guns would remain legal to buy and sell under strict gun control legislation, thus diminishing the possibility of organized crime taking any portion of that market.;['0', '1', '2', '1', '0']; ;11
+101;1.1.2.1.1.1.1.3.3;con;Despite both federal and statewide gun control legislation, more than 80% of firearms used in mass shootings in the US over the last 40 years were acquired legally.;['0', '0', '3', '0', '0']; 8;8
+102;1.1.2.1.1.1.1.3.3.1;pro;Both the Las Vegas shooter and the Parkland shooter obtained their weapons legally.;['0', '0', '3', '0', '0']; ;9
+103;1.1.2.1.1.1.1.3.3.2;pro;Data collected from 2009 to 2018 establishes a trend that one third of mass shootings in the US are committed by guns that have been legally purchased by someone who cannot legally possess a firearm. Strict universal gun control legislation would help resolve this problem.;['0', '0', '3', '0', '0']; 2;9
+104;1.1.2.1.1.1.1.3.3.3;con;The majority of guns used to commit crimes can be traced back to states with weak gun regulations, which means that they are legal but would likely be impacted by new universal gun control measures.;['0', '0', '2', '0', '1']; ;9
+105;1.1.2.1.1.1.1.3.3.3.1;pro;Data collected from the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) indicates that the majority of firearms recovered by law enforcement can be traced back to legal but unregulated gun sales.;['0', '0', '3', '0', '0']; ;10
+106;1.1.2.1.1.1.1.3.3.3.1.1;pro;In 2016, the ATF found that of the 289,223 firearms recovered by law enforcement in the US, 211,384 (74%) were traced to a legal retail purchaser.;['0', '0', '3', '0', '0']; ;11
+107;1.1.2.1.1.1.1.3.3.3.1.1.1;con;In 2016, only 1.3% of inmates accused of either participating in an act of violence with a gun or actively shooting it had gotten it from a retail seller, while less than 8% had used their own names (p. 8-9).;['0', '1', '2', '0', '0']; 1;12
+108;1.1.2.1.1.1.1.3.3.3.1.1.1.1;con;While only 10% of inmates report buying guns from retail sellers themselves, the remaining 90% obtain their weapons through unregulated and questionably legal straw sales or sharing arrangements.;['0', '0', '2', '1', '0']; ;13
+109;1.1.2.1.1.1.1.3.3.3.1.1.1.2;con;It is possible that survey data provided by inmates is unreliable because it only accounts for the last gun sale before a crime is committed, and leaves out the chain of straw purchases that preceded it.;['0', '0', '1', '1', '0']; ;13
+110;1.1.2.1.1.1.1.3.3.3.3;con;Unregulated straw purchases only contributed to 5 of the 167 mass shootings in the US between 1966 and 2019.;['0', '0', '0', '0', '0']; ;10
+111;1.1.2.1.1.1.1.3.3.4;con;Gun control legislation specifically changes what is considered a legal firearm purchase, thus directly impacting the percentage of firearms available to commit mass shootings.;['0', '0', '2', '1', '0']; ;9
+112;1.1.2.1.1.1.1.3.3.4.1;pro;Red flag laws would make it illegal for someone who has made violent threats or is suicidal to purchase a firearm.;['0', '0', '2', '1', '0']; ;10
+113;1.1.2.1.1.1.1.3.3.4.1.1;pro;From 1966 to 2019, red flag laws could have impacted 141 out of the 167 mass shootings in the US.;['0', '0', '2', '1', '0']; ;11
+114;1.1.2.1.1.1.1.3.3.4.1.2;pro;A 2019 poll indicated that 70 to 77% of Americans across political lines support red flag laws.;['0', '0', '2', '1', '0']; ;11
+115;1.1.2.1.1.1.1.3.3.4.1.2.1;con;In May 2020, Oklahoma passed an anti-red flag law, which suggests that popular opinion may be changing in some areas.;['0', '1', '2', '0', '0']; ;12
+116;1.1.2.1.1.1.1.3.3.4.2;pro;A strict assault weapons ban would make it illegal to sell certain high-powered weapons.;['0', '0', '3', '0', '0']; ;10
+117;1.1.2.1.1.1.1.3.3.4.2.1;pro;According to The Violence Project database, a comprehensive assault weapons ban would have impacted 38 of the 167 mass shootings between 1966 and 2019.;['0', '0', '3', '0', '0']; ;11
+118;1.1.2.1.1.1.1.3.3.4.2.2;con;"The term ""assault weapon"" is arbitrary and no longer designates a type of weapon.";['0', '1', '2', '0', '0']; ;11
+119;1.1.2.1.1.1.1.3.3.4.2.2.1;pro;"The NRA argues that the term ""assault weapon"" is used to rhetorically blur the lines between legal semi-automatic weapons, like the AR-15, and automatic weapons.";['0', '0', '0', '0', '0']; ;12
+120;1.1.2.1.1.1.1.3.3.4.2.2.1.1;con;Even if AR-15's are not automatic, they are commonly used to commit deadly mass shootings and thus worthy of strict regulation.;['0', '0', '0', '0', '0']; ;13
+121;1.1.2.1.1.1.1.3.3.4.2.2.1.1.1;pro;The Route 91 Harvest music festival mass shooting in Las Vegas in 2017 involved more than 14 AR-15 rifles and resulted in the killing of 58 people.;['0', '0', '2', '1', '0']; ;14
+122;1.1.2.1.1.1.1.3.3.4.2.2.1.1.2;pro;An AR-15 was used in the Sandy Hook Elementary School shooting to kill 26 people in 2012.;['0', '0', '3', '0', '0']; ;14
+123;1.1.2.1.1.1.1.3.3.4.2.2.1.1.3;con;A variety of guns and weapons have been used to commit mass shootings, so there's no reason to target the AR-15.;['0', '1', '2', '0', '0']; ;14
+124;1.1.2.1.1.1.1.3.3.4.2.2.1.1.3.1;pro;The NRA argues that the focus on the AR-15 is a political response to the failure of previous attempts to ban handguns.;['0', '1', '2', '0', '0']; ;15
+125;1.1.2.1.1.1.1.3.3.4.2.2.1.1.3.2;con;The AR-15 is the civilian equivalent of the military-grade M-16, thus it is more dangerous than other semi-automatic weapons.;['0', '0', '2', '1', '0']; ;15
+126;1.1.2.1.1.1.1.3.3.4.2.2.1.1.3.2.1;pro;The AR-15 is considered to be especially easy to modify to increase its ammunition capacity, range, accuracy, and firing rate.;['0', '0', '2', '1', '0']; ;16
+127;1.1.2.1.1.1.1.3.3.4.2.2.1.1.3.2.2;pro;The AR-15's bullets contain more gunpowder and thus have a greater velocity than bullets fired by other legal weapons.;['0', '0', '3', '0', '0']; ;16
+128;1.1.2.1.1.1.1.3.3.4.2.2.2;con;"The term ""assault weapon"" has been used in gun control legislation before and could be adopted or modified by new legislation.";['0', '0', '2', '0', '1']; ;12
+129;1.1.2.1.1.1.1.3.3.4.2.2.2.1;pro;"The Federal Assault Weapons Ban (AWB) of 1994 established strict parameters for classifying many semi-automatic weapons as ""assault weapons.""";['0', '0', '2', '1', '0']; ;13
+130;1.1.2.1.1.2;pro;Guns are regularly purchased in the US and then illegally shipped to gangs in both Latin America and the Caribbean.;['0', '0', '2', '1', '0']; 5;5
+131;1.1.2.1.1.2.1;pro;49% of crime guns used in crimes in El Salvador were originally purchased in the U.S.;['0', '0', '1', '2', '0']; ;6
+132;1.1.2.1.1.2.2;pro;American guns are easily sold to Mexican drug cartels.;['0', '0', '3', '0', '0']; 1;6
+133;1.1.2.1.1.2.2.1;pro;70% of guns recovered from criminal investigations in Mexico were purchased legally in the US, often through straw purchasers and without background checks.;['0', '0', '2', '1', '0']; 2;7
+134;1.1.2.1.1.2.2.1.2;pro;Access to American weapons directly impacts the gun-related murder rate in Mexico.;['0', '0', '2', '1', '0']; ;8
+135;1.1.2.1.1.2.2.1.2.1;pro;It is estimated that 213,000 guns are smuggled into Mexico from the US every year.;['0', '0', '2', '1', '0']; ;9
+136;1.1.2.1.1.2.2.1.3;con;Legislation could be passed which targets straw purchases without having to adopt strict universal gun regulations.;['0', '1', '1', '0', '0']; ;8
+137;1.1.2.1.1.2.2.2;con;Facing well-armed drug cartels and strict gun regulations in Mexico, Mexican citizens rely upon American guns to defend their communities.;['0', '0', '3', '0', '0']; ;7
+138;1.1.2.1.1.2.3;pro;29% of guns used in crimes in Guatemala have US origins.;['0', '0', '2', '1', '0']; ;6
+139;1.1.2.1.1.2.4;con;The US has no obligation to help non-US citizens or resolve problems in other countries.;['0', '2', '1', '0', '0']; ;6
+140;1.1.2.1.1.3;pro;Gun controls have led to the arrest of drug cartel criminals.;['1', '0', '3', '3', '0']; 7;5
+141;1.1.2.1.1.4;con;Prohibitions generally don't harm organized crime. In fact, organized crime has historically profited from them.;['0', '0', '2', '0', '2']; 3;5
+142;1.1.2.1.3;pro;Without background checks and gun regulations in place, individuals suffering from severe mental illness can easily acquire deadly weapons.;['0', '1', '1', '0', '0']; 8;4
+143;1.1.2.1.3.1;pro;It is estimated that around a third of mass killings are carried out by individuals with untreated serious mental illness.;['1', '0', '2', '0', '0']; ;5
+144;1.1.2.1.3.1.1;con;Mass shootings by individuals with mental illness account for less than 1% of gun-related homicides (p. 81).;['0', '0', '2', '1', '0']; ;6
+145;1.1.2.1.3.1.2;con;The Epidemiologic Catchment Area (ECA) surveys report that, while mental illness does correlate with an increased risk of some violent behaviors, only a small portion of mentally ill people ever commit violent acts at all.;['0', '0', '2', '1', '0']; ;6
+146;1.1.2.1.3.1.3;con;The connection between mental illness and mass shootings is inconclusive and oversimplifies the problem of gun-related mass killings in the US.;['0', '0', '2', '1', '0']; 1;6
+147;1.1.2.1.3.2;pro;In 2017, the Trump administation revoked a regulation finalised only 3 months previously that would have potentially added 75,000 higher risk individuals to the background check database.;['0', '0', '0', '0', '0']; ;5
+148;1.1.2.1.3.3;con;Access to firearms by mentally unstable people is a red herring that obscures the fundamental problem that most people have unrestricted access to firearms.;['0', '0', '2', '1', '0']; 2;5
+149;1.1.2.1.3.3.1;pro;In the US, only 4% of all violence is due to those with a diagnosed mental illness, meaning 96% of violence has nothing to do with mental illness.;['0', '0', '2', '1', '0']; 5;6
+150;1.1.2.1.3.3.1.1;con;This source only considers schizophrenia, bipolar and depression. Accordingly, it cannot conclude that mental illness as a whole is not present in the remaining 96% of violent incidents.;['0', '2', '1', '0', '0']; 1;7
+151;1.1.2.1.3.3.1.1.1;pro;The same source suggests that anyone who commits mass murder cannot be mentally well.;['0', '0', '1', '0', '0']; ;8
+152;1.1.2.1.3.3.1.1.1.1;con;"This source does not state diagnosable disorders nested under ""mentally well."" Another source states that shooters are more likely to have mental health stressors rather than a diagnosed mental illness.";['0', '0', '3', '0', '0']; 2;9
+153;1.1.2.1.3.3.1.1.2;con;While mental illness as a whole is not captured by the analysis of three disorders, serious mental illness (SMI) is a term that refers to the severity of the symptoms is adequately represented by schizophrenia, bipolar, and depression.;['0', '0', '2', '1', '0']; ;8
+154;1.1.2.1.3.3.1.1.2.1;pro;Serious mental illness (SMI) typically refers to psychotic disorders, bipolar disorder, and major depressive disorders, but can also include extreme cases of anxiety, eating, and personality disorders that functionally impair individuals.;['0', '1', '1', '1', '0']; ;9
+155;1.1.2.1.3.3.1.2;con;Given that it is estimated that over half of those with mental health disorders are never diagnosed, it is possible that the available statistics on mental health and gun violence do not accurately represent the population.;['0', '1', '2', '0', '0']; 3;7
+156;1.1.2.1.3.3.1.2.1;con;Given that only 4% of all violence is associated with mental illness, it is unlikely that that even doubling the known instances of mental illness would generate a positive correlation between violence and mental illness.;['0', '0', '2', '1', '0']; 3;8
+157;1.1.2.1.3.3.2;con;Passing a mental health evaluation indicates a reduced likelihood of harming oneself or others.;['0', '1', '2', '0', '0']; 3;6
+158;1.1.2.1.3.3.2.1;pro;Laws which limit firearm access of individuals from high-risk groups reduce violence.;['0', '0', '3', '0', '0']; ;7
+159;1.1.2.1.3.4;con;It is already illegal to provide firearms to particular felons and people who have certain histories of mental illness.;['0', '0', '3', '0', '0']; 1;5
+160;1.1.2.1.3.4.1;con;The laws preventing some felons and people suffering from mental illness from owning a firearm vary from state to state, and thus can be avoided by buying the gun elsewhere.;['0', '0', '3', '0', '0']; ;6
+161;1.1.2.1.4;con;Stricter firearm ownership laws will not effectively remove firearms from the possession of criminals.;['0', '1', '1', '0', '0']; 17;4
+162;1.1.2.1.4.2;con;A small fraction of gun dealers are knowingly responsible for the majority of guns used in crimes in the US. Stricter regulation would hold these traders to account.;['0', '0', '2', '1', '0']; 12;5
+163;1.1.2.1.4.2.1;con;Since 2003, the Tiahrt Amendments have undermined the collection and sharing of data pertaining to legal firearm sales and the illegal sale and distribution of firearms, which makes it nearly impossible to trace the source of firearms used to commit crimes.;['0', '0', '2', '1', '0']; 1;6
+164;1.1.2.1.4.2.1.1;pro;In 2012, a study found that the Tiahrt Amendments make it easier for criminals to acquire firearms.;['0', '0', '3', '0', '0']; ;7
+165;1.1.2.1.4.2.1.2;pro;Democratic Congresswoman Barbara Lee from California argued that repealing the Tiahrt Restrictions would empower law enforcement to address the rising concerns of gun violence in the US in 2018.;['0', '0', '2', '1', '0']; ;7
+166;1.1.2.1.4.2.1.2.1;pro;The repeal states that the Tiahrt Amendments impede the enforcement of gun laws by barring the Government from requiring annual inventory audits by owners of gun shops.;['0', '0', '2', '1', '0']; ;8
+167;1.1.2.1.4.2.1.2.2;pro;Lee's proposal was supported by the firearm trace data collected by the ATF which states that the majority of firearms recovered in the US can be traced back to retail purchasers.;['0', '0', '2', '1', '0']; ;8
+168;1.1.2.1.4.2.1.3;con;The Tiahrt Amendments only protect the data of legal firearm sales and prevents the analysis of data unrelated to criminal activity.;['0', '0', '2', '0', '0']; ;7
+169;1.1.2.1.4.2.1.3.1;pro;In 2007, Chuck Canterbury, the National President of the Fraternal Order of Police (FOP), claimed that the data restrictions of the Tiahrt Amendments keep law enforcement personnel safe.;['0', '0', '0', '0', '0']; ;8
+170;1.1.2.1.4.2.1.3.1.1;con;The FOP has a history of advocating for police officers at the expense of communities of color, which has lead to a number of controversies.;['0', '0', '3', '0', '0']; ;9
+171;1.1.2.1.4.2.1.3.1.1.1;pro;In 2017, protesters in Tennessee compared the local FOP lodge with the KKK.;['0', '0', '3', '0', '0']; ;10
+172;1.1.2.1.4.2.1.3.1.1.2;pro;"In 2017, John McNesby, the president of the Philadelphia FOP, referred to Black Lives Matter (BLM) protestors as ""a pack of rabid animals"" who are capable of invading homes and threatening families.";['0', '0', '3', '0', '0']; ;10
+173;1.1.2.1.4.2.1.3.2;con;The Tiahrt Amendments undermine the collection of data pertaining to gun sales by requiring the Federal Bureau of Investigation (FBI) to destroy all approved gun purchaser records within 24 hours.;['0', '0', '2', '1', '0']; ;8
+174;1.1.2.1.4.2.1.3.2.1;pro;The destruction of firearm sale data in 24 hours eliminates the possibility of discovering that a seemingly legal firearm sale was in fact related to a crime or a part of a trend of illegal activity.;['0', '0', '2', '0', '1']; ;9
+175;1.1.2.1.4.2.1.3.3;con;The Tiahrt Amendments have prevented the Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) both from storing evidence of illegal gun sales and sharing details about problematic gun dealers with law enforcement.;['0', '0', '2', '1', '0']; ;8
+176;1.1.2.1.4.2.1.4;con;In 2008 and 2010, the restrictions imposed by the Tiahrt Amendments were loosened.;['0', '1', '2', '0', '0']; ;7
+177;1.1.2.1.4.2.1.4.1;con;The Tiahrt Amendments are still prohibitively restrictive to law enforcement.;['0', '0', '3', '0', '0']; ;8
+178;1.1.2.1.4.2.1.4.1.1;pro;The restrictions lifted in 2008 and 2010 merely allow law enforcement to share firearm tracing data in service of large-scale criminal investigations, where they were previously limited to individual criminal cases.;['0', '0', '3', '0', '0']; ;9
+179;1.1.2.2;con;The study also found that gun control policy strictness only accounted for 3% of the relationship, meaning that there are likely other major factors worth exploring (p. 15).;['0', '2', '1', '0', '0']; ;3
+180;1.1.2.2.1;con;One major limitation discussed in the study is the variance caused by different laws in each state, which would be addressed by strict federal gun control legislation (p. 2, 5).;['0', '0', '0', '1', '0']; ;4
+181;1.1.3;pro;Mass shootings on US soil are increasing in frequency and severity.;['0', '3', '1', '1', '2']; 7;2
+182;1.1.3.1;pro;The first recorded instance of 2 mass shootings taking place within a 24 hour period in the US occurred on August 3rd in 2019.;['0', '0', '2', '1', '1']; 9;3
+183;1.1.3.2;pro;Six of the most lethal mass shootings in modern American history have happened in the last 10 years.;['0', '0', '2', '1', '1']; 7;3
+184;1.1.3.3;pro;The scale of mass shootings in the US has been increasing at an alarming rate and warrants legislative action.;['0', '0', '2', '1', '0']; 3;3
+185;1.1.3.3.1;pro;The number of mass shootings has increased in recent years.;['0', '0', '2', '1', '0']; 9;4
+186;1.1.3.3.1.1;pro;The Gun Violence Archive (GVA) has calculated the number of mass shootings in the US each year and identified a positive trend in mass shootings from 2014 until 2019.;['0', '0', '2', '1', '0']; ;5
+187;1.1.3.3.1.1.1;pro;According to the Gun Violence Archive (GVA) there were 346 mass shootings in 2017, which included the Las Vegas concert shooting and the Orlando factory shooting.;['0', '0', '2', '1', '0']; 12;6
+188;1.1.3.3.1.1.1.1;pro;Defining a mass shooting as an event in which 4 people other than the shooter are shot means that there was a mass shooting on 90% of days between 1/1/2013 and 2/12/2018.;['0', '0', '2', '1', '0']; 8;7
+189;1.1.3.3.1.1.2;con;It is misleading to expand the definition of mass shooting to include incidents involving small groups of people and the use of pellet guns.;['0', '1', '2', '0', '0']; 11;6
+190;1.1.3.3.1.1.2.1;pro;Mass public shootings are defined by the FBI as incidents in which four or more people are killed in one location. This excludes those killed in the course of committing another crime and involving struggles over sovereignty.;['0', '1', '2', '0', '0']; 12;7
+191;1.1.3.3.1.1.2.1.1;con;While the FBI tracks mass murders, which are defined as incidents in which at least 4 people are killed, the FBI does not have a formal definition of what constitutes a mass shooting.;['0', '0', '2', '1', '0']; ;8
+192;1.1.3.3.1.1.2.1.1.1;pro;It is misleading to use the FBI definition of mass murders in place of mass shootings because it excludes all incidents in which people were shot but did not die.;['0', '0', '3', '0', '0']; 17;9
+193;1.1.3.3.1.1.2.2;con;The inclusion of 2 pellet gun incidents in the original calculation have been dubbed a glitch and removed from the data.;['0', '0', '2', '1', '0']; ;7
+194;1.1.3.3.1.2;pro;Around 20% of mass shootings over the last fifty years have occurred in the last five years, including those with the highest death toll.;['0', '0', '3', '0', '0']; ;5
+195;1.1.3.3.2;con;The US is not the worst in the Western world for mass shooting frequency or death rate.;['0', '3', '0', '0', '0']; 12;4
+196;1.1.3.3.2.1;pro;Comparing it with the countries of Europe, the US has the eleventh highest mass shooting rate and the twelfth highest public shooting frequency.;['0', '1', '2', '0', '0']; 4;5
+197;1.1.3.3.2.1.1;pro;Ranking the US in this way is supported by widely supported definitions of what constitutes a mass shooting.;['0', '1', '1', '0', '0']; ;6
+198;1.1.3.3.2.1.2;con;It is statistically misleading to compare the US with countries in Europe in this way.;['0', '1', '1', '1', '0']; ;6
+199;1.1.3.3.2.1.2.1;pro;The countries compared to the US very rarely experience mass shootings, which means that when they happen they have outsized statistical effects. This means that this cross-comparison is distorted and misleading.;['0', '0', '2', '1', '0']; ;7
+200;1.1.3.3.2.1.2.2;pro;Given that death rate and public shooting frequency are calculated by dividing the number of gun-related incidents with the total population, it is misleading to compare the death rate or shooting frequency in countries like the US with large populations to countries with smaller populations.;['0', '0', '2', '1', '0']; ;7
+201;1.1.3.3.2.1.2.2.1;pro;Given the relative size of the US population compared to the countries in Europe and Russia, the gun-related death rate and public shooting frequency in the US are abnormally high.;['0', '0', '2', '1', '0']; ;8
+202;1.1.3.3.2.1.2.2.1.1;pro;While the US population (331,002,651) is over twice that of the population of Russia (145,934,462), the public shooting frequency in the US (.078) is over five times higher than the frequency in Russia (.014).;['0', '0', '2', '1', '0']; ;9
+203;1.1.3.3.2.1.2.2.1.2;pro;While the US population (331,002,651) is over twice that of the population of Russia (145,934,462), the death rate in the US (.089) is over seven times higher than the death rate in Russia (.012).;['0', '0', '2', '1', '0']; ;9
+204;1.1.3.3.2.1.3;con;Some of the deadliest mass shootings in US history have taken place since 2015, which means they would be left out of this dataset and that the data is unreliable.;['0', '0', '3', '0', '0']; ;6
+205;1.1.3.3.2.1.4;con;The legitimacy of the data and methodology used to compare the US and Europe in this way have been called into question.;['0', '0', '2', '1', '0']; ;6
+206;1.1.3.3.2.2;con;A 2016 study shows that while the US has only 5% of the world's population, it had 31% of all mass shootings between 1966 and 2012.;['0', '0', '3', '0', '0']; 16;5
+207;1.1.3.3.2.2.1;pro;16 of the 32 most deadly mass shootings in western democratic countries from 1966 to 2012 took place in the US.;['0', '0', '2', '1', '0']; ;6
+208;1.1.3.3.2.2.2;con;The study has been criticised as being inaccurate and methodologically flawed since the author refused to share their data for peer review.;['0', '0', '3', '0', '0']; 10;6
+209;1.1.3.3.2.2.3;con;Mass shootings in other countries are largely ignored or not investigated by Western media.;['0', '1', '2', '0', '1']; 2;6
+210;1.1.3.3.2.3;con;The Crime Prevention Research Center is responsible for this data analysis and is as strongly politically biased with mixed ratings on factual reporting.;['0', '0', '2', '1', '0']; 31;5
+211;1.1.3.4;con;Regardless of relative rate, mass shootings remain fundamentally rare events.;['0', '3', '1', '1', '0']; 16;3
+212;1.1.3.4.1;pro;Mass shootings statistically make up a very small portion of all gun homicides (117 out of 14,415 deaths in 2017).;['0', '0', '3', '0', '0']; 4;4
+213;1.1.3.4.3;con;Whilst rare, mass shootings have had a lasting impact on the American way of life.;['0', '0', '2', '1', '0']; ;4
+214;1.1.3.4.3.1;pro;Evidence suggests that mass shooting events can impact people who are exposed to the event through the media, which means that even isolated incidents with relatively few victims can impact millions of people.;['0', '0', '3', '0', '0']; ;5
+215;1.1.3.4.3.2;pro;Many schools in the US force students to undergo drills in an attempt to minimise fear and confusion in the event of a mass shooting. While useful in principle, some drills are unscheduled in order to emulate the suddenness and severity of real school shootings and these can be very traumatic for the children involved.;['0', '0', '0', '1', '0']; 4;5
+216;1.1.3.5;con;The US is already safe and becoming safer.;['0', '2', '2', '0', '0']; 3;3
+217;1.1.3.5.1;pro;While many international news outlets claim that gun violence is a threat to tourists visiting the US, it remains safe to visit the US.;['0', '0', '0', '0', '0']; ;4
+218;1.1.3.5.1.1;pro;The US is very large and its population is relatively spread out, which means that there are many places to visit with little risk of experiencing gun violence and a mass shooting.;['0', '0', '0', '0', '0']; ;5
+219;1.1.3.5.2;con;The states that have adopted strict gun control legislation have seen the greatest reduction in gun violence and gun-related crime.;['0', '0', '2', '1', '0']; 3;4
+220;1.1.3.5.3;con;There are many communities within the US who live in constant fear of gun violence and gun-related crime.;['0', '1', '2', '1', '0']; 9;4
+221;1.1.3.5.3.1;pro;Individuals in certain US cities are 5 times more likely to be murdered with a gun than Americans overall.;['0', '0', '3', '0', '0']; ;5
+222;1.1.3.5.3.2;pro;In 2015, more than a quarter of gun homicides happened in around 1,200 neighborhoods that house just 1.5% of the US population.;['0', '0', '2', '1', '0']; ;5
+223;1.1.3.5.3.3;con;If an individual or community lives in constant fear, it is the responsibility of that individual or community to take some responsibility and address this fear.;['1', '0', '2', '0', '0']; ;5
+224;1.1.5;con;Gun control legislation limits our capacity for self-defense.;['0', '1', '1', '0', '0']; 32;2
+225;1.1.5.1;pro;The right to self-defense is only effective if it's a right to proportional self-defense. Thus, if a person is at risk of being threatened with a gun, they should be able to defend themselves with a gun.;['0', '2', '4', '0', '2']; ;3
+226;1.1.5.1.1;pro;The Dalai Lama remarked that if someone has a gun and is trying to kill you it would be 'reasonable to shoot back with your own gun' but that one should aim to wound and not to kill.;['0', '2', '1', '0', '0']; ;4
+227;1.1.5.1.2;con;People only have rights to things they need for survival, not things they merely want.;['0', '0', '3', '0', '0']; 7;4
+228;1.1.5.1.2.1;pro;Unalienable rights are rights to things like clean food and water, safe shelter, and free thought.;['0', '0', '3', '0', '0']; ;5
+229;1.1.5.1.2.2;con;Firearm ownership allows people to protect their right to life, exercise liberty, and feel safe enough to live a happy life.;['0', '1', '2', '0', '1']; 8;5
+230;1.1.5.1.3;con;The right to a firearm is not considered an extension of the right to self-defense in any other country other than the US.;['0', '0', '3', '0', '0']; 3;4
+231;1.1.5.2;pro;Gun owners need guns to protect their family and loved ones, as well as themselves.;['7', '6', '5', '0', '7']; 29;3
+232;1.1.5.2.1;pro;The instances of violent crimes are on the rise in the US. Given these threats, gun owners can effectively deter those who attempt to harm their family or loved ones.;['0', '0', '3', '0', '0']; 7;4
+233;1.1.5.2.1.1;pro;In 2016, there was a 3.4% rise in the violent crime rate in the US, the largest single-year gain in 25 years.;['0', '0', '3', '0', '0']; ;5
+234;1.1.5.2.1.2;con;Occurrences of robberies in the US have declined in recent years.;['0', '0', '3', '0', '0']; 2;5
+235;1.1.5.2.1.2.1;pro;There were an estimated 319,356 robberies nationwide in the US in 2017, indicating a 4% decrease from the 2016 estimate.;['0', '0', '3', '0', '0']; 4;6
+236;1.1.5.2.2;con;Trained professionals should be the ones responding to situations, as citizen defense could cause confusion and further complication.;['0', '0', '3', '0', '0']; 10;4
+237;1.1.5.2.2.1;pro;Given that firearms training is expensive and optional, it cannot be assumed that the average gun-owning civilian is as well-trained as the average police officer, for whom competency is at least mandatory;['0', '0', '3', '0', '0']; ;5
+238;1.1.5.2.2.1.1;pro;Police are required to train with their sidearm several times per year.;['0', '1', '2', '0', '0']; ;6
+239;1.1.5.2.2.1.2;con;In many US states, civilians who have a carry license are required to demonstrate proficiency with the weapons they are licensed to carry.;['0', '0', '2', '0', '0']; ;6
+240;1.1.5.2.2.2;pro;Most civilians do not have advanced deescalation and/or crisis training, and are far more likely to exacerbate a bad situation by making misjudgments in the stress of a crisis.;['0', '0', '2', '1', '1']; 5;5
+241;1.1.5.2.2.2.1;pro;George Zimmerman confronted and fatally shot Trayvon Martin against police instructions because he perceived him as a threat.;['0', '0', '2', '1', '0']; ;6
+242;1.1.5.2.2.2.2;pro;If an armed individual were to fire upon the perceived shooter, they could draw the fire of other defenders and potentially fire upon innocent persons in the area.;['0', '0', '1', '1', '0']; 3;6
+243;1.1.5.2.2.2.3;pro;Given that mass shootings tend to create panic and chaotic situations in crowds, it is incredibly likely that many of those missed shots will hit innocent people.;['0', '0', '2', '1', '0']; ;6
+244;1.1.5.2.2.2.4;con;De-escalation training is irrelevant to an active shooter situation, as the person is already attempting to murder as many people as possible.;['0', '2', '1', '1', '1']; ;6
+245;1.1.5.2.2.2.4.1;pro;The only action needed in an active shooter situation is to be able to slow, stop, or distract the perpetrator in order to allow potential victims the ability to flee the area and to allow law enforcement time to arrive.;['0', '0', '3', '0', '0']; 1;7
+246;1.1.5.2.2.2.4.2;con;Defenders have an equal chance of saving lives through teamwork, effective shelter, and non-lethal defense as they do with a firearm, since the accuracy of even a trained shooter is around 18% when faced with a stressful situation. As such, any defensive firing puts other civilians at risk.;['0', '0', '3', '0', '0']; 5;7
+247;1.1.5.2.2.2.4.2.1;con;Given compound probability where probability is compounded over time, an 18% probability of hitting a target with one shot still statistically results in a 99.7% chance of hitting the target with a 30-round magazine, and a 86.2% chance with a 10-round magazine.;['0', '2', '1', '0', '0']; 6;8
+248;1.1.5.2.2.2.4.2.1.1;con;It is misleading to generalize based on a statistically idealized situation. The 18% success rate only applies to highly trained police officers, and would likely be lower for untrained civilians in stressful situations.;['0', '1', '1', '1', '0']; 2;9
+249;1.1.5.2.2.2.4.2.2;con;The perpetrator of the Sutherland Springs church shooting was unopposed and murdered as many people as possible until he was confronted and shot by an armed neighbor.;['0', '0', '0', '0', '0']; ;8
+250;1.1.5.2.2.2.4.2.2.1;con;The shooter was already exiting the church by the time he was intercepted, so an armed defender did not stop the attack, and it is not clear that the situation would have been different if the church attendees had been armed.;['0', '0', '3', '0', '0']; 5;9
+251;1.1.5.2.2.3;pro;The presence of armed civilians with weapons drawn during a shooting event makes it difficult for the police to differentiate the active shooter from concerned citizens, and could result in mistaken injury or death.;['0', '0', '1', '1', '0']; 2;5
+252;1.1.5.2.2.4;con;In many places gun enthusiasts are as skilled with their firearms, if not more so, than police officers.;['0', '0', '3', '0', '0']; ;5
+253;1.1.5.2.2.4.1;pro;In many places, (New York is one example), many police only practice with their firearm once per year to qualify, whereas gun enthusiasts practice regularly just as a matter of preparation and recreation.;['0', '0', '3', '0', '0']; ;6
+254;1.1.5.2.2.4.2;con;During major NRA events, which attract many legal gun owners from around the country, gun injuries decline by 20%, which implies that even experienced gun owners are frequently injured by guns.;['0', '1', '2', '0', '0']; ;6
+255;1.1.5.2.2.4.3;con;This claim assumes most civilians who possess firearms are avid, regularly-practicing gun enthusiasts, which is not the case.;['0', '1', '1', '1', '0']; ;6
+256;1.1.5.2.2.5;con;The majority of police officers have never had to fire their firearms which suggests they have no experience of an active shooter situation.;['0', '0', '3', '0', '0']; 5;5
+257;1.1.5.2.2.6;con;Armed citizens can save lives during a mass shooting.;['0', '1', '2', '1', '1']; 6;5
+258;1.1.5.2.2.6.1;pro;In Chicago an Uber driver potentially stopped a mass shooting after he shot a gunman who had opened fire on a crowd.;['0', '1', '2', '0', '0']; ;6
+259;1.1.5.2.2.6.2;pro;In 2007 an armed civilian shot Matthew Murray who had killed 4 people in Colorado Springs Church.;['0', '0', '3', '0', '0']; ;6
+260;1.1.5.2.2.6.3;pro;In Texas an armed civilian used his assault rifle to stop a gunman who had killed 26 people.;['0', '0', '3', '0', '0']; ;6
+261;1.1.5.2.2.6.4;pro;In 2017 an usher at a Tennessee Church used his personal firearm to subdue a masked gunman who had killed 1 person and injured 6 others.;['0', '0', '0', '0', '0']; ;6
+262;1.1.5.2.2.6.5;con;An FBI study of 160 active shooter incidents found that just 7 of them were stopped by an armed civilian - and 6 of those 7 were armed security guards or off-duty police officers.;['0', '0', '2', '1', '0']; ;6
+263;1.1.5.2.3;con;Stricter gun regulations make it easier for families to feel comfortable owning and using firearms responsibly.;['0', '0', '2', '1', '0']; 7;4
+264;1.1.5.2.4;con;It's very difficult to draw the line between self-defense and the illegal use of force.;['0', '0', '0', '0', '0']; 1;4
+265;1.1.5.2.4.1;pro;The right to self-defense is limited. For example, in some cases, the victim of an assault has the duty to retreat and is not protected by the right to self-defense.;['0', '0', '2', '1', '0']; 3;5
+266;1.1.5.2.4.1.1;pro;The ability to carry a concealed firearm is restricted in many states, and not all states allow reciprocity of that right.;['0', '0', '3', '0', '0']; ;6
+267;1.1.5.2.4.2;pro;"""Stand-your-ground"" and self-defense laws can be abused by bad-faith attackers, since, in many cases, the other party is not around to give their side of the altercation.";['1', '0', '4', '0', '1']; 10;5
+268;1.1.5.2.4.2.1;pro;"""Stand-your-ground"" laws empower people to use violence, making shootings more likely.";['0', '0', '0', '0', '0']; 3;6
+269;1.1.5.2.4.2.1.1;pro;"There is evidence that ""stand-your-ground"" laws increase violent crime.";['0', '0', '0', '0', '0']; ;7
+270;1.1.5.2.4.2.1.1.1;pro;"Authorities in Florida are refusing to charge a man for shooting another man for pushing him, under ""stand-your-ground"" laws.";['0', '0', '3', '0', '0']; ;8
+271;1.1.5.2.4.2.1.2;con;"Just because shootings may be more likely under ""stand-your-ground"" laws, that does not mean that those shootings will be less justifiable or in bad faith.";['0', '0', '1', '0', '0']; 2;7
+272;1.1.5.2.4.2.2;pro;"""Stand-your-ground"" laws often perpetuate racial bias.";['0', '0', '1', '2', '0']; ;6
+273;1.1.5.2.4.2.2.1;pro;Between 2005 and 2013, juries were twice as likely to convict defendants who were accused of committing crime against a white person compared to against a person of color.;['0', '0', '2', '1', '0']; ;7
+274;1.1.5.2.4.2.2.2;con;'Stand-your-ground' laws tend to favor black defendants more so than white defendants.;['0', '1', '0', '0', '0']; ;7
+275;1.1.5.2.4.2.3;con;"The NRA actively supports ""stand-your-ground"" and Castle Doctrine laws.";['0', '1', '2', '0', '0']; ;6
+276;1.1.5.2.4.2.3.1;con;The trend of the NRA selectively advocating for white gun owners and ignoring incidents involving minorities suggests that the NRA only defends the rights of white gun owners.;['0', '0', '2', '1', '0']; ;7
+277;1.1.5.2.4.2.4;con;"""Stand-your-ground"" laws deter criminal activity.";['0', '0', '3', '0', '0']; ;6
+278;1.1.5.2.4.2.4.1;pro;"The Castle Doctrine (a form of ""stand-your-ground"" law in Texas) effectively reduced crime in Houston.";['0', '0', '3', '0', '0']; ;7
+279;1.1.5.2.4.2.4.1.1;pro;The Castle Doctrine gives citizens the power to protect themselves from home invasion while waiting for law enforcement to arrive.;['0', '0', '3', '0', '0']; ;8
+280;1.1.5.2.4.2.4.1.2;con;While the residential and business burglary rates in Houston, Texas, decreased after the Castle Doctrine was implemented, the crime rates in Dallas, Texas, were unaffected.;['0', '0', '3', '0', '0']; 2;8
+281;1.1.5.2.4.2.4.1.2.1;pro;The reduction in burglaries in Houston is attributed to the controversial use of the Castle Doctrine to justify the Joe Horn shooting controversy, which was widely covered by local news outlets.;['0', '0', '2', '0', '1']; ;9
+282;1.1.5.2.4.2.4.1.2.1.1;pro;Joe Horn used the Castle Doctrine law to justify killing two burglars outside his neighbor's home with a shotgun.;['0', '0', '2', '1', '0']; ;10
+283;1.1.5.2.4.2.4.1.2.1.1.1;pro;Joe Horn was told repeatedly by law enforcement to stay in his home and await the arrival of the police, but armed himself, approached burglars in his neighbor's front yard, and killed them.;['0', '0', '2', '1', '0']; ;11
+284;1.1.5.2.4.2.4.1.2.1.2;pro;After Joe Horn was cleared of charges by a grand jury, local activists argued that the Castle Doctrine is often used to disproportionately protect white shooters when their victims are people of color.;['0', '0', '2', '1', '0']; 3;10
+285;1.1.5.2.4.2.4.1.2.1.2.1;pro;A detective who arrived at the scene before Joe Horn opened fire noted that at least one of the victims was shot in the back while running away, yet he did not arrest Joe Horn for the killings.;['0', '0', '2', '1', '0']; ;11
+286;1.1.5.2.4.2.4.2;pro;"Oklahoma’s ""stand-your-ground"" law reduced instances of private residential burglary.";['0', '0', '3', '0', '0']; ;7
+287;1.1.5.2.4.2.4.2.1;pro;In 2012, a woman in Oklahoma was given permission by the police dispatcher to use deadly force to defend her family from an oncoming home intruder.;['0', '0', '3', '0', '0']; ;8
+288;1.1.5.2.4.2.4.2.2;con;While Oklahoma's law reduced residential burglary, it increased instances of non-residential burglary.;['0', '1', '2', '0', '0']; 2;8
+289;1.1.5.2.4.3;con;The Criminal Justice System differentiates between self-defense and criminal acts by assessing the presence of an imminent threat, reasonable fear, and the use of proportional force.;['0', '1', '2', '0', '2']; 1;5
+290;1.1.5.2.4.3.1;pro;A threat is imminent if it is ongoing, meaning that any act taken after a threat has resolved is considered an unlawful act of retribution.;['0', '1', '2', '0', '0']; ;6
+291;1.1.5.2.4.3.1.1;con;People of color are disproportionately judged to pose an imminent threat (p. 1).;['0', '0', '2', '1', '0']; 1;7
+292;1.1.5.2.4.3.2;con;Self-defense laws are interpreted differently from case to case.;['0', '0', '3', '0', '0']; ;6
+293;1.1.5.3;con;There are safer and more effective methods of self-defense than using firearms.;['3', '0', '4', '2', '4']; 15;3
+294;1.1.5.3.1;pro;Tasers, locks, and other security systems are effective crime deterrents which do not carry the risks associated with keeping a firearm for defense.;['0', '0', '3', '0', '0']; 3;4
+295;1.1.5.3.1.1;con;Tasers do not always work.;['0', '0', '2', '0', '0']; ;5
+296;1.1.5.3.2;con;Guns are an effective last resort to ensuring survival while trying to defend oneself.;['0', '0', '3', '0', '0']; 6;4
+297;1.1.5.3.2.1;pro;Discharging a firearm is an effective and reliable last resort for self-defense if it is justified by the fervent belief that someone is likely to die or be seriously injured otherwise.;['0', '0', '2', '1', '0']; 2;5
+298;1.1.5.3.2.2;con;In most cases, having a gun does not aid in self-defense.;['0', '1', '3', '0', '1']; 9;5
+299;1.1.5.3.2.2.1;pro;The Las Vegas shooter and the Planned Parenthood shooter were advantageously positioned with long-range weapons. Victims carrying weapons would have been unable to fire back without risking the safety of themselves or others.;['0', '0', '3', '0', '0']; ;6
+300;1.1.5.3.2.2.2;pro;Victims of home invasion or mugging who possess a firearm are often unable to protect themselves from an attack.;['0', '0', '2', '1', '0']; ;6
+301;1.1.5.3.2.2.2.1;pro;A properly stored weapon in the home would likely take too long to acquire and load to thwart an attack.;['0', '0', '3', '0', '0']; ;7
+302;1.1.5.3.2.2.2.1.1;pro;There is a trade-off between ease of access for self-defense and leaving the weapon unsecured and easily accessed by children or unintended adults.;['0', '0', '2', '0', '0']; ;8
+303;1.1.5.3.2.2.2.1.2;con;There are specialized gun safes that properly store weapons and are optimized for home defense.;['0', '1', '2', '0', '0']; 11;8
+304;1.1.5.3.2.2.2.1.2.1;con;The estimated cost of a fireproof gun safe in the US is between $1000 and $3,000 with a $100 to $400 installation cost. This makes proper gun safes prohibitively expensive for many people.;['0', '0', '2', '1', '0']; ;9
+305;1.1.5.3.2.2.2.1.2.2;con;Many of the most advanced gun safes commonly rely upon a mechanism with known flaws, which has made them accessible to children as young as 3 years old.;['0', '0', '2', '1', '0']; ;9
+306;1.1.5.3.2.2.3;con;The fact that guns are not useful for defense in all situations is evidence that some circumstances are particularly dangerous, rather than evidence that guns are useless for defense.;['0', '1', '2', '0', '1']; ;6
+307;1.1.5.4;con;When compared to the number of guns used to commit crimes, guns are rarely used defensively.;['0', '0', '3', '0', '3']; 2;3
+308;1.1.5.4.2;pro;A study shows that for every time a gun kept in the home was used in self-defence, there were four accidental shootings, seven assaults or homicides, and eleven attempted or completed suicides.;['0', '1', '3', '2', '4']; ;4
+309;1.1.5.4.2.1;con;This only includes occasions when a firearm was used defensively to injure or kill an assailant. In reality, in around three quarters of all defensive gun use cases firearms acted as a sufficient deterrent.;['0', '0', '0', '0', '0']; ;5
+310;1.1.5.4.3;pro;Often, a firearm causes harm in a scenario where self-defense would not apply.;['0', '0', '3', '0', '1']; 4;4
+311;1.1.5.4.3.1;pro;Suicide by gun has a 90% fatality rate, while the success rate for suicides by other methods is below 10%.;['0', '0', '3', '0', '1']; 2;5
+312;1.1.5.4.3.1.1;pro;It would be more difficult for some at risk populations - for example, teenagers suffering from clinical depression - to acquire the deadly means to complete suicide if firearms were properly restricted.;['0', '0', '0', '0', '0']; 6;6
+313;1.1.5.4.3.1.2;pro;Firearm suicide is a particularly instantaneous form of suicide, giving those with access to it very little time to reconsider or seek medical help.;['0', '0', '3', '0', '1']; ;6
+314;1.1.5.4.3.1.3;pro;Passing a background check on mental health grounds does not guarantee that an individual would not use their gun to harm themselves or others.;['0', '0', '0', '0', '0']; 6;6
+315;1.1.5.4.3.1.4;con;While gun-related suicides are tragic, mental health concerns are best addressed with increased funding and public access to mental health services rather than by legislative action.;['0', '1', '2', '0', '0']; ;6
+316;1.1.5.4.3.2;pro;Possession of a firearm makes a person significantly more likely to impulsively attempt to complete suicide.;['0', '0', '3', '0', '1']; 3;5
+317;1.1.5.4.3.2.2;con;There doesn't seem to be a connection between suicide and gun ownership rates.;['0', '0', '3', '0', '0']; ;6
+318;1.1.5.4.3.2.2.1;con;Gun ownership increases chances of accidental and suicidal deaths of family members more than it protects them from external dangers.;['0', '0', '1', '1', '0']; 3;7
+319;1.1.5.4.3.2.2.1.1;pro;Scientific evidence indicates that the presence of a gun in a household greatly increases the chances of both homicide and suicide (p. 935).;['0', '0', '2', '1', '0']; 7;8
+320;1.1.5.4.3.2.3;con;A desperately suicidal person could simply find other means.;['0', '2', '2', '0', '0']; 4;6
+321;1.1.5.4.3.3;pro;In 2015, someone was shot by a toddler an average of once a week.;['0', '0', '2', '1', '1']; 17;5
+322;1.1.5.4.3.4;con;Just because guns might be used to cause harm outside of a self-defense scenario does not mean that guns are not a valid extension to the right of self-defense.;['0', '1', '2', '0', '1']; ;5
+323;1.1.5.4.4;pro;Evidence suggests that the rate of gun ownership in a community correlates with a higher rate of crime.;['0', '0', '3', '0', '1']; 7;4
+324;1.1.5.4.4.1;pro;Japan has very strict laws on gun ownership and its gun-related death rate in 2010 was 0.;['0', '0', '2', '1', '0']; 8;5
+325;1.1.5.4.4.1.1;pro;Forbidding the use of guns drastically lowers citizen death rates.;['0', '0', '2', '1', '0']; 5;6
+326;1.1.5.4.4.2;pro;When looking specifically at the US, states with higher rates of gun ownership have higher rates of both firearm homicide and homicide in general, once other factors (wealth, urbanisation, etc) are controlled for.;['0', '0', '3', '0', '0']; ;5
+327;1.1.5.4.4.2.1;pro;Connecticut added very strict gun laws. Since then, gun-related homicides have beenalmost halved.;['0', '0', '1', '1', '0']; 5;6
+328;1.1.5.4.4.2.2;con;Looking at statewide rather than citywide statistics misrepresents the data by failing to acknowledge the correlation between large cities and homicides irrespective of gun ownership in the state.;['0', '0', '3', '0', '0']; ;6
+329;1.1.5.4.4.2.2.1;pro;CDC data indicates that nearly 60% of US firearm homicides occur in the 62 cities with large metro areas, indicating that generalizations based on statewide gun ownership are misleading.;['0', '0', '3', '0', '0']; ;7
+330;1.1.5.4.4.3;pro;Strict gun control implemented in other countries, such as Australia and the UK, has shown a decrease in recorded gun homicides.;['0', '0', '3', '0', '0']; 1;5
+331;1.1.5.4.4.4;con;Although the country has since relaxed its laws, following massive gun possession restrictions Brazil had as low as 8 legal firearms per 100 people, yet still ranks top for firearm-related homicides.;['0', '1', '2', '0', '0']; 9;5
+332;1.1.5.4.4.4.1;con;The US does not have the same history of corruption and mismanagement as Brazil, meaning that gun control legislation can actually be enforced. Enforcement is always a pre-requisite for efficacy of legislation.;['0', '2', '3', '0', '0']; 15;6
+333;1.1.5.4.4.5;con;In Jamaica, the homicide rate rose substantially after the implementation of gun control.;['0', '1', '2', '0', '0']; 3;5
+334;1.1.5.4.4.5.1;con;This appears to have far more to do with inadequate enforcement of gun laws in the US. It has been shown that many guns purchased legally in Florida are shipped to Jamaica to be sold on the black market.;['0', '1', '3', '1', '0']; ;6
+335;1.1.5.4.4.5.1.1;pro;In 2009, a Jamaican assistant police commissioner identified the problem that there are no strict controls on items leaving the US, which fuels the Jamaican black market with American guns and drugs.;['0', '0', '2', '1', '0']; ;7
+336;1.1.5.4.4.5.1.1.1;con;In recent years, the US government has implemented new procedures to limit the shipment of illegal guns and ammunition to Jamaica.;['0', '1', '2', '0', '0']; ;8
+337;1.1.5.4.4.5.1.1.1.1;con;Even with the new procedures in place, the US Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF) found that 65% of illegal guns recovered in Jamaica were from the US.;['0', '0', '2', '1', '0']; ;9
+338;1.1.5.4.4.6;con;While Britain had a relatively low homicide rate before banning firearms in 1996, the murder rate in Britain increased after the ban and spiked in 2002/2003 before returning to normal.;['0', '1', '2', '0', '0']; 4;5
+339;1.1.5.4.4.6.1;pro;In 2002, UK homicide rates hit their highest of the last 25 years at 1.87 deaths per 100,000.;['0', '1', '2', '0', '0']; ;6
+340;1.1.5.4.4.6.2;con;It is possible that the spike in homicide rates in 2002/2003 is due to the discovery of the 172 victims of Dr. Harold Shipman.;['0', '0', '3', '0', '0']; ;6
+341;1.1.5.4.4.6.3;con;The initial spike is almost entirely due to an increase in reported crimes involving air guns (p. 36), which largely concerns reports of property damage, rather than violence (p. 45).;['0', '0', '2', '1', '0']; ;6
+342;1.1.5.4.4.6.3.1;pro;Crime reporting standards in the UK were changed in 2002, which made data collected up and to that point incomparable to the data collected after the change (p. 46).;['0', '0', '3', '0', '0']; 2;7
+343;1.1.5.4.4.6.4;con;The increase in homicide rates following the introduction of new gun regulations in the UK in 1996 is likely the result of complicating circumstances that were on the rise prior to regulation, like increases in gang activity and criminal gun use.;['0', '0', '3', '0', '0']; ;6
+344;1.1.5.4.4.6.4.1;pro;Once the complicating factors had abated, gun crime in the UK continuously declined following the implementation of the Firearms Act.;['0', '0', '3', '0', '0']; 4;7
+345;1.1.5.4.4.6.4.1.1;con;Gun crime in the UK has increased in the last few years.;['0', '0', '3', '0', '0']; ;8
+346;1.1.5.4.4.6.4.2;pro;The UK's gun laws were not introduced all at once, which makes it more difficult to pinpoint the cause of a spike in gun violence during that time.;['0', '0', '3', '0', '0']; ;7
+347;1.1.5.4.4.6.4.2.1;pro;The UK has required gun licenses since 1920, prioritized preventing violent criminals from owning guns since 1968, and prohibited ownership of semi-automatic and similar weapons since 1988.;['0', '0', '3', '0', '0']; ;8
+348;1.1.5.4.5;pro;The ratio of justifiable killings to murders, suicides, or accidental gun-related deaths was 1 to 32 in 2012, which indicates that most gun-related deaths were not the result of self-defense.;['0', '0', '2', '1', '1']; 3;4
+349;1.1.5.4.6;con;Various polls collected from 1989 to 1994 indicate that defensive gun use (DGU) data is under reported and varies wildly from year-to-year and state-to-state (p. 182-187).;['0', '3', '2', '1', '2']; 38;4
+350;1.1.5.4.6.1;pro;The defensive use of guns (DGUs) by crime victims is estimated to be at least as common as offensive uses by criminals.;['0', '1', '2', '0', '0']; ;5
+351;1.1.5.4.6.1.1;pro;The study estimated defensive use of guns annually could range from 500,000 to 3 million.;['0', '0', '3', '0', '0']; ;6
+352;1.1.5.4.6.1.2;con;The article points out that the number of defensive gun uses (DGUs) each year remains unknown, so it is speculative to claim that DGUs are as common as offensive gun uses.;['0', '0', '2', '1', '0']; ;6
+353;1.1.5.4.6.1.3;con;"The article misquotes the CDC in order to discredit gun use data, claiming that the CDC's goal is to paint gun use as “dirty, deadly — and banned,"" when in fact this quote was about tobacco.";['0', '0', '2', '1', '0']; ;6
+354;1.1.5.4.6.2;con;From 2007 to 2011, only 0.1% of victims of nonviolent crimes used a gun defensively during the attack (p. 12).;['0', '0', '3', '0', '0']; ;5
+355;1.1.5.4.7;con;The surveys used to estimate the number of guns used defensively are flawed because they leave out instances in which a gun is used to deter a potential threat.;['0', '0', '2', '1', '0']; 8;4
+356;1.1.6;con;Gun control legislation fails to address the underlying social causes for mass shootings.;['0', '1', '2', '1', '1']; ;2
+357;1.1.6.1;pro;The majority of mass shootings in the US involve the shooter targeting someone in their family, which indicates that there are underlying social problems that strict gun control laws would fail to address.;['0', '0', '3', '0', '0']; ;3
+358;1.1.6.2;pro;Gun control policies fail to address the cultural issues at the heart of gun violence in the US.;['0', '0', '2', '0', '0']; 7;3
+359;1.1.6.2.1;pro;Switzerland has comparable gun laws to the US, but its gun homicide rate is significantly lower than that of the US.;['0', '2', '2', '0', '1']; 6;4
+360;1.1.6.2.1.1;con;While Switzerland issues all men between 18 and 34 with a gun to be kept at home as part of their military service, Switzerland strictly regulates where guns are allowed and access to ammunition.;['0', '0', '2', '1', '0']; 27;5
+361;1.1.6.2.1.1.1;pro;Switzerland has mandatory military service which provides basic gun safety and responsibility training.;['0', '0', '3', '0', '0']; 2;6
+362;1.1.6.2.1.1.2;pro;Swiss gun owners cannot take the gun out of their home except to transport it to a shooting range, and cannot keep the weapon after the end of their military service period without providing a justification.;['0', '0', '2', '1', '0']; 4;6
+363;1.1.6.2.1.2;con;Comparing two countries without considering all other social, cultural, and economic characteristics isn't a solid reasoning to support a conclusion.;['0', '1', '2', '0', '0']; 3;5
+364;1.1.6.2.1.2.1;pro;Switzerland's population is wealthier and more isolated than the US population, which could explain the reduction in acts of gun violence.;['0', '1', '2', '0', '0']; 1;6
+365;1.1.6.2.1.2.2;pro;The US has a significantly less homogenous population than Switzerland.;['0', '1', '2', '0', '0']; ;6
+366;1.1.6.2.2;pro;The US has many characteristics which make it more susceptible to violence than other developed countries.;['0', '0', '0', '0', '0']; ;4
+367;1.1.6.2.2.1;pro;Whereas countries like Japan and Australia are culturally homogeneous and thus have predictably low crime rates, the US is culturally heterogeneous and thus has a predictably higher crime rate.;['0', '1', '2', '0', '0']; ;5
+368;1.1.6.2.2.2;pro;The US has the highest rate of illegal drug use in the world, which suggests that it also has one of the largest markets for illegal goods and services.;['0', '0', '0', '0', '0']; ;5
+369;1.1.6.2.2.2.1;con;While Britain has a higher rate of opiate drug use than the US, it has significantly fewer gun related deaths and homicides.;['0', '0', '0', '0', '0']; ;6
+370;1.1.6.2.2.2.1.1;con;Britain has a higher crime rate per capita than the US.;['0', '1', '2', '0', '0']; ;7
+371;1.1.6.2.2.2.1.1.1;con;While Britain's overall crime rate is higher, the crimes most commonly committed in Britain are nonviolent offenses. In every metric, the US has a higher violent crime rate than the UK.;['0', '0', '3', '0', '0']; ;8
+372;1.1.6.2.2.3;con;If a country is uniquely susceptible to violence, it would be prudent for that country to reduce the number of unregulated guns in circulation.;['0', '0', '1', '0', '0']; 3;5
+373;1.1.6.2.3;con;Stricter gun control will decrease the harmful consequences of gun culture in the long term.;['0', '1', '2', '0', '0']; 39;4
+374;1.1.6.2.3.1;pro;US gun culture endangers children by placing them in environments with unregulated and insecure firearms.;['8', '4', '4', '2', '16']; 63;5
+375;1.1.6.2.3.1.1;pro;Children under 18 often have easy access to firearms in the home.;['1', '0', '3', '1', '5']; 10;6
+376;1.1.6.2.3.1.1.1;pro;Over 80% of children who die by suicide with a firearm used a gun owned by a family member.;['0', '0', '2', '0', '3']; 2;7
+377;1.1.6.2.3.1.1.1.1;pro;Around 40% of adolescents in gun-owning households reported easy access to a gun and the ability to shoot it.;['0', '0', '2', '0', '2']; ;8
+378;1.1.6.2.3.1.1.2;pro;A CDC study of school shootings carried out by students in the 1990s found that the majority of the firearms used were obtained either from the shooters own homes, or from friends or relatives.;['0', '0', '3', '0', '3']; 11;7
+379;1.1.6.2.3.1.1.3;pro;Many states lack restrictions on gun safety in the home. Of 11 states with laws concerning firearm locking devices just 4 require unused firearms to be locked at least sometimes, and only 1 prescribes the locking of all firearms when not in use.;['0', '0', '2', '1', '3']; 10;7
+380;1.1.6.2.3.1.1.3.1;pro;A study published in 2005 found that approximately 1.69 million children and youth in the US are living with loaded and unlocked household firearms.;['0', '0', '2', '1', '0']; ;8
+381;1.1.6.2.3.1.1.4;con;Irresponsible gun owners are responsible for children gaining access to firearms, thus new firearm regulations would likely have little impact on the problem.;['0', '2', '2', '0', '0']; ;7
+382;1.1.6.2.3.1.1.4.1;con;Owners would be more responsible if regulations required it.;['0', '0', '3', '0', '0']; ;8
+383;1.1.6.2.3.1.2;con;The Child Safety Act of 2005 mandates that all non-private handguns must be locked and come with gun-safety instructions, yet has failed to keep children safe.;['0', '0', '3', '0', '0']; 8;6
+384;1.1.6.2.3.2;pro;The change in behaviour generated by the implementation of tightnened gun controls will change cultural norms about gun possession.;['3', '0', '3', '4', '4']; 7;5
+385;1.1.6.2.3.2.1;pro;When fewer people own guns, populations of people will consider guns less vital to their culture.;['0', '1', '2', '0', '0']; ;6
+386;1.1.6.2.3.2.1.1;pro;Owning a gun is a taboo in the mind of nearly every citizen in countries where firearms are only seen in the hands of military, police, security agents, or hunters.;['0', '0', '3', '0', '0']; 17;7
+387;1.1.6.2.3.2.1.1.1;pro;Creating a cultural taboo against gun ownership will affect the behavior of future generations, even if it doesn't have an immediate impact.;['0', '2', '2', '0', '0']; 7;8
+388;1.1.6.2.3.2.1.1.1.1;pro;Reducing the availability of something reduces its social and cultural relevance. The social shift in acceptance of smoking is a comparable example.;['0', '0', '0', '0', '0']; 9;9
+389;1.1.6.2.3.2.1.1.1.1.1;pro;Among the forces driving down smoking prevalence were the legal restrictions on smoking in public spaces, mass media counter-marketing campaigns, and higher taxes on cigarettes (p. 1).;['0', '0', '3', '0', '0']; ;10
+390;1.1.6.2.3.2.1.1.1.1.2;con;Heavy gun restrictions are comparable to the strict ban of alcohol during Prohibition, which failed and created an illegal market for banned items.;['0', '1', '2', '0', '0']; 22;10
+391;1.1.6.2.3.2.1.1.1.2;con;A cultural taboo against gun ownership would alienate people with conservative right-wing political views.;['0', '0', '2', '1', '0']; ;9
+392;1.1.6.2.3.2.1.1.1.2.1;pro;The political culture in the US alienates right-wing views, which contributes to the continued emergence of extremists that react violently to a future that doesn't include them.;['0', '0', '0', '0', '0']; 2;10
+393;1.1.6.2.3.2.1.1.1.2.1.1;pro;Violent extremism, whether widespread or rare, is often the result of push factors such as perceptions of inequality, marginalization or persecution, and the denial of rights or civil liberties.;['0', '0', '2', '1', '0']; 1;11
+394;1.1.6.2.3.2.1.1.2;pro;In places such as the UK, where gun control has been tightened over the years, people see the right to bear arms as a relic. Those who own guns are the exception rather than the rule.;['0', '0', '3', '0', '0']; ;8
+395;1.1.6.2.3.2.2;pro;Government actions change the way people behave and respond to things. Even though the chance of a terrorist attack is much lower than gun violence, many Americans fear terrorist attacks more because of the legislation surrounding both.;['0', '0', '3', '0', '0']; 6;6
+396;1.1.6.2.3.2.3;con;Creating more gun regulations will not change cultural perceptions around guns. Policy is generally downstream of culture.;['0', '1', '2', '0', '0']; ;6
+397;1.1.6.2.3.2.3.1;pro;The culture surrounding marijuana use in the US did not yield to strict regulations. Given the prevalence of marijuana use in the US in spite of the risk of legal consequences, many states have legalized its use.;['0', '1', '2', '0', '0']; 2;7
+398;1.1.6.2.3.2.4;con;Given the congressional approval rating is below 25% by most polls, gun controls could easily signal that the government is attempting to erode major constitutional rights for their own benefit.;['0', '2', '1', '0', '0']; 2;6
+399;1.1.6.2.3.2.4.1;pro;Gun sales spike whenever gun control is suggested by political leaders.;['0', '0', '3', '0', '0']; 4;7
+400;1.1.6.2.3.2.4.1.1;pro;Former president Obama was awarded the informal 'gun salesman of the year' when his advocacy of gun control reform led to the largest increase in gun sales in the US.;['0', '1', '2', '0', '0']; 3;8
+401;1.1.6.2.3.2.4.1.2;con;Historically, gun control legislation has not always predicted drastic increases gun and ammunition sales.;['0', '0', '3', '0', '0']; ;8
+402;1.1.6.2.3.2.4.1.2.1;pro;While the Brady Bill and the Federal Assault Weapons ban were enacted during the Clinton administration, gun and ammunition sales were significantly higher during the Obama administration.;['0', '0', '2', '1', '0']; 6;9
+403;1.1.6.2.3.2.4.2;con;The approval rating of the US Congress has not reached 30% in 10 years, which suggests that there is no reason to assume that there would be an adverse response to gun control legislation.;['0', '0', '2', '1', '0']; ;7
+404;1.1.6.2.3.3;con;Groups like the NRA are strong proponents of gun culture and advocate for gun safety.;['0', '2', '2', '3', '1']; 9;5
+405;1.1.6.2.4;con;Right-wing militias and white nationalist groups have made stockpiling illegal weapons and ammunition a part of their culture, and stricter regulations limit their access to weapons.;['0', '0', '1', '1', '0']; ;4
+406;1.1.6.2.4.1;pro;Right-wing white nationalists are responsible for many of the mass shootings and acts of domestic terrorism in the US.;['0', '0', '0', '1', '0']; 12;5
+407;1.1.6.2.4.1.1;pro;Right-wing extremism is an escalating problem in the US that is associated with mass shootings and bombings, both of which could be positively impacted by new federal regulations.;['0', '0', '2', '1', '0']; 25;6
+408;1.1.6.2.4.1.1.1;pro;The Oklahoma City bombing was a right-wing terrorist act meant as retribution for the violent confiscation of weapons by the government in Waco, Texas.;['0', '0', '2', '1', '0']; ;7
+409;1.1.6.2.4.1.1.2;pro;Heavily armed civilian militias are growing in the US.;['0', '0', '1', '0', '0']; ;7
+410;1.1.6.2.4.1.1.3;con;Right-wing extremists are already well armed and maintain networks useful for trafficking arms.;['0', '0', '0', '0', '0']; 4;7
+411;1.1.6.2.4.1.2;pro;Every extremist killing in the US in 2018 had a link to a right-wing extremism. This includes incidents such as the high school shooting in Florida, and the mass shooting at the Tree of Life synagogue.;['0', '0', '1', '2', '0']; 4;6
+412;1.1.6.2.4.1.2.1;con;It would be easier and more effective to resolve these problems by thwarting right-wing extremism than enacting sweeping gun regulations because it can be done online and would impact fewer individuals.;['0', '1', '2', '0', '0']; 8;7
+413;1.1.6.2.4.1.2.1.1;pro;One way of dealing with the alt-right is by shutting down their online platforms.;['0', '0', '3', '0', '0']; ;8
+414;1.1.6.2.4.1.2.1.2;con;Authorities don't have very many effective tools for combating right-wing extremism online.;['0', '0', '2', '1', '0']; ;8
+415;1.1.6.2.4.1.2.1.3;con;Cracking down on right-wing extremism is unlikely to be easy, as attempts to shut down hate speech online may cause a backlash that make the problem worse.;['0', '0', '2', '1', '0']; ;8
+416;1.1.6.2.4.1.3;con;Gun control laws do not directly prevent self-radicalization (p. 7).;['0', '0', '0', '0', '0']; ;6
+417;1.1.6.3;con;It is far more difficult to regulate social issues than gun possession. Seeing as how both are required for gun violence, focus should be placed on the easiest condition to impact.;['0', '0', '0', '0', '0']; ;3
+418;1.2;pro;Polls suggest most American citizens support strict gun control legislation that is enforced fairly.;['29', '7', '13', '15', '29']; 7;1
+419;1.2.1;pro;About 75% of US adults support laws that require prospective buyers to get a license from law enforcement.;['0', '0', '2', '1', '0']; ;2
+420;1.2.1.1;pro;A 2017 study found that 60% of gun owners support gun license laws.;['0', '0', '3', '0', '0']; ;3
+421;1.2.2;pro;People would feel safer if they knew there were fewer guns around.;['0', '0', '2', '1', '0']; 11;2
+422;1.2.2.1;pro;The knowledge that nearly any individual could be carrying a firearm at any moment leads many people to be afraid of going outside.;['0', '0', '4', '3', '5']; 2;3
+423;1.2.2.2;con;People may feel less safe if they feel they are unable to defend themselves with their guns.;['0', '1', '2', '1', '0']; 10;3
+424;1.2.2.2.1;pro;There are additional dangers associated with relying on melee weapons like knives for self-defense.;['0', '0', '3', '0', '0']; 7;4
+425;1.2.2.3;con;Government policy should be based on facts rather than feelings.;['0', '0', '0', '0', '0']; 2;3
+426;1.2.2.3.1;pro;The feeling of safety provided by gun control is illusory, as there are many dangerous things that gun laws do not regulate.;['0', '2', '0', '1', '0']; 25;4
+427;1.2.2.3.2;pro;Actual safety often has no correlation with the sense of safety. For example, 70% of people fear flying, despite it being the safest method of travelling.;['0', '0', '3', '0', '0']; 3;4
+428;1.2.2.3.3;con;When constructing laws, policy makers should take a wider view which incorporates the opinions and feelings of the general public (p. 226).;['0', '0', '0', '0', '0']; ;4
+429;1.2.3;pro;Polls suggest that black Americans support policies that limit the possession of firearms and feel that they would improve safety.;['0', '0', '3', '0', '0']; 3;2
+430;1.2.3.1;pro;People of color in the US are disproportionately harmed by current gun laws.;['0', '0', '2', '1', '0']; ;3
+431;1.2.3.1.2;con;One solution to inequality pertaining to owning, carrying, and purchasing firearms, is to pass strict universal gun control laws.;['0', '0', '3', '0', '0']; ;4
+432;1.2.3.1.2.1;pro;Federal regulations, like universal background checks, would be applied to everyone equally, and would supersede any existing discriminatory city, county, or state laws.;['0', '0', '1', '0', '0']; ;5
+433;1.2.3.1.2.2;con;Strict gun laws could disproportionately impact, and be more harshly enforced against, vulnerable minority communities.;['0', '0', '3', '0', '0']; 9;5
+434;1.2.3.1.2.2.1;pro;Black Americans are more likely than any other group to be convicted of a firearms offense carrying a mandatory minimum penalty.;['0', '0', '3', '0', '0']; 5;6
+435;1.2.3.1.2.2.2;pro;People of color are disproportionately killed by police officers, while white people can attempt to seize federal land and be captured alive.;['0', '0', '2', '2', '0']; 1;6
+436;1.2.3.1.2.2.2.1;pro;Black men are 2.8 times more likely to be killed by police than white men.;['0', '0', '3', '0', '0']; 1;7
+437;1.2.3.1.2.2.2.3;con;Research suggests that there is no racial bias in the use of force by law enforcement.;['0', '1', '2', '0', '1']; ;7
+438;1.2.3.1.2.2.2.3.1;pro;The greatest predictor (90 to 95%) of the use of lethal force by a police officer is whether or not the police officer or someone else is being attacked.;['0', '1', '2', '0', '0']; ;8
+439;1.2.3.1.2.2.2.3.1.1;con;Law enforcement agencies are allowed to withhold their data, which any agency with high rates of racial bias would be incentivized to do. This undermines the legitimacy of the dataset.;['0', '0', '2', '0', '1']; ;9
+440;1.2.3.1.2.2.2.3.2;con;The final report of the President's Task Force on 21st Century Policing published in 2015 indicates that the Department of Justice (DOJ) has never received the funding necessary to accurately collect data pertaining to the use of force by law enforcement (p. 19).;['0', '0', '2', '1', '0']; ;8
+441;1.2.3.1.2.2.2.3.3;con;The most comprehensive dataset of the use of force by law enforcement is the Gun Violence Archive, which relies upon collecting data secondhand from local news stories and thus is unreliable.;['0', '0', '3', '0', '0']; ;8
+442;1.2.3.1.2.2.3;con;The implicit bias which associates racial minorities with criminal activity is already widely exhibited by US law enforcement, thus any change in legislation is unlikely to alter this.;['0', '1', '3', '0', '0']; 1;6
+443;1.2.3.1.2.2.4;con;While current gun law enforcement disenfranchises minority populations, gun control reforms could be used to create new programs, laws, and practices that address these inequalities.;['0', '1', '2', '0', '0']; 2;6
+444;1.2.3.1.2.2.4.1;pro;A 2017 study found that states that have enacted strict gun control reform have significantly reduced rates of police officers fatally shooting civilians (p. 1070).;['0', '0', '3', '0', '0']; ;7
+445;1.2.3.1.2.2.4.2;con;Any change to current firearm legislation is unlikely to be effective in reducing gun violence in urban communities unless the socioeconomic issues which underpin high rates are recognised and addressed first.;['0', '0', '2', '1', '0']; ;7
+446;1.2.3.2;con;Gun violence is a symptom of economic inequality. The US needs to overcome economic divisions before considering further gun regulations.;['0', '0', '3', '0', '0']; 18;3
+447;1.2.3.2.1;pro;Of all the countries with a higher rate of inequality than the US according to the Gini index, only Costa Rica and South Africa had lower rates of gun homicide per annum.;['0', '0', '0', '0', '0']; ;4
+448;1.2.3.2.2;pro;What's driving gun violence is not accessibility of guns in culture but rather collapse of social and political trust.;['0', '0', '3', '0', '0']; 7;4
+449;1.2.3.2.2.1;pro;Research has found that declining trust in US institutions has lead to an increase in firearm related homicide, including mass murder (p. 2).;['0', '0', '3', '0', '0']; ;5
+450;1.2.3.2.3;con;It is possible to tackle access to guns and inequality at same time.;['0', '1', '2', '0', '0']; 6;4
+451;1.2.3.2.3.1;pro;The US federal government has a discretionary spending budget of $1.485 trillion, which it could earmark for both tackling access to guns and inequality if it chooses.;['0', '0', '3', '0', '0']; ;5
+452;1.2.4;con;Appealing to popularity is logically problematic.;['0', '7', '6', '7', '33']; 9;2
+453;1.2.4.1;pro;Historically, some laws have been quite popular that were later deemed immoral.;['0', '0', '3', '0', '1']; ;3
+454;1.2.4.2;con;Making the hasty generalization that gun control is wrong in order to avoid appealing to popularity is also logically problematic.;['0', '0', '0', '0', '0']; 6;3
+455;1.2.5;con;Polls also suggest that most American citizens support the use of guns for self-defense.;['0', '1', '2', '0', '0']; ;2
+456;1.3;pro;Stricter gun control legislation may reduce instances of gun-related injury, accidental death, murder, and suicide.;['2', '0', '2', '3', '8']; 44;1
+457;1.3.1;pro;Stricter regulation would make people consider their decision to own a gun more seriously.;['0', '1', '1', '1', '0']; 15;2
+458;1.3.1.1;pro;Enacting waiting periods to purchase guns means that people can not obtain a weapon while particularly enraged.;['0', '0', '2', '2', '0']; ;3
+459;1.3.1.1.1;pro;Waiting periods create a cooling off period among buyers and significantly reduce the incidence of gun violence (p. 12162).;['0', '0', '1', '2', '0']; ;4
+460;1.3.1.1.1.1;pro;Waiting periods were associated with a 17% decrease in gun homicides and a 7% to 11% decrease in gun suicides per year from 1970 to 2014.;['0', '0', '3', '0', '0']; 2;5
+461;1.3.1.1.1.2;pro;Around 750 gun homicides are avoided per year by having a waiting period of a few days before guns can be purchased (p.1).;['0', '0', '3', '0', '0']; 1;5
+462;1.3.1.1.1.3;pro;Delaying the purchase of guns by a couple of days (p. 1) could save nearly 1,700 lives a year in the US.;['0', '0', '3', '0', '0']; ;5
+463;1.3.1.1.1.4;con;There is no statistical evidence that waiting period reduce overall homicide rates.;['0', '0', '3', '0', '0']; 4;5
+464;1.3.1.1.2;con;Gun purchase waiting times have been linked with reduced suicide, but evidence for the effect of waiting periods on violent crime and intimate partner homicide is inconclusive.;['0', '1', '2', '0', '0']; 4;4
+465;1.3.1.1.2.1;con;If waiting periods provide a tangible benefit by decreasing incidences of suicide, but fail to improve on the rates of homicide, they can still be considered as creating a net benefit, and should be introduced.;['0', '0', '0', '0', '0']; 1;5
+466;1.3.1.2;pro;Improved gun control legislation could improve gun education, storage, and maintenance to avoid accidental gun-related deaths.;['0', '0', '3', '0', '0']; 1;3
+467;1.3.1.2.1;pro;Educating the public on the facts of legal, responsible gun handling and ownership is paramount to firearm safety in a gun-legal society.;['0', '0', '3', '0', '0']; 10;4
+468;1.3.1.2.2;pro;Gun control laws in California have demonstrated strong correlations in preventing accidental gun deaths due to law-abiding gun owners acting in safer ways with firearms.;['0', '0', '3', '0', '0']; 7;4
+469;1.3.1.2.2.1;con;The annual number of gun-related accidental deaths has declined by more than 66% in the last 25 years, irrespective of changes to legislation.;['0', '0', '3', '0', '0']; 6;5
+470;1.3.1.2.2.1.1;con;Gun deaths increased by 16% from 2014 to 2017.;['0', '0', '3', '0', '0']; ;6
+471;1.3.1.2.3;pro;The requirement to pass a state administered test would raise the competency level of all gun owners in the storage, maintenance, and operation of their firearms, thereby reducing the number of accidental shootings.;['0', '0', '3', '0', '0']; 8;4
+472;1.3.1.2.4;con;In states where mandatory training courses are required before a gun license is issued, the courses often overlook major safety components.;['0', '0', '3', '0', '0']; 3;4
+473;1.3.1.2.5;con;Safe storage laws are unconstitutional and unenforceable without random home searches by police (p. 98).;['0', '1', '2', '0', '0']; ;4
+474;1.3.1.5;con;Many gun owners take gun ownership seriously enough to voluntarily take a pledge to educate their children about guns and properly store and secure their weapons.;['0', '0', '2', '0', '0']; ;3
+475;1.3.3;pro;Empirical evidence indicates that there is a strong and significant link between weak gun laws and high rates of gun violence.;['0', '0', '0', '1', '0']; 5;2
+476;1.3.3.1;pro;Cross-analyzing data on firearm deaths per state with number of firearm regulations per state shows that increasing regulations does decrease firearm deaths.;['0', '0', '3', '0', '0']; 9;3
+477;1.3.3.1.1;pro;In 2007, Missouri repealed its handgun permit law, and immediately saw an increase in firearm murders, but not other types of murders. (p. 2);['0', '0', '3', '0', '0']; ;4
+478;1.3.3.1.2;con;There are examples of states with strict gun control laws with relatively high rates of gun-related death and violence.;['0', '1', '2', '0', '0']; ;4
+479;1.3.3.1.2.1;pro;In spite of strict gun control legislation, California's murder rate has increased since 1960.;['0', '0', '3', '0', '0']; ;5
+480;1.3.3.1.2.2;pro;Detroit has some of the strictest gun laws in America yet also the highest murder rate.;['0', '1', '2', '0', '0']; ;5
+481;1.3.3.1.2.3;pro;Chicago has some of the strictest gun laws in America, and yet also has some of the highest rates of gun crime.;['0', '1', '2', '0', '0']; 2;5
+482;1.3.3.1.2.4;con;States with the strictest gun control measures have the lowest rates of gun deaths, while those with the most lax laws have the highest.;['0', '0', '2', '1', '0']; 2;5
+483;1.3.3.1.2.4.1;pro;Hawai'i has the lowest gun death rate in the US and some of the strongest gun laws in the country. Only two people are killed with guns for every 100,000 residents.;['0', '0', '2', '1', '0']; ;6
+484;1.3.3.1.2.4.2;pro;Alaska has the highest gun death rate among all the states in the US, as well as some of the weakest gun laws, nearly 25 people are killed with guns for every 100,000 residents.;['0', '0', '2', '1', '0']; 2;6
+485;1.3.3.1.2.4.3;pro;"States with lenient ""right-to-carry"" gun laws tend to have higher rates of violent crime.";['0', '0', '2', '1', '0']; 17;6
+486;1.3.3.1.2.4.3.1;pro;The level of violence across the 10 states in the US with the weakest gun laws is 3.2 times higher than in the 10 states with the strongest laws.;['0', '0', '2', '1', '0']; 1;7
+487;1.3.3.1.2.6;con;The tightening of gun sales regulations in Connecticut in 1995 led to a reduction in gun homicides of 40% and in gun suicides by 15%.;['0', '0', '3', '0', '0']; 4;5
+488;1.3.3.1.2.6.1;con;Since 1995, the murder rate across the entire US dropped by nearly 40%. Connecticut's drop in gun murder rate is not statistically significant.;['0', '1', '2', '0', '0']; 2;6
+489;1.3.3.1.3;con;Many of the states with the highest murder rates have reduced their murder rates since 1960 without instituting gun regulations.;['0', '1', '2', '0', '0']; ;4
+490;1.3.3.1.3.1;pro;South Carolina, which had the highest murder rate in the US in 1960, has more than halved its murder rate without gun control legislation.;['0', '1', '2', '0', '0']; ;5
+491;1.3.3.2;pro;Industrialized countries with strict gun control laws have fewer instances of gun-related homicide than the US.;['0', '0', '2', '1', '0']; 7;3
+492;1.3.3.2.1;pro;The rate of gun deaths in the US is problematically high.;['0', '0', '2', '1', '0']; 27;4
+493;1.3.3.2.1.1;pro;On an average day, 96 Americans are killed by guns.;['0', '0', '3', '1', '0']; 8;5
+494;1.3.3.2.1.2;pro;There are high rates of death caused by the accidental discharge of a firearm in the US.;['0', '0', '2', '1', '0']; 3;5
+495;1.3.3.2.1.2.1;pro;From 2006 to 2016, an average of 650 people died each year from the accidental discharge of a firearm in the US.;['0', '0', '2', '1', '0']; ;6
+496;1.3.3.2.1.2.2;pro;In 2019, over 3000 children between the age 0-17 were killed or injured by gun incidents in the US.;['0', '0', '1', '2', '0']; 3;6
+497;1.3.3.2.1.2.3;con;Strict punishments for the lack of adequate gun safety could reduce accidental deaths without committing to broader regulations or a ban.;['0', '2', '1', '0', '0']; 4;6
+498;1.3.3.2.1.3;pro;There are a high number of firearm-related suicides in the US.;['0', '0', '2', '1', '0']; ;5
+499;1.3.3.2.1.3.1;pro;Half of all suicides in the US are carried out with a gun.;['0', '0', '2', '0', '1']; 2;6
+500;1.3.3.2.1.3.1.1;pro;There is clear sociological evidence that the ease of killing oneself is enough to persuade one to turn depression into suicide. This is also reflected in the numbers.;['0', '0', '2', '1', '0']; ;7
+501;1.3.3.2.1.3.3;con;In a country of over 300 million people, around 40,000 gun deaths (2017), of which almost 2/3 are suicide, does not justify the proposed legislation (p. 33, 35).;['0', '0', '3', '0', '0']; 13;6
+502;1.3.3.2.1.3.3.1;pro;With suicide being 2/3rd of gun-related deaths, the effort spent to enact new gun-control laws would be much better spent lobbying for comprehensive and universal access to healthcare and mental health services.;['0', '1', '2', '0', '0']; ;7
+503;1.3.3.2.1.3.3.2;con;The CDC lists suicide as the #10 cause of death in the US.;['0', '0', '2', '1', '0']; ;7
+504;1.3.3.2.1.3.3.3;con;The significance of 40,000 gun deaths in the US is amplified by the fact that around the same number of people die in firearm related incidents every year.;['0', '0', '2', '3', '0']; 5;7
+505;1.3.3.2.1.4;con;Compared globally, US has only the 10th highest number of gun-related deaths per 100,000 population.;['1', '1', '1', '1', '0']; ;5
+506;1.3.3.2.1.4.3;con;In 2012, guns were responsible for 60% of homicide deaths in the US which is double the gun-related homicide rate in Canada.;['0', '0', '3', '0', '0']; 6;6
+507;1.3.3.2.2;pro;All guns are tightly controlled and must be licensed in the UK, so it is difficult for criminals to acquire guns.;['0', '0', '3', '0', '0']; 7;4
+508;1.3.3.2.2.1;pro;The UK has strict gun control laws which result in only 5.03 guns per 100 citizens.;['0', '0', '3', '0', '0']; 20;5
+509;1.3.3.2.2.1.1;pro;Regulation in Scotland following a mass shooting led to a reduction in firearm incidents by over 75%.;['0', '0', '3', '0', '0']; 7;6
+510;1.3.3.2.2.1.2;pro;Since implementing strict gun laws in 1996, the UK has not had a mass shooting.;['0', '0', '0', '0', '0']; 11;6
+511;1.3.3.2.2.1.3;pro;In 2017 the UK rate of gun deaths would equate to 0.23 per 300,000 population. In comparison, the US exhibited a much higher rate of 12.21 per 300,000 population.;['0', '0', '3', '0', '0']; ;6
+512;1.3.3.2.2.1.4;con;UK gun control has not decreased violence, but changed the choice of weapon, which is essentially a failure of gun control as a method to reduce violence overall.;['0', '0', '0', '0', '0']; 3;6
+513;1.3.3.2.3;pro;Australia substantially reduced the number of firearms in public hands through buyback incentives and other programs.;['0', '0', '3', '1', '1']; ;4
+514;1.3.3.2.3.1;pro;In the 18 years prior to gun law reforms restricting the use of, ownership of, and availability of firearms, Australia had 13 mass shootings. Since the 1996 reforms, there have been none.;['0', '0', '3', '1', '1']; 11;5
+515;1.3.3.2.3.2;con;It is unlikely that the Australian experience with gun buybacks would be replicable in the US (p. 3).;['0', '0', '3', '0', '0']; 4;5
+516;1.3.3.2.3.2.1;pro;The number of firearms in the US is far greater than in Australia. Even if the Australian plan was implemented and worked perfectly, there would still be over 200 million guns in the US.;['0', '0', '3', '0', '0']; ;6
+517;1.3.3.2.3.3;con;Gun control has not been effective in Australia.;['2', '3', '1', '0', '1']; 4;5
+518;1.3.3.2.3.3.1;pro;Australia reduced the number of guns legally owned by the public, but the black market has steadily been growing leading to more and more criminals being armed.;['0', '1', '2', '0', '0']; 5;6
+519;1.3.3.2.3.3.1.1;con;While the rate of gun crime has increased since laws were first strengthened in 1996, this more reflects the erosion of Australia's gun control regime, rather than inherent flaws in its original design.;['0', '0', '3', '1', '0']; ;7
+520;1.3.3.2.3.3.2;pro;Australia now has more firearms in public possession than before the buyback.;['0', '0', '3', '0', '1']; 10;6
+521;1.3.3.2.3.3.3;con;While there are reasons to be concerned about gaps in the laws and their enforcement, the general expert conclusion is that they were incredibly effective (p. 1).;['0', '0', '3', '2', '0']; ;6
+522;1.3.3.2.3.3.4;con;Gun control legislation has been effective at minimizing the risk of mass shootings.;['0', '0', '3', '0', '0']; ;6
+523;1.3.3.2.4;pro;Society globally has had access to guns for centuries, yet the problem of regular mass shootings is far more prevalent in the US.;['0', '0', '2', '1', '0']; 4;4
+524;1.3.3.2.5;pro;According to the United Nations Office on Drugs and Crime (UNODC), the Americas have the highest murder rate of any region in the world.;['0', '0', '0', '2', '1']; 5;4
+525;1.3.3.2.5.1;pro;In 2012, in the US, the number of gun murders per capita was nearly 30 times that in the UK (2.9 per 100,000 compared with just 0.1).;['0', '0', '3', '0', '0']; 2;5
+526;1.3.3.2.5.2;pro;The murder rate in the US in 2017 was more than 4 times higher than in the UK.;['0', '0', '3', '0', '0']; 3;5
+527;1.3.3.2.5.3;pro;Five of the top fifty cities with the highest homicide rates outside of war zones are in the US.;['0', '0', '2', '1', '0']; 1;5
+528;1.3.3.2.5.4;con;There are many inconsistencies in the way in which population numbers are estimated - especially in the developing world - which means any comparison of this sort may not be accurate.;['0', '0', '3', '0', '0']; ;5
+529;1.3.3.2.6;con;The Canadian government invested multi-millions of dollars to adopt a strict gun licensing program that had no significant effect on firearm homicides.;['0', '0', '3', '0', '0']; 1;4
+530;1.3.3.2.7;con;While the connection between gun ownership and gun violence holds in the US, it does not hold in other countries. This undermines the conclusion that gun control causes a reduction in gun-related murders.;['0', '0', '1', '0', '0']; 3;4
+531;1.3.3.2.8;con;Mexico has relatively strict gun laws, yet the gun homicide rate is significantly higher in Mexico than the US.;['0', '1', '1', '1', '0']; 14;4
+532;1.3.3.2.8.1;con;Most Mexican gun crimes are committed with American guns.;['0', '0', '2', '1', '0']; 4;5
+533;1.3.3.2.8.1.1;pro;Many US sourced firearms are illegally exported to Mexico.;['0', '0', '2', '1', '0']; ;6
+534;1.3.3.3;pro;Across high-income nations like the US, areas with more firearms tend to have a greater number of homicides.;['0', '0', '3', '0', '0']; 4;3
+535;1.3.3.3.1;pro;Access to a gun strongly increases the likelihood of committing murder.;['0', '1', '1', '1', '0']; 4;4
+536;1.3.3.3.1.1;con;The Reuters source is problematic because it uses studies published from 1988 - 2005. Since then, homicide rates have declined significantly, while the number of guns has increased.;['0', '0', '3', '0', '0']; ;5
+537;1.3.3.3.3;con;The number of guns in circulation has increased steadily in the US for decades during which violent crime rates, including gun crime, has steadily decreased.;['0', '1', '2', '0', '1']; 29;4
+538;1.3.3.3.3.1;con;This has more to do with the overall general decrease in violent crime in the US.;['0', '0', '2', '1', '2']; ;5
+539;1.3.3.3.3.2;con;There is no reason to suggest that guns deserve credit for the crime decline.;['0', '0', '3', '0', '0']; ;5
+540;1.3.3.3.3.3;con;The evidence for the correlation between violent crime and firearm ownership is mixed.;['0', '0', '3', '0', '0']; ;5
+541;1.3.3.4;con;Gun control does not prevent gun violence.;['1', '2', '1', '0', '0']; 10;3
+542;1.3.3.4.1;pro;Before it's possible to enact new effective gun control laws, the problems of the current gun laws and regulations must be addressed.;['0', '1', '2', '0', '0']; 11;4
+543;1.3.3.4.1.1;pro;Gun-free zones have been targets of more than 98% of all mass shootings.;['0', '1', '2', '0', '0']; 28;5
+544;1.3.3.4.1.1.1;pro;Schools are gun-free zones, which suggests that school and facility rules do not deter gun violence.;['0', '1', '2', '0', '0']; 27;6
+545;1.3.3.4.1.1.1.1;con;Strict gun control laws can improve the safety of gun-free zones by regulating the number and types of firearms that are available to the public.;['0', '0', '2', '3', '0']; 6;7
+546;1.3.3.4.1.1.2;con;Gun-free zones significantly outnumber zones where guns are permitted. Therefore, it is to be expected that events of any kind will occur more frequently in gun-free zones.;['0', '2', '2', '1', '2']; 7;6
+547;1.3.3.4.1.1.2.1;pro;In 2008, the Supreme Court ruled that the Second Amendment protects the possession of a firearm at home, but left it up to the states to decide how to regulate carrying a firearm in public (p. 1).;['0', '0', '3', '0', '0']; ;7
+548;1.3.3.4.1.1.3;con;"The lack of consistent definitions of the terms ""gun-free zone"" and ""mass shooting"" causes the statistical results to vary from as a high as 86% down to 10% in the 2009-2016 period.";['0', '0', '3', '1', '1']; 7;6
+549;1.3.3.4.1.2;pro;Given the existing lack of enforcement, adopting stricter gun controls is unlikely to save that many more lives.;['0', '1', '2', '0', '0']; 13;5
+550;1.3.3.4.1.2.1;pro;There is a poor rate of prosecution of felons in possession of a firearm based on existing prohibitions. Without enforcing existing legislation and studying that effect, adding restrictions to law-abiding gun owners makes little sense.;['0', '0', '3', '0', '0']; 7;6
+551;1.3.3.4.1.2.1.1;pro;Felons who are caught with a firearm may face weak indictment rates.;['0', '1', '2', '0', '0']; 6;7
+552;1.3.3.4.1.2.2;pro;Individual citizens must hold their elected representatives accountable in order to see actual enforcement of current laws.;['0', '2', '1', '0', '0']; 1;6
+553;1.3.3.4.1.3;con;Enforcing existing regulations does not need to preclude strengthening gun regulations and adopting new universal gun laws. They are not mutually exclusive.;['0', '1', '1', '1', '0']; ;5
+554;1.3.3.4.4;pro;Gun control does not effectively lower the crime rate.;['0', '1', '2', '0', '0']; 8;4
+555;1.3.3.4.4.1;pro;Licensing and regulations have proven to be an ineffective method of reducing crime. Gun control would likely be no different.;['0', '1', '2', '0', '0']; 3;5
+556;1.3.3.4.4.1.1;pro;The very minimal standards needed to acquire a driver's license often fail to keep reckless drivers off the road.;['0', '1', '2', '1', '0']; ;6
+557;1.3.3.4.4.1.1.1;con;Graduated driver licensing requirements reduced fatal crashes involving 16-year-old drivers by 20%.;['0', '0', '2', '1', '0']; ;7
+558;1.3.3.4.4.1.2;con;Age requirements for licensing have been successfully used for regulating the use of cars, alcohol, and tobacco.;['0', '0', '2', '1', '0']; 6;6
+559;1.3.3.4.4.1.3;con;Requiring people to apply for license would prevent people from impulsively buying a gun in a fit of anger. This could reduce incidences of crimes of passion.;['0', '0', '3', '0', '0']; ;6
+560;1.3.3.4.4.2;pro;Guns are used as a crime deterrent.;['0', '1', '2', '0', '0']; 6;5
+561;1.3.3.4.4.2.2;con;If guns in society increased safety, then US gun death rates would be lower than places where there are gun restrictions. Instead, they are comparatively very high. Therefore, guns in society do not increase safety.;['0', '0', '2', '1', '0']; 3;6
+562;1.3.3.4.4.2.3;con;There is no evidence of a deterrent effect of firearms, or that a gun in the house reduces the chance or severity of injury during an altercation or break-in.;['0', '0', '3', '0', '0']; 2;6
+563;1.3.3.4.4.2.3.1;con;Historically, criminals claimed to have been deterred from committing certain crimes due to the fear of their victim being armed.;['0', '0', '2', '1', '0']; 14;7
+564;1.3.3.4.4.4;con;Studies have demonstrated that gun violence and mass shootings are significantly linked to per capita gun ownership.;['0', '0', '3', '0', '0']; 1;5
+565;1.3.3.4.4.4.1;pro;A meta-analysis completed in 2014 showed that gun ownership significantly increased the rates of intentional and accidental gun death, as well as other forms of non-lethal gun violence.;['0', '0', '2', '1', '0']; ;6
+566;1.3.3.4.5;con;Studies on the weapon effect have shown that access to weapons leads to more violent behaviour.;['0', '0', '2', '1', '1']; 14;4
+567;1.3.3.4.5.1;pro;Intimate partner homicides are 5 times more likely with guns present in the household (p. 1092).;['0', '0', '0', '1', '0']; 3;5
+568;1.3.3.4.5.1.1;con;The cited study does not prove that firearms cause violence, but that domestic violence is more likely to result in homicide when a firearm is used.;['0', '0', '3', '0', '0']; ;6
+569;1.3.3.4.5.1.1.1;pro;This demonstrates that violent people are interested in weapons, not that weapons make people interested in violence.;['0', '2', '1', '0', '0']; 5;7
+570;1.3.3.4.5.1.1.2;pro;The cited study states that a history of threatening behavior or physical abuse is a risk factor for homicide, which bolsters the argument that firearms are not the cause of violence.;['0', '1', '2', '0', '0']; ;7
+571;1.3.3.4.5.2;pro;The presence of guns increases aggression.;['0', '0', '3', '0', '1']; ;5
+572;1.3.3.4.5.2.1;pro;An increase in aggression is shown to have a correlation with an increase in crime.;['0', '0', '3', '0', '1']; ;6
+573;1.3.3.4.5.2.1.2;con;Those who have permits to carry concealed weapons are only one sixth as likely to commit a crime as those people that do not carry a weapon (p. 15).;['0', '1', '2', '0', '0']; 4;7
+574;1.3.3.4.5.2.2;pro;Guns can make some people feel more powerful which gives them the confidence to be more controlling.;['0', '0', '3', '0', '0']; ;6
+575;1.3.3.4.5.2.3;con;Some psychological evidence suggests that the link between the presence of a firearm and aggression, known as the weapons effect, is weak or nonexistent (1985, p. 59-60).;['0', '2', '1', '0', '0']; 1;6
+576;1.3.3.4.5.2.3.1;con;A meta-analysis of weapons effect studies from 1967 to 2017 concluded that the presence of a firearm is strongly associated with increased feelings of aggression, and that the strength of the association may be getting stronger every year (pp. 16-17).;['0', '0', '1', '1', '0']; ;7
+577;1.3.3.4.5.3;pro;While guns don't cause violence, they permit violent actions to be taken far more easily, and against far more victims than other readily available civilian weapons.;['0', '0', '2', '1', '0']; 6;5
+578;1.3.3.4.5.3.1;pro;The simplicity, ease of access, and destructive power of a firearm makes it more likely that conflict will escalate.;['0', '0', '2', '1', '0']; 20;6
+579;1.3.3.4.5.3.1.1;pro;Possessing a firearm increases the likelihood of an individual getting shot.;['0', '0', '2', '1', '0']; 7;7
+580;1.3.3.4.5.3.1.1.1;pro;Someone with a gun is around 4.5 times more likely to be shot during an assault than someone without one. That number rises to almost 5.5 times more likely if they had a chance to resist (p. 2034).;['0', '0', '2', '1', '0']; 3;8
+581;1.3.3.4.5.3.1.1.2;pro;The feeling of power that a gun gives may actually lead to people being more likely to escalate a situation (p. 219).;['0', '0', '3', '0', '0']; 14;8
+582;1.3.3.4.5.3.1.3;con;Mutually Assured Destruction prevented nuclear conflict during the Cold War due to the high potential of casualties and costs to both sides.;['1', '1', '2', '1', '4']; ;7
+583;1.3.3.4.5.4;con;Guns may be very effective tools for harming people, but it is up each individual to make the choice to commit violent acts with guns.;['0', '1', '2', '0', '0']; ;5
+584;1.3.3.4.6;con;The Dickey Amendment has made it nearly impossible for sufficient government research to support or refute this point.;['0', '0', '1', '2', '1']; 25;4
+585;1.3.3.4.6.1;pro;The NRA is so powerful that it was able to get Congress to pass a bill that prevents the CDC from analyzing gun violence statistics.;['0', '0', '3', '0', '0']; 5;5
+586;1.3.3.4.6.2;pro;Tracing the purchase and use of firearms is a major function of the research carried out by the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF). The Dickey amendment disrupts this process in many ways.;['0', '0', '3', '0', '0']; 2;5
+587;1.3.3.4.6.3;con;The US government has continued to fund gun violence research through the NIH.;['0', '0', '3', '0', '0']; ;5
+588;1.3.3.4.6.4;con;Despite the Dickey Amendment, gun violence research in recent years has actually increased.;['0', '0', '3', '0', '0']; ;5
+589;1.3.3.5;con;Studies which link gun laws to rates of gun violence only demonstrate a correlation or relationship. They do not establish any kind of causality.;['0', '1', '3', '0', '1']; ;3
+590;1.3.4;con;Decreasing the number of gun-related deaths is not necessarily a moral good. Some gun-related deaths are justified.;['1', '3', '1', '0', '1']; 3;2
+591;1.3.4.1;pro;In the US it is legal to use lethal force in self-defense if one's life is threatened.;['0', '0', '2', '0', '0']; ;3
+592;1.3.4.2;pro;Shooting an active shooter prevents them from killing more people.;['0', '1', '2', '0', '0']; ;3
+593;1.4;con;Gun control policies infringe on various rights that the government has an obligation to uphold.;['36', '9', '8', '11', '57']; 8;1
+594;1.4.1;pro;Current gun control laws do not protect the Second Amendment rights of people of color.;['0', '0', '1', '0', '0']; ;2
+595;1.4.1.2;pro;Current gun control legislation has its roots in racial discrimination, which disproportionately prevents minorities from owning firearms.;['0', '0', '1', '2', '0']; 8;3
+596;1.4.1.2.1;pro;The majority of prosecutions made under the RICO Act targeted gangs with non-white members, while comparable groups with white members were not targeted by law enforcement (p. 232).;['0', '0', '2', '1', '0']; ;4
+597;1.4.1.2.2;pro;While acting as the Governor of California, Ronald Reagan enacted gun control as a response to the Black Panthers.;['0', '0', '2', '1', '0']; ;4
+598;1.4.1.2.3;pro;Philando Castile, a law-abiding Black gun owner, was shot by a police officer while telling the officer he had a legal firearm with him.;['0', '0', '2', '1', '0']; 11;4
+599;1.4.1.2.3.1;pro;The NRA waited one year before making a brief public response to the death of Philando Castile even though he was killed for legally carrying a firearm.;['0', '0', '2', '1', '0']; ;5
+600;1.4.1.2.4;pro;The licensing process can be discriminatory towards minority groups. In Illinois, only eight percent of licenses issued have been to African-Americans.;['0', '0', '2', '0', '0']; ;4
+601;1.4.1.2.5;con;While there is evidence of racial bias in the enforcement of many laws, that doesn't mean that the laws are written in a discriminatory way.;['0', '1', '2', '0', '0']; 3;4
+602;1.4.1.2.6;con;The NRA has stoked fear of minorities in order to make people scared, and thus more likely to want a gun and be against gun regulations.;['0', '0', '0', '0', '0']; ;4
+603;1.4.2;pro;Law abiding gun owners should not have their rights restricted because of the crimes committed by a small population of gun owners.;['3', '3', '3', '2', '2']; 8;2
+604;1.4.2.1;pro;Gun control legislation effectively violates the due process clause of the Fifth Amendment of the US Constitution by infringing on the gun rights of millions of Americans without any of them first being accused, tried, or convicted of a crime.;['0', '1', '2', '0', '0']; 42;3
+605;1.4.2.1.1;pro;The Fifth Amendment of the Constitution requires that due process must occur by law before the state may take away someone's rights due to criminal activity.;['2', '1', '3', '1', '1']; ;4
+606;1.4.2.1.1.1;con;Similar to eminent domain, the US government can take private property if it serves a compelling government interest and provides appropriate compensation.;['1', '1', '2', '0', '1']; ;5
+607;1.4.2.1.1.1.1;pro;In extreme cases, private property associated with criminal activity can be seized through civil asset forfeiture.;['0', '1', '2', '0', '0']; ;6
+608;1.4.2.1.1.1.2;con;Eminent domain is limited and restricted by due process.;['0', '0', '0', '0', '0']; ;6
+609;1.4.2.1.1.1.3;con;Eminent domain laws, like gun control laws, are unjust because they undermine the constitutional rights of US citizens.;['0', '0', '2', '2', '1']; ;6
+610;1.4.2.1.1.2;con;The Fifth Amendment refers to criminal proceedings and thus is only relevant for protecting the due process in the confiscation of guns in criminal cases.;['0', '0', '3', '0', '0']; ;5
+611;1.4.2.1.1.2.1;pro;If the state wished to deprive someone of an illegal firearm, the state would have to follow due process in order to link the gun or person to a criminal act.;['0', '0', '2', '0', '0']; ;6
+612;1.4.2.1.2;con;Stricter gun control does not outright violate the rights of citizens to own a firearm. It puts reasonable boundaries around them.;['1', '0', '4', '1', '4']; 14;4
+613;1.4.2.1.2.1;pro;While access to firearms as tools for self-defense is a fundamental right in the US, it doesn't follow that any and all tools should be freely available for this purpose. It is therefore reasonable to limit the legal access in order to address growing public safety concerns.;['1', '1', '3', '0', '0']; 1;5
+614;1.4.2.1.2.1.1;pro;Just as the right of the people to peaceably assemble can be regulated (via permit), guns should continue to be regulated (via permit) for public safety purposes (p. 5).;['0', '0', '3', '0', '0']; 9;6
+615;1.4.2.1.2.2;pro;The gun control regulations being considered simply expand the current gun laws and thus do not infringe upon the basic rights of gun ownership.;['0', '1', '2', '0', '0']; 6;5
+616;1.4.2.1.2.2.1;con;In DC v Heller, the Supreme Court has ruled that the Second Amendment limits the government's power to restrict the ownership, use, and bearing of firearms.;['0', '0', '3', '0', '0']; 6;6
+617;1.4.2.1.2.3;con;The laws proposed would nonetheless limit the firearms available to even a law abiding, responsible person.;['0', '0', '3', '0', '0']; ;5
+618;1.4.2.1.2.3.1;pro;People flying to New York have been arrested for carrying firearms on their journey, even when strictly adhering to TSA and Federal guidelines.;['0', '0', '3', '0', '0']; 2;6
+619;1.4.2.1.2.3.2;pro;Waiting periods and magazine capacity bans inhibit citizens from protecting themselves.;['0', '1', '2', '0', '0']; ;6
+620;1.4.2.1.2.3.3;con;Realistic proposed gun regulations in America won't prevent law abiding citizens from obtaining guns for self-defense, rather the changes prevent dangerous people from accessing guns.;['0', '1', '2', '1', '0']; 19;6
+621;1.4.2.3;con;The lack of strict enforceable gun regulations undermines the rights and liberties of citizens who must live in fear of being shot or killed in public.;['0', '1', '2', '0', '0']; 4;3
+622;1.4.2.4;con;The desire of a small segment of the population to own or use guns for leisure or protection is not imperative enough to justify not intervening against widespread criminal gun violence.;['1', '2', '2', '0', '1']; 6;3
+623;1.4.2.4.1;pro;Only thirty percent of US adults say they personally own a gun.;['0', '1', '2', '0', '0']; ;4
+624;1.4.2.4.1.1;con;30% of the US population equates to around 99 million people, which is a population greater than that of the largest central European country, Germany.;['0', '0', '2', '1', '0']; 3;5
+625;1.4.2.4.2;con;As of 2009, there were around twice as many guns per capita in the US as there were in 1968 (over 300 million additional firearms in all).;['0', '0', '3', '0', '0']; 2;4
+626;1.4.3;pro;The Founding Fathers of the US believed the right to a firearm was important, which is why they codified it in the Second Amendment.;['0', '0', '5', '0', '0']; 11;2
+627;1.4.3.1;pro;The Constitution implies that it is the duty of citizens to throw off any government which abuses its power or becomes overly oppressive.;['1', '1', '2', '0', '0']; 10;3
+628;1.4.3.1.1;con;In Federalist 46, Madison used the notion of the state militia to argue that the government should be designed in such a way that it would never be necessary to overthrow in the first place.;['0', '0', '2', '0', '0']; 2;4
+629;1.4.3.1.2;con;The right to form a militia in the US Constitution is often cited as justification for unjustified acts of terrorism and violence against government officials.;['0', '0', '2', '1', '0']; 5;4
+630;1.4.3.1.2.1;pro;Anti-government organizations often make unfounded claims that gun control legislation empowers totalitarianism and thus should be resisted with violence.;['0', '0', '2', '1', '0']; 1;5
+631;1.4.3.1.2.1.1;pro;Contradicting claims by anti-government organizations, many totalitarian governments rose to power through armed ideological rebellions by armed civilians.;['0', '0', '3', '0', '0']; ;6
+632;1.4.3.1.2.1.1.1;pro;The repressive Castro regime in Cuba came to power via armed rebellion.;['0', '0', '3', '0', '0']; ;7
+633;1.4.3.1.2.1.1.2;pro;Pol Pot came to power in Cambodia via armed rebellion.;['0', '0', '2', '0', '0']; ;7
+634;1.4.3.1.2.1.1.3;pro;The Iranian government came to power via armed rebellion.;['0', '1', '2', '0', '0']; ;7
+635;1.4.3.1.2.1.1.4;con;Armed rebellions against oppressive governments helped form the democratic nations of France and the United States of America.;['0', '0', '3', '0', '0']; 4;7
+636;1.4.3.1.2.1.2;con;Polsby & Kates (1997) argue that the connection between gun confiscation and genocide is evidenced by the fact that there are no examples of modern genocides being committed against armed populations (p. 1237).;['0', '1', '2', '0', '0']; ;6
+637;1.4.3.1.2.1.2.1;con;Polsby & Kates reject the anti-government rhetoric attributed to right-wing militias and make a point to claim that gun control legislation does not lead to totalitarianism, tyranny, or genocide (p. 1238).;['0', '0', '2', '1', '0']; ;7
+638;1.4.3.1.2.2;pro;Timothy McVeigh, one of the individuals convicted of bombing the Murrah Building in Oklahoma City in 1995, plotted the attack with militant militia groups in an effort to defend the Second Amendment from the tyranny of the federal government.;['0', '1', '1', '1', '0']; ;5
+639;1.4.3.1.2.3;con;Even if the right to form an armed militia is misused, it is protected by the US Constitution.;['0', '0', '3', '0', '0']; ;5
+640;1.4.3.1.3;con;The Second Amendment was originally written to allow state militias to maintain arms and was included so that states under British rule were more likely to sign on to the new federal government.;['0', '0', '3', '0', '0']; ;4
+641;1.4.3.1.3.1;pro;The right to form a militia in the Second Amendment was not extended to private citizens until two rulings by the Supreme Court as late as 2010.;['0', '0', '2', '1', '0']; 1;5
+642;1.4.3.2;con;The Second Amendment was created when the US was dependent on an armed citizenry for national defense, but in the modern day that role is filled by specialized institutions like the police and military.;['0', '1', '3', '0', '0']; 3;3
+643;1.4.3.2.1;pro;Gun technology has dramatically changed since the Second Amendment was introduced.;['0', '1', '1', '2', '0']; 8;4
+644;1.4.3.2.1.1;con;The advancement of firearm technology does not eliminate the need for tools used for hunting and protection, and the right to acquire and possess these tools persists regardless of the time period.;['0', '1', '1', '1', '1']; 1;5
+645;1.4.3.3;con;"There are legal arguments that the Second Amendment does not guarantee the individual right to bear arms, but does allow for ""well regulated militia[s]"".";['0', '0', '3', '0', '0']; 5;3
+646;1.4.5;con;The US Constitution is a living document, which means that it is subject to interpretation and can be amended.;['2', '0', '5', '4', '1']; 5;2
+647;1.4.5.1;pro;"Amendments can be altered or removed; the 21st amendment was ratified in 1933, repealing the 18th amendment and thereby prohibition.";['0', '0', '0', '0', '0']; 1;3
+648;1.4.5.2;pro;For example, marriage for same-sex couples was not federally recognized until 2015 when the US Supreme Court ruled in Obergefell v. Hodges that every American has the constitutional right to marry.;['0', '0', '3', '0', '0']; 2;3
+649;1.4.5.3;con;When the Constitution was written in 1781 a gun could only fire a single manually loaded shot at a time (pp. 3-4). Some assault rifles today fire up to 1000 rounds per minute. As such, the gun law - in the context of the constistution - is outdated.;['0', '0', '0', '0', '0']; 7;3
+650;1.4.5.4;con;While there is some room for interpretation, it is the duty of the judicial and legislative branches of the US government to protect and uphold laws and rights that pertain to gun ownership.;['0', '0', '1', '0', '0']; 2;3
+651;1.5;con;Gun control legislation is very difficult to implement effectively.;['35', '13', '14', '21', '22']; 13;1
+652;1.5.1;pro;Buyback programs are widely debated and produce mixed results.;['9', '3', '10', '3', '2']; 7;2
+653;1.5.1.1;pro;Buyback programs tend to be very expensive.;['0', '0', '3', '0', '0']; 2;3
+654;1.5.1.1.1;pro;The buyback program enforced by authorities in New Zealand is estimated to have cost around $120m (NZD) - equivalent to around $80m (USD) - in compensation costs.;['0', '1', '2', '0', '0']; ;4
+655;1.5.1.1.2;pro;A buyback of assault rifles alone is estimated to cost anywhere between $3 billion to $15 billion, depending on the price paid for each gun.;['0', '0', '3', '0', '0']; ;4
+656;1.5.1.1.3;con;Gun buyback programs are valuable because they both reduce the number of guns in circulation and provide a modest economic stimulus package to former gun owners.;['0', '1', '2', '1', '0']; 2;4
+657;1.5.2;pro;It is easy for firearms laws to lack specificity.;['0', '0', '0', '0', '0']; ;2
+658;1.5.2.1;pro;While background checks are technically required by law when purchasing a firearm, certain loopholes within the law itself can enable these checks to be easily bypassed.;['0', '0', '0', '0', '0']; ;3
+659;1.5.2.2;pro;In Arkansas, it is legal to carry firearms while on a 'journey', but the definition of a journey used includes any travel outside one's place of residence or county, which is unclear and difficult to enforce.;['0', '0', '2', '0', '0']; ;3
+660;1.5.2.3;pro;Current laws make it difficult to define the parameters of what classifies various types of firearms.;['0', '0', '3', '0', '0']; 7;3
+661;1.5.2.4;con;The issue of firearm laws lacking specificity can be resolved with more specific legislation.;['0', '1', '2', '0', '0']; 2;3
+662;1.5.2.4.1;pro;Establishing federal age requirements for buying or carrying a firearm could reduce the instances of gun-related incidents involving children.;['0', '0', '3', '0', '0']; ;4
+663;1.5.2.4.1.3;con;The average perpetrator of mass shootings is over 30 years old, which means that any legislation that establishes a minimum age to posses or purchase a firearm is unlikely to be effective at reducing these types of attacks (p. 5).;['0', '0', '3', '0', '0']; ;5
+664;1.5.2.4.2;pro;A gun licensing system could prevent people from building up a cache of weapons. Gun dealers would be made aware of how many guns a person already owned before selling them more.;['0', '0', '2', '1', '0']; ;4
+665;1.5.3;pro;Attempting to implement strict gun control measures is likely to create backlash.;['4', '4', '7', '4', '2']; 17;2
+666;1.5.3.1;pro;There are roughly 1000 extreme anti-government groups in the US, and many of those consider gun rights to be paramount.;['0', '1', '4', '0', '1']; 1;3
+667;1.5.3.1.1;pro;The lives that would be saved by enacting strict gun regulations (such as red flag laws) would be outweighed by the increase in violent resistance and terrorism by anti-government extremist groups.;['0', '1', '2', '0', '0']; 15;4
+668;1.5.3.1.2;pro;The narrative of many right-wing militias is that the government is out to confiscate their weapons, which makes them especially sensitive to gun control legislation.;['0', '0', '3', '0', '0']; ;4
+669;1.5.3.1.2.1;con;Reasonable policy should be based on evidence, rather than on the potential narratives it could be used to create in radicalized populations.;['0', '1', '2', '0', '1']; ;5
+670;1.5.3.1.3;con;The existence of heavily armed anti-government extremist groups in the US is reason enough to enact better regulations for possessing weapons.;['0', '0', '2', '1', '0']; ;4
+671;1.5.3.1.4;con;The US should not create its laws around the desires of extremist groups.;['0', '0', '2', '1', '0']; ;4
+672;1.5.3.2;pro;The NRA is immensely powerful and would likely orchestrate protests and backlash against this policy.;['0', '1', '3', '1', '1']; 4;3
+673;1.5.3.3;pro;In the US, the fear of gun control being enacted actually negates the aim of most gun control legislation, which is to reduce the number of available firearms.;['0', '1', '2', '0', '0']; 28;3
+674;1.5.3.3.2;con;Actually implementing gun control, rather than just discussing it, would solve the problem of people stocking up on guns.;['0', '3', '2', '0', '6']; 6;4
+675;1.5.3.4;con;The possibility for backlash is not a sufficient reason to abandon a policy that could save lives.;['1', '0', '3', '1', '2']; ;3
+676;1.5.3.4.1;pro;Social progress and civil rights in the US came with the risk of backlash, yet the rewards have outweighed the risk.;['1', '0', '3', '2', '0']; ;4
+677;1.5.3.4.1.1;pro;Desegregation faced significant backlash, but it was an essential step forward for the US.;['0', '0', '2', '1', '0']; ;5
+678;1.5.4;con;The difficulty of implementing effective gun control legislation is cause for trying to improve the effectiveness of the gun control legislation and enforcement, rather than a reason to deregulate firearms.;['1', '1', '2', '0', '0']; 2;2
+679;1.5.4.1;pro;Laws and regulations rarely solve problems completely, but that doesn't mean that they serve no purpose. For example, while methamphetamine is still being manufactured, drug laws make it more difficult to acquire the necessary chemicals.;['0', '0', '3', '0', '0']; 7;3
+680;1.5.5;con;Gun control has worked in many other countries.;['2', '0', '3', '0', '2']; 6;2
+681;1.6;con;Free access to guns is a cultural characteristic of the US and thus should be preserved.;['53', '14', '10', '5', '17']; 9;1
+682;1.6.1;pro;Strict gun control policies would significantly harm weapons manufacturers and vendors.;['0', '2', '1', '0', '0']; 3;2
+683;1.6.1.1;pro;Decreasing the demand for guns could lead to massive layoffs in the gun sector which employs a significant number of Americans.;['4', '6', '10', '4', '5']; 4;3
+684;1.6.1.1.1;pro;Companies in the US that manufacture, distribute, and sell firearms, ammunition, and hunting equipment employ as many as 149,146 people in the country and generate an additional 162,845 jobs in supplier and ancillary industries.;['0', '1', '2', '0', '0']; ;4
+685;1.6.1.1.1.1;con;The current US population is 329 million, which means that around 300,000 jobs account for only 0.1% of the population.;['0', '0', '2', '1', '0']; 5;5
+686;1.6.1.1.2;con;The potential reduction in the number of gun related deaths in the US outweighs the potential layoffs caused by stricter gun regulations.;['0', '1', '1', '1', '0']; 2;4
+687;1.6.1.1.3;con;Law enforcement and military purchases still account for 40% of revenue for domestic arms manufacturers in the USA.;['0', '0', '3', '0', '0']; 2;4
+688;1.6.1.1.3.1;con;The civilian population of the US owns more than three times the number of guns held by its miliatary.;['0', '1', '2', '0', '0']; ;5
+689;1.6.1.1.3.1.2;pro;The public owns an estimated 400 million firearms in the US. All the law enforcement and military stockpiles combined amount to fewer than 4 million.;['0', '0', '3', '0', '0']; 2;6
+690;1.6.1.1.3.1.3;con;The number of guns owned outside the military is not an accurate metric of the distrust of the government as over half the guns owned by Americans are concentrated in 3% of the population.;['0', '0', '2', '1', '0']; ;6
+691;1.6.1.2;con;There would be other economic opportunities for gun manufacturers.;['0', '0', '4', '0', '0']; 6;3
+692;1.6.1.2.1;pro;Gun manufacturers could begin producing other defensive products like tasers and salt guns.;['0', '1', '2', '0', '0']; 6;4
+693;1.6.1.2.2;pro;Local manufacturers could still export their guns to foreign countries. Stricter gun laws in the US do not affect the demand for guns abroad.;['0', '0', '2', '1', '0']; ;4
+694;1.6.1.2.2.1;pro;The Trump administration is rolling back regulations and red tape to make it easier for gun manufacturers to compete overseas.;['0', '0', '3', '0', '0']; ;5
+695;1.6.1.2.2.2;pro;Overseas gun sales already account for around a third of the total revenue for American arms manufacturers.;['0', '0', '3', '0', '0']; ;5
+696;1.6.1.2.3;con;Any shift in economic focus would likely require gun manufacturers to retrain their staff as well as discarding (or investing in new) unique equipment, both of which come at a significant cost.;['0', '1', '1', '1', '0']; ;4
+697;1.6.1.2.4;con;Even if opportunities existed in the long term, in the short term there would be economic harm to gun manufacturers.;['0', '1', '2', '0', '0']; ;4
+698;1.6.1.3;con;It is immoral to place more value on the profits of the gun industry than on the importance of the lives lost due to gun-violence.;['0', '0', '4', '0', '0']; 7;3
+699;1.6.1.3.1;pro;All people have the right to life and guns empower people to threaten the lives of other people. The right to life is more important than the right to own a gun.;['0', '0', '3', '0', '0']; ;4
+700;1.6.2;pro;The US was explicitly founded on the idea that individuals have a right to own guns as part of a right and responsibility to resist tyranny.;['3', '3', '3', '1', '6']; 14;2
+701;1.6.2.1;pro;Due to the extent of this belief, America exhibits a deepening partisan divide over the issue of gun ownership and legislation.;['0', '0', '3', '0', '0']; 20;3
+702;1.6.2.3;pro;The US is built upon fundamental distrust of government.;['0', '0', '3', '0', '0']; 12;3
+703;1.6.2.3.2;con;The modern conservative political movement is partially responsible for the level of distrust Americans feel for the government.;['0', '0', '0', '0', '0']; ;4
+704;1.6.2.3.3;con;The fact that the US government was founded on a complex system of checks and balances that limit governmental power is not evidence that the founding fathers fundamentally distrusted the government, but is evidence of the value they placed on compromise and collaboration.;['0', '0', '0', '0', '0']; 2;4
+705;1.6.2.4;con;Free and unregulated access to guns has never been a part of the American way.;['0', '1', '2', '0', '0']; 17;3
+706;1.6.2.4.1;pro;States have laws directing how guns are to be stored and what age someone becomes eligible to buy and carry a firearm.;['0', '1', '2', '0', '1']; ;4
+707;1.6.2.4.2;pro;The Old West period in American history (1850 - 1910) had many strict gun laws, including laws against openly carrying weapons in certain towns and having to register firearms with the sheriff.;['0', '0', '0', '1', '0']; ;4
+708;1.6.2.4.3;pro;The “Conductor Generalis” used by sheriffs, constables, and justices of the peace during colonial and revolutionary times laid out the conditions for disarming citizens, including but not limited to the action of affray (p. vi).;['0', '1', '2', '0', '0']; 4;4
+709;1.6.2.4.4;pro;Over the last hundred years, the US has passed many restrictions on the purchase, sale, and use of firearms.;['0', '0', '2', '1', '0']; ;4
+710;1.6.2.4.5;con;Free access does not necessarily mean unlimited access. It is acceptable to require a license to publicly carry a firearm but requiring a license to have a firearm on private property is unacceptable.;['0', '0', '0', '0', '0']; 5;4
+711;1.6.2.4.5.1;pro;For example, in most instances it is legal in the US to drive a vehicle without a license on private property, but to do so on a public highway would require a license.;['0', '0', '3', '0', '0']; 4;5
+712;1.6.2.5;con;Rejecting gun control legislation in order to preserve past cultural norms commits the appeal to tradition (argumentum ad antiquitatem) logical fallacy.;['0', '0', '3', '0', '0']; 5;3
+713;1.6.3;con;Less than half the population of the US owns or uses guns. Therefore, it is hardly a cultural characteristic.;['0', '0', '4', '2', '2']; ;2
+714;1.6.3.2;con;Less than half of Americans watch baseball and yet it is characterized as an icon of American culture.;['0', '1', '2', '0', '2']; 5;3
+715;1.6.4;con;Gun laws in the US impact many non-US citizens and countries around the world.;['1', '0', '1', '3', '0']; 6;2
+716;1.6.4.3;pro;There are over 76 million yearly visitors to the US who are legally barred from carrying guns and are potential victims of gun violence.;['2', '0', '3', '0', '3']; 11;3
+717;1.6.4.4;con;The US government has recently established that the needs of the American people should always come first, which suggests that the impacts of US laws on other countries and peoples are not valued in US foreign policy.;['0', '2', '1', '0', '0']; ;3
+718;1.6.4.4.1;pro;Stephen Moore argues that the most recent 'America First' trend in right-wing foreign politics is crucial because the money that the US government spends on aiding other countries is wasted.;['0', '1', '1', '0', '0']; ;4
+719;1.6.4.4.1.1;con;Stephen Moore's arguments have been criticized for downplaying the negative history of white nationalism in America.;['0', '0', '1', '1', '0']; ;5
+720;1.6.4.4.1.2;con;Stephen Moore's arguments regarding the effectiveness of foreign aid for other countries oversimplify the global situation and downplay the roles America plays in global economic politics.;['0', '0', '1', '1', '0']; ;5
