@@ -13,6 +13,12 @@ claim_already_visited = {}
 
 
 def try_click(elem):
+    '''
+    Try to click a webdriver element. Handle the following exceptions:
+    - if the popup window shows
+    - if a claim from guide-map obscure the button for the menu
+    :param elem:
+    '''
     attempts = 0
     global actions
     while attempts < 3:
@@ -34,6 +40,14 @@ def try_click(elem):
 
 
 def get_claim_votes(stance, level, pros_map, cons_map, depth):
+    '''
+    From the actual HTML page, recover some information about the claim actually selected, and search all its children
+    :param stance:
+    :param level:
+    :param pros_map:
+    :param cons_map:
+    :param depth:
+    '''
     try:
         claim = wd.find_element_by_class_name('selected-claim').find_element_by_class_name('claim-text__content').text
     except Exception as e:
@@ -117,19 +131,22 @@ SELECTION OF THE DISCUSSION
 #wd.get('https://www.kialo.com/the-existence-of-god-2629')
 wd.get('https://www.kialo.com/god-exists-3491')
 
-# Close "new to Kialo" dialog
-time.sleep(4)
-WebDriverWait(wd, 200).until(
-    EC.visibility_of_element_located((By.CLASS_NAME, 'pop-up-template__inner-modal-wrapper'))
-)
-wd.find_element_by_class_name('pop-up-template__inner-modal-wrapper').find_element_by_class_name('pop-up-template__close').click()
+# Some debates show two pop-ups before load the full debate page. So if new_to_kialo is True, those pop-ups are closed
+new_to_kialo = True
+if new_to_kialo:
+    # Close "new to Kialo" dialog
+    time.sleep(4)
+    WebDriverWait(wd, 200).until(
+        EC.visibility_of_element_located((By.CLASS_NAME, 'pop-up-template__inner-modal-wrapper'))
+    )
+    wd.find_element_by_class_name('pop-up-template__inner-modal-wrapper').find_element_by_class_name('pop-up-template__close').click()
 
-# Close discussion dialog
-time.sleep(4)
-WebDriverWait(wd, 200).until(
-    EC.visibility_of_element_located((By.CLASS_NAME, 'pop-up-template__body'))
-)
-wd.find_element_by_class_name('pop-up-template__body').find_element_by_class_name('discussion-info-dialog__close').click()
+    # Close discussion dialog
+    time.sleep(4)
+    WebDriverWait(wd, 200).until(
+        EC.visibility_of_element_located((By.CLASS_NAME, 'pop-up-template__body'))
+    )
+    wd.find_element_by_class_name('pop-up-template__body').find_element_by_class_name('discussion-info-dialog__close').click()
 
 # Close cookies dialog
 time.sleep(5)
@@ -174,7 +191,8 @@ for con_map in cons_map:
     get_claim_votes('con', '1.{}'.format(index_level), pros_map, cons_map, 1)
     index_level += 1
 
-dataset.to_excel('output.xlsx')
+dataset.to_csv('output.csv')
+# dataset.to_excel('output.xlsx')
 print(dataset.iloc[:-1])
 
 wd.close()
