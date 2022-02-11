@@ -1,28 +1,10 @@
-# Come aprire il file su colab e fare i commit:
-## Aprire il file su colab
-Andare sul sito di [Colab](https://colab.research.google.com/?utm_source=scs-index) e selezionare la casella GitHub. 
-Inserire le proprie credenziali e spuntare "Includi repository privati".  
-Selezionare poi il repository e il ramo (che corrisponde alla branch su cui lavorare)
+# Structure of the project
+Steps 1 and 2 can be skipped if, for the process, is used the file [dataframe.csv](dataframe/dataframe.csv)
+1. Use the scraper [selen.py](scraper/selen.py) to download debates from [Kialo](https://www.kialo.com/), that are saved as csv file
+2. In the notebook [argumentative-debates.ipynb](./argumentative-debates.ipynb) the debates (in format csv with ';' as separator) are loaded and "cleaned" (according to what is written in the `Report.pdf` file)
+3. The dataset can be build and cleaned as in point 1 and 2 or can be loaded adding as shortcut this [Google Drive directory](https://drive.google.com/drive/folders/1aS0M6QPvnldf-AkgB7X7rbFcXByWmwAQ?usp=sharing) in the path `drive/MyDrive/NLP/project` (or load into Colab only the `dataframe.csv` and change the load path)
+4. Models
+   - Neural Network models, based on Bi-LSTM
+   - Machine Learning models: Linear Regressor, Decision Tree Regressor, Random Forest Regressor, Support Vector Regressor
 
-## Salvare il file su GitHub con commit:
-Su Colab selezionare File -> Save a copy in GitHub e selezionare la branch corretta (se non si sta lavorando su main). Cambiare il "commit message" e premere OK
 
-# Struttura base
-1. Scaricare dataset (kialo, reddit, twitter)
-   - scaricare impatto
-2. Pre-processing dataset
-3. Model
-   - Regressione, dato intervento, predirre impatto 
-   - Classificazione, dato intervento, maggior votazione
-
-## Estensioni
-3. - Attention a livello di commento, sopra e sotto, intero ramo...
-   - tree-lstm
-   - svm
-   - graph nn
-
-# Link utili
-- https://towardsdatascience.com/predicting-reddit-comment-karma-a8f570b544fc
-- https://docs.dgl.ai/en/0.6.x/tutorials/models/2_small_graph/3_tree-lstm.html
-- https://arxiv.org/pdf/1901.00066.pdf
-- https://www.researchgate.net/publication/309039730_Prediction_of_Rating_from_Comments_based_on_Information_Retrieval_and_Sentiment_Analysis
